@@ -19,7 +19,10 @@ TABLE_HEADER = "| Company | OA Question | Practice | Updated |"
 TABLE_DIVIDER = "| :-- | :-- | :-: | :-- |"
 BOTTOM_ANCHOR = '<a id="bottom"></a>'
 PROBLEM_URL = "https://www.fastprep.io/problems/"
-PRACTICE_BUTTON = "[![Practice](assets/practice-button.svg)]"
+PRACTICE_BUTTON = "[![Practice][p]]"
+# GitHub truncates rendered README input at 512,000 bytes. Keep enough margin
+# for routine table additions between maintenance passes.
+README_MAX_BYTES = 480_000
 MONTHS = {m: i + 1 for i, m in enumerate(
     ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"])}
 CELL = re.compile(r"^(?P<head>\|.*\| )(?:🔥 |🆕 )?(?P<mon>[A-Z][a-z]{2}) (?P<day>\d{2}), (?P<year>\d{4}) \|$")
@@ -76,5 +79,16 @@ moved = sum(
 for target_index, row in zip(target_indexes, sorted_lines):
     lines[target_index] = row
 
-README.write_text("\n".join(lines) + "\n", encoding="utf-8")
-print(f"refreshed markers on {changed} row(s); reordered {moved} row position(s)")
+content = "\n".join(lines) + "\n"
+readme_bytes = len(content.encode("utf-8"))
+if readme_bytes > README_MAX_BYTES:
+    sys.exit(
+        f"README is {readme_bytes:,} bytes; keep it at or below "
+        f"{README_MAX_BYTES:,} bytes to avoid GitHub's rendered README cutoff"
+    )
+
+README.write_text(content, encoding="utf-8")
+print(
+    f"refreshed markers on {changed} row(s); reordered {moved} row position(s); "
+    f"README is {readme_bytes:,} bytes"
+)
