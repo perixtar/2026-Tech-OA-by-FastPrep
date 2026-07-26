@@ -18,6 +18,8 @@ FIRE_DAYS, NEW_DAYS = 14, 45
 TABLE_HEADER = "| Company | OA Question | Practice | Updated |"
 TABLE_DIVIDER = "| :-- | :-- | :-: | :-- |"
 BOTTOM_ANCHOR = '<a id="bottom"></a>'
+PROBLEM_URL = "https://www.fastprep.io/problems/"
+PRACTICE_BUTTON = "[![Practice](assets/practice-button.svg)]"
 MONTHS = {m: i + 1 for i, m in enumerate(
     ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"])}
 CELL = re.compile(r"^(?P<head>\|.*\| )(?:🔥 |🆕 )?(?P<mon>[A-Z][a-z]{2}) (?P<day>\d{2}), (?P<year>\d{4}) \|$")
@@ -41,12 +43,19 @@ if bottom_index == header_index + 2:
 
 for i in range(header_index + 2, bottom_index):
     line = lines[i]
-    if "fastprep.io/problems" not in line:
-        sys.exit(f"row {i + 1} is not a FastPrep question row: {line[:120]}")
+    if (
+        line.count("|") != 5
+        or line.count(PROBLEM_URL) != 2
+        or line.count(PRACTICE_BUTTON) != 1
+    ):
+        sys.exit(f"row {i + 1} is malformed: {line[:120]}")
     m = CELL.match(line)
     if not m:
         sys.exit(f"row {i + 1} does not match the expected format: {line[:120]}")
-    updated = date(int(m["year"]), MONTHS[m["mon"]], int(m["day"]))
+    try:
+        updated = date(int(m["year"]), MONTHS[m["mon"]], int(m["day"]))
+    except ValueError as error:
+        sys.exit(f"row {i + 1} has an invalid update date: {error}")
     if updated > today:
         sys.exit(f"row {i + 1} has a future update date: {updated.isoformat()}")
     age = (today - updated).days
