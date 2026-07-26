@@ -15,6 +15,9 @@ from pathlib import Path
 
 README = Path(__file__).resolve().parent.parent / "README.md"
 FIRE_DAYS, NEW_DAYS = 14, 45
+TABLE_HEADER = "| Company | OA Question | Practice | Updated |"
+TABLE_DIVIDER = "| :-- | :-- | :-: | :-- |"
+BOTTOM_ANCHOR = '<a id="bottom"></a>'
 MONTHS = {m: i + 1 for i, m in enumerate(
     ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"])}
 CELL = re.compile(r"^(?P<head>\|.*\| )(?:🔥 |🆕 )?(?P<mon>[A-Z][a-z]{2}) (?P<day>\d{2}), (?P<year>\d{4}) \|$")
@@ -23,21 +26,36 @@ today = date.today()
 changed = 0
 question_rows = []
 lines = README.read_text(encoding="utf-8").splitlines()
-for i, line in enumerate(lines):
+try:
+    header_index = lines.index(TABLE_HEADER)
+except ValueError:
+    sys.exit("question table header not found")
+if header_index + 1 >= len(lines) or lines[header_index + 1] != TABLE_DIVIDER:
+    sys.exit("question table divider is missing or malformed")
+try:
+    bottom_index = lines.index(BOTTOM_ANCHOR, header_index + 2)
+except ValueError:
+    sys.exit("question table bottom anchor not found")
+if bottom_index == header_index + 2:
+    sys.exit("question table has no rows")
+
+for i in range(header_index + 2, bottom_index):
+    line = lines[i]
     if "fastprep.io/problems" not in line:
-        continue
+        sys.exit(f"row {i + 1} is not a FastPrep question row: {line[:120]}")
     m = CELL.match(line)
     if not m:
         sys.exit(f"row {i + 1} does not match the expected format: {line[:120]}")
-    age = (today - date(int(m["year"]), MONTHS[m["mon"]], int(m["day"]))).days
+    updated = date(int(m["year"]), MONTHS[m["mon"]], int(m["day"]))
+    if updated > today:
+        sys.exit(f"row {i + 1} has a future update date: {updated.isoformat()}")
+    age = (today - updated).days
     mark = "🔥 " if age <= FIRE_DAYS else ("🆕 " if age <= NEW_DAYS else "")
     new = f"{m['head']}{mark}{m['mon']} {m['day']}, {m['year']} |"
     if new != line:
         lines[i] = new
         changed += 1
-    question_rows.append(
-        (i, date(int(m["year"]), MONTHS[m["mon"]], int(m["day"])), new)
-    )
+    question_rows.append((i, updated, new))
 
 sorted_rows = sorted(question_rows, key=lambda row: row[1], reverse=True)
 target_indexes = [index for index, _, _ in question_rows]
