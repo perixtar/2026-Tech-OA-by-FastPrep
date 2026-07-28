@@ -15,7 +15,7 @@ from pathlib import Path
 
 README = Path(__file__).resolve().parent.parent / "README.md"
 FIRE_DAYS, NEW_DAYS = 14, 45
-TABLE_HEADER = "| Company | OA Question | Practice | Updated |"
+TABLE_HEADER = "| Company | OA / Interview Question | Practice | Updated |"
 TABLE_DIVIDER = "| :-- | :-- | :-: | :-- |"
 BOTTOM_ANCHOR = '<a id="bottom"></a>'
 PROBLEM_URL = "https://www.fastprep.io/problems/"
