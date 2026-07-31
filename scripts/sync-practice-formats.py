@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Sync README practice-format labels from FastPrep's public problem catalog.
+"""Sync README format labels and filtered format pages from FastPrep's catalog.
 
 The production Firestore ``problem.practiceFormat`` field is the source of
 truth. The anonymous catalog API exposes its public projection and applies the
@@ -25,15 +25,22 @@ from pathlib import Path
 from urllib.error import HTTPError, URLError
 from urllib.request import Request, urlopen
 
-README = Path(__file__).resolve().parent.parent / "README.md"
+ROOT = Path(__file__).resolve().parent.parent
+README = ROOT / "README.md"
+FORMATS_DIR = ROOT / "formats"
 CATALOG_URL = "https://www.fastprep.io/api/problems?v=1"
 OLD_TABLE_HEADER = "| Company | OA / Interview Question | Practice | Updated |"
-TABLE_HEADER = (
+LEGACY_TABLE_HEADER = (
     "| Company | OA / Interview Question | Practice format | Practice | Updated |"
+)
+TABLE_HEADER = (
+    "| Company | OA / Interview Question | Format | Practice | Updated |"
 )
 OLD_TABLE_DIVIDER = "| :-- | :-- | :-: | :-- |"
 TABLE_DIVIDER = "| :-- | :-- | :-- | :-: | :-- |"
 BOTTOM_ANCHOR = '<a id="bottom"></a>'
+FORMAT_LINKS_START = "<!-- format-links:start -->"
+FORMAT_LINKS_END = "<!-- format-links:end -->"
 
 FORMAT_LABELS = {
     "algorithm": "Coding",
@@ -43,6 +50,13 @@ FORMAT_LABELS = {
     "project_coding": "AI coding",
 }
 KNOWN_LABELS = {*FORMAT_LABELS.values(), "Unknown"}
+FORMAT_PAGE_SLUGS = {
+    "Coding": "coding",
+    "SQL": "sql",
+    "System design": "system-design",
+    "Low-level design": "low-level-design",
+    "AI coding": "ai-coding",
+}
 ROUTE_PREFIXES = {
     "https://www.fastprep.io/problems/": "Coding",
     "https://www.fastprep.io/system-design/": "System design",
@@ -140,10 +154,14 @@ def sync_readme(
         has_format_column = True
     except ValueError:
         try:
-            header_index = lines.index(OLD_TABLE_HEADER)
-            has_format_column = False
-        except ValueError as error:
-            raise ValueError("question table header not found") from error
+            header_index = lines.index(LEGACY_TABLE_HEADER)
+            has_format_column = True
+        except ValueError:
+            try:
+                header_index = lines.index(OLD_TABLE_HEADER)
+                has_format_column = False
+            except ValueError as error:
+                raise ValueError("question table header not found") from error
 
     expected_divider = TABLE_DIVIDER if has_format_column else OLD_TABLE_DIVIDER
     if header_index + 1 >= len(lines) or lines[header_index + 1] != expected_divider:
@@ -188,17 +206,93 @@ def sync_readme(
     return "\n".join(lines) + "\n", counts, catalog_missing
 
 
+def format_labels_in_display_order(counts: Counter) -> list[str]:
+    return [
+        label
+        for label in FORMAT_PAGE_SLUGS
+        if counts[label] > 0
+    ]
+
+
+def sync_format_links(content: str, counts: Counter) -> str:
+    lines = content.splitlines()
+    try:
+        start = lines.index(FORMAT_LINKS_START)
+        end = lines.index(FORMAT_LINKS_END, start + 1)
+    except ValueError as error:
+        raise ValueError("format-link boundary is missing") from error
+    if end != start + 2:
+        raise ValueError("format-link boundary must contain exactly one content line")
+
+    links = [
+        f"[{label} ({counts[label]:,})](formats/{FORMAT_PAGE_SLUGS[label]}.md)"
+        for label in format_labels_in_display_order(counts)
+    ]
+    if not links:
+        raise ValueError("question table has no supported formats")
+    lines[start + 1] = "<sub><b>Formats:</b> " + " · ".join(links) + "</sub>"
+    return "\n".join(lines) + "\n"
+
+
+def render_format_pages(content: str, counts: Counter) -> dict[Path, str]:
+    lines = content.splitlines()
+    try:
+        header_index = lines.index(TABLE_HEADER)
+        bottom_index = lines.index(BOTTOM_ANCHOR, header_index + 2)
+    except ValueError as error:
+        raise ValueError("question table boundary is missing") from error
+
+    rows_by_label: dict[str, list[str]] = {
+        label: [] for label in format_labels_in_display_order(counts)
+    }
+    for line_index in range(header_index + 2, bottom_index):
+        parts = lines[line_index].split("|")
+        if len(parts) != 7 or parts[0] or parts[-1]:
+            raise ValueError(f"row {line_index + 1} is malformed")
+        label = parts[3].strip()
+        if label not in rows_by_label:
+            raise ValueError(
+                f"row {line_index + 1} has no generated page for format {label!r}"
+            )
+        rows_by_label[label].append("|".join(parts[:3] + parts[4:]))
+
+    pages: dict[Path, str] = {}
+    for label in format_labels_in_display_order(counts):
+        rows = rows_by_label[label]
+        if len(rows) != counts[label]:
+            raise ValueError(f"{label} page count does not match the README table")
+        slug = FORMAT_PAGE_SLUGS[label]
+        pages[FORMATS_DIR / f"{slug}.md"] = (
+            f"# {label} OA & Interview Questions\n\n"
+            "[← Back to all questions](../README.md#question-bank)\n\n"
+            f"**{len(rows):,} questions**\n\n"
+            "[p]: ../assets/practice-button.svg\n\n"
+            "| Company | OA / Interview Question | Practice | Updated |\n"
+            "| :-- | :-- | :-: | :-- |\n"
+            + "\n".join(rows)
+            + "\n"
+        )
+    return pages
+
+
 def main() -> int:
     args = parse_args()
     try:
         formats = build_format_index(load_catalog(args.catalog_file))
         original = README.read_text(encoding="utf-8")
         updated, counts, catalog_missing = sync_readme(original, formats)
+        updated = sync_format_links(updated, counts)
+        format_pages = render_format_pages(updated, counts)
     except (OSError, ValueError) as error:
         print(f"practice-format sync failed: {error}", file=sys.stderr)
         return 2
 
     changed = updated != original
+    stale_pages = [
+        page
+        for page, expected in format_pages.items()
+        if not page.exists() or page.read_text(encoding="utf-8") != expected
+    ]
     unknown = counts["Unknown"]
     summary = ", ".join(f"{label}={counts[label]}" for label in sorted(counts))
     print(
@@ -213,16 +307,31 @@ def main() -> int:
         return 2
 
     if args.check:
-        if changed:
-            print("README practice formats are not current", file=sys.stderr)
+        if changed or stale_pages:
+            if changed:
+                print("README formats are not current", file=sys.stderr)
+            if stale_pages:
+                print(
+                    "format pages are not current: "
+                    + ", ".join(str(page.relative_to(ROOT)) for page in stale_pages),
+                    file=sys.stderr,
+                )
             return 1
         return 0
 
     if changed:
         README.write_text(updated, encoding="utf-8")
-        print("updated README practice-format column")
+        print("updated README format column and links")
     else:
-        print("README practice-format column already current")
+        print("README format column and links already current")
+    FORMATS_DIR.mkdir(exist_ok=True)
+    for page, expected in format_pages.items():
+        page.write_text(expected, encoding="utf-8")
+    if stale_pages:
+        print(
+            "updated format pages: "
+            + ", ".join(str(page.relative_to(ROOT)) for page in stale_pages)
+        )
     return 0
 
 

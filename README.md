@@ -112,11 +112,13 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 
 <sub>Newest updates first &nbsp;·&nbsp; 🔥 added in the last 2 weeks &nbsp;·&nbsp; 🆕 in the last 45 days</sub>
 
-<sub><b>Practice format</b> reflects FastPrep's practice experience, not an official employer assessment specification. Current public metadata is authoritative; legacy <code>/problems/</code> routes without catalog metadata use the coding workspace's <b>Coding</b> fallback.</sub>
+<!-- format-links:start -->
+<sub><b>Formats:</b> [Coding (1,644)](formats/coding.md) · [SQL (2)](formats/sql.md)</sub>
+<!-- format-links:end -->
 
 [p]: assets/practice-button.svg
 
-| Company | OA / Interview Question | Practice format | Practice | Updated |
+| Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
 | <img src="https://www.google.com/s2/favicons?domain=oracle.com&sz=16"> **Oracle** | [Best Time to Buy and Sell Stock](https://www.fastprep.io/problems/oracle-best-time-to-buy-and-sell-stock) | Coding | [![Practice][p]](https://www.fastprep.io/problems/oracle-best-time-to-buy-and-sell-stock) | 🔥 Jul 30, 2026 |
 | <img src="https://www.google.com/s2/favicons?domain=ibm.com&sz=16"> **IBM** | [String-Pair Frequency Similarity](https://www.fastprep.io/problems/ibm-string-pair-frequency-similarity) | Coding | [![Practice][p]](https://www.fastprep.io/problems/ibm-string-pair-frequency-similarity) | 🔥 Jul 30, 2026 |

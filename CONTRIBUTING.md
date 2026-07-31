@@ -22,11 +22,10 @@ When opening an issue, include:
 - Source context, such as public post, candidate report, or your own anonymized experience.
 - FastPrep problem link if one already exists.
 
-Practice format is maintained from FastPrep's public problem metadata. Explicit
-metadata wins; legacy `/problems/` routes that predate the public catalog use
-the coding workspace's `Coding` fallback. Please do not guess a format from a
-title or company; maintainers run `python3 scripts/sync-practice-formats.py`
-after updating the question table.
+The **Format** column and format-specific pages are maintained from FastPrep's
+public problem metadata. Explicit metadata wins; legacy `/problems/` routes
+that predate the public catalog use the coding workspace's `Coding` fallback.
+Please do not guess a format from a title or company.
 
 Please do not submit confidential screenshots, private recruiter messages, account-only assessment pages, or full proprietary problem statements. A short summary is enough for maintainers to verify the report and create a practice-safe entry.
 
@@ -34,9 +33,14 @@ Please do not submit confidential screenshots, private recruiter messages, accou
 
 Maintainers check whether the report is specific, plausible, and safe to
 publish. Once verified, the README table should be updated with the company,
-question link, practice link, and update date. Then sync the practice-format
-column from the public FastPrep catalog and run
-`python3 scripts/refresh-freshness.py`.
+question link, practice link, and update date. Then refresh dates and regenerate
+the Format column, links, and filtered pages:
+
+```bash
+python3 scripts/refresh-freshness.py
+python3 scripts/sync-practice-formats.py
+python3 scripts/sync-practice-formats.py --check
+```
 
 Prefer one issue per company/question so each report can be tracked independently.
 

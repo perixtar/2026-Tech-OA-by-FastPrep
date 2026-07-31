@@ -7,6 +7,7 @@ Run this whenever the table is regenerated or on a schedule so ordering and
 markers stay current:
 
     python3 scripts/refresh-freshness.py
+    python3 scripts/sync-practice-formats.py
 """
 import re
 import sys
@@ -15,7 +16,7 @@ from pathlib import Path
 
 README = Path(__file__).resolve().parent.parent / "README.md"
 FIRE_DAYS, NEW_DAYS = 14, 45
-TABLE_HEADER = "| Company | OA / Interview Question | Practice format | Practice | Updated |"
+TABLE_HEADER = "| Company | OA / Interview Question | Format | Practice | Updated |"
 TABLE_DIVIDER = "| :-- | :-- | :-- | :-: | :-- |"
 BOTTOM_ANCHOR = '<a id="bottom"></a>'
 PROBLEM_URL = "https://www.fastprep.io/problems/"
