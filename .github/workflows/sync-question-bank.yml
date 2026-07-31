@@ -1,0 +1,44 @@
+name: Sync FastPrep question bank
+
+on:
+  schedule:
+    - cron: "17 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-fastprep-question-bank
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v4
+
+      - name: Refresh dates and public catalogs
+        run: |
+          python3 scripts/refresh-freshness.py
+          python3 scripts/sync-practice-formats.py
+
+      - name: Verify generated output
+        run: |
+          PYTHONDONTWRITEBYTECODE=1 python3 -m unittest scripts/test_sync_practice_formats.py
+          python3 scripts/sync-practice-formats.py --check
+          git diff --check
+
+      - name: Commit catalog changes
+        shell: bash
+        run: |
+          if git diff --quiet -- README.md formats; then
+            echo "Question bank is already current."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md formats
+          git commit -m "Sync FastPrep question bank"
+          git push origin HEAD:master

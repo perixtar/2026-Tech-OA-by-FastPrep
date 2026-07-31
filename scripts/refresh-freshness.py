@@ -9,6 +9,7 @@ markers stay current:
     python3 scripts/refresh-freshness.py
     python3 scripts/sync-practice-formats.py
 """
+
 import re
 import sys
 from datetime import date
@@ -19,14 +20,36 @@ FIRE_DAYS, NEW_DAYS = 14, 45
 TABLE_HEADER = "| Company | OA / Interview Question | Format | Practice | Updated |"
 TABLE_DIVIDER = "| :-- | :-- | :-- | :-: | :-- |"
 BOTTOM_ANCHOR = '<a id="bottom"></a>'
-PROBLEM_URL = "https://www.fastprep.io/problems/"
 PRACTICE_BUTTON = "[![Practice][p]]"
+PRACTICE_URL = re.compile(
+    r"https://www\.fastprep\.io/"
+    r"(?:problems|system-design|low-level-design|project-coding)/[^)\s]+"
+)
 # GitHub truncates rendered README input at 512,000 bytes. Keep enough margin
 # for routine table additions between maintenance passes.
 README_MAX_BYTES = 500_000
-MONTHS = {m: i + 1 for i, m in enumerate(
-    ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"])}
-CELL = re.compile(r"^(?P<head>\|.*\| )(?:🔥 |🆕 )?(?P<mon>[A-Z][a-z]{2}) (?P<day>\d{2}), (?P<year>\d{4}) \|$")
+MONTHS = {
+    m: i + 1
+    for i, m in enumerate(
+        [
+            "Jan",
+            "Feb",
+            "Mar",
+            "Apr",
+            "May",
+            "Jun",
+            "Jul",
+            "Aug",
+            "Sep",
+            "Oct",
+            "Nov",
+            "Dec",
+        ]
+    )
+}
+CELL = re.compile(
+    r"^(?P<head>\|.*\| )(?:🔥 |🆕 )?(?P<mon>[A-Z][a-z]{2}) (?P<day>\d{2}), (?P<year>\d{4}) \|$"
+)
 
 today = date.today()
 changed = 0
@@ -47,9 +70,10 @@ if bottom_index == header_index + 2:
 
 for i in range(header_index + 2, bottom_index):
     line = lines[i]
+    practice_urls = PRACTICE_URL.findall(line)
     if (
         line.count("|") != 6
-        or line.count(PROBLEM_URL) != 2
+        or len(practice_urls) != 2
         or line.count(PRACTICE_BUTTON) != 1
     ):
         sys.exit(f"row {i + 1} is malformed: {line[:120]}")

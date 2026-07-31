@@ -23,9 +23,11 @@ When opening an issue, include:
 - FastPrep problem link if one already exists.
 
 The **Format** column and format-specific pages are maintained from FastPrep's
-public problem metadata. Explicit metadata wins; legacy `/problems/` routes
-that predate the public catalog use the coding workspace's `Coding` fallback.
-Please do not guess a format from a title or company.
+public, candidate-safe catalogs. System design, low-level design/OOD, and AI
+coding catalog entries are reconciled into the table automatically every hour.
+Explicit metadata wins; legacy `/problems/` routes that predate the public
+catalog use the coding workspace's `Coding` fallback. Please do not guess a
+format from a title or company.
 
 Please do not submit confidential screenshots, private recruiter messages, account-only assessment pages, or full proprietary problem statements. A short summary is enough for maintainers to verify the report and create a practice-safe entry.
 
@@ -41,6 +43,10 @@ python3 scripts/refresh-freshness.py
 python3 scripts/sync-practice-formats.py
 python3 scripts/sync-practice-formats.py --check
 ```
+
+The catalog sync uses only public fields such as route, title, company, sighting
+date, and practice format. It does not export source URLs, answers, evaluator
+content, or restricted assessment material.
 
 Prefer one issue per company/question so each report can be tracked independently.
 

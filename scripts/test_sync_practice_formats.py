@@ -4,6 +4,7 @@
 import importlib.util
 import unittest
 from collections import Counter
+from datetime import date
 from pathlib import Path
 
 
@@ -56,6 +57,23 @@ def readme_with_formats() -> str:
     )
 
 
+def managed_item(
+    practice_format: str,
+    route: str,
+    title: str,
+    companies: list[str],
+    last_seen: list[str],
+) -> dict:
+    return {
+        "practiceFormat": practice_format,
+        "id": route,
+        "href": f"/{sync.MANAGED_CATALOGS[practice_format].route_segment}/{route}",
+        "title": title,
+        "companies": companies,
+        "lastSeen": last_seen,
+    }
+
+
 class SyncPracticeFormatsTest(unittest.TestCase):
     def test_missing_catalog_entry_uses_coding_route_fallback(self) -> None:
         updated, counts, catalog_missing = sync.sync_readme(
@@ -106,8 +124,158 @@ class SyncPracticeFormatsTest(unittest.TestCase):
         self.assertNotIn("sql-one", coding)
         self.assertIn("sql-one", sql)
         self.assertNotIn("coding-one", sql)
-        self.assertIn("| Company | OA / Interview Question | Practice | Updated |", coding)
+        self.assertIn(
+            "| Company | OA / Interview Question | Practice | Updated |", coding
+        )
         self.assertNotIn("| Format |", coding)
+
+    def test_managed_catalogs_add_design_and_ai_coding_rows(self) -> None:
+        catalogs = {
+            "system_design": [
+                managed_item(
+                    "system_design",
+                    "design-feed",
+                    "Design a Feed",
+                    ["Meta"],
+                    ["2026-07-28"],
+                )
+            ],
+            "low_level_design": [
+                managed_item(
+                    "low_level_design",
+                    "design-parking-lot",
+                    "Design a Parking Lot",
+                    ["Amazon"],
+                    ["2026-07-27"],
+                )
+            ],
+            "project_coding": [
+                managed_item(
+                    "project_coding",
+                    "repair-api",
+                    "Repair an API",
+                    ["Anthropic"],
+                    ["2026-07-26"],
+                )
+            ],
+        }
+        managed_rows = sync.build_managed_rows(catalogs)
+
+        updated, counts, _ = sync.sync_readme(
+            readme_with_formats(),
+            {"coding-one": "Coding", "sql-one": "SQL"},
+            managed_rows=managed_rows,
+            sync_date=date(2026, 7, 31),
+        )
+
+        self.assertIn("https://www.fastprep.io/system-design/design-feed", updated)
+        self.assertIn(
+            "https://www.fastprep.io/low-level-design/design-parking-lot", updated
+        )
+        self.assertIn("https://www.fastprep.io/project-coding/repair-api", updated)
+        self.assertEqual(counts["System design"], 1)
+        self.assertEqual(counts["Low-level design"], 1)
+        self.assertEqual(counts["AI coding"], 1)
+
+    def test_missing_public_attribution_uses_factual_fallbacks(self) -> None:
+        managed_rows = sync.build_managed_rows(
+            {
+                "system_design": [
+                    managed_item(
+                        "system_design",
+                        "general-design",
+                        "General Design Exercise",
+                        [],
+                        [],
+                    )
+                ]
+            }
+        )
+
+        updated, _, _ = sync.sync_readme(
+            readme_with_formats(),
+            {"coding-one": "Coding", "sql-one": "SQL"},
+            managed_rows=managed_rows,
+            sync_date=date(2026, 7, 31),
+        )
+
+        self.assertIn("| **Unattributed** |", updated)
+        self.assertIn("| 🔥 Jul 31, 2026 |", updated)
+
+    def test_missing_sighting_date_preserves_the_first_sync_date(self) -> None:
+        content = readme_row("general-design", "System design").replace(
+            "/problems/", "/system-design/"
+        )
+        managed_rows = sync.build_managed_rows(
+            {
+                "system_design": [
+                    managed_item(
+                        "system_design",
+                        "general-design",
+                        "General Design Exercise",
+                        [],
+                        [],
+                    )
+                ]
+            }
+        )
+
+        updated, counts, _ = sync.sync_readme(
+            content,
+            {},
+            managed_rows=managed_rows,
+            sync_date=date(2026, 7, 31),
+        )
+
+        self.assertEqual(updated.count("/system-design/general-design"), 2)
+        self.assertIn("| Jan 01, 2026 |", updated)
+        self.assertEqual(counts["System design"], 1)
+
+    def test_sync_compacts_favicons_to_keep_the_readme_renderable(self) -> None:
+        content = readme_row("coding-one", "Coding").replace(
+            "| Example |",
+            (
+                '| <img src="https://www.google.com/s2/favicons?domain=example.com&sz=16"> '
+                "**Example** |"
+            ),
+        )
+
+        updated, _, _ = sync.sync_readme(content, {"coding-one": "Coding"})
+
+        self.assertIn("| **Example** |", updated)
+        self.assertNotIn("<img", updated)
+
+    def test_managed_catalog_companies_are_added_to_company_list(self) -> None:
+        content = "\n".join(
+            [
+                "… + 99 more companies in the table below ↓",
+                "<details>",
+                "<summary><b>🏢 Full company list (2+) — click to expand</b></summary>",
+                "<br/>",
+                "Amazon, Meta.",
+                "</details>",
+                "",
+            ]
+        )
+        managed_rows = sync.build_managed_rows(
+            {
+                "system_design": [
+                    managed_item(
+                        "system_design",
+                        "design-feed",
+                        "Design a Feed",
+                        ["Meta", "New Company"],
+                        ["2026-07-28"],
+                    )
+                ]
+            }
+        )
+
+        updated = sync.sync_company_list(content, managed_rows)
+
+        self.assertIn("Full company list (3+)", updated)
+        self.assertIn("Amazon, Meta, New Company.", updated)
+        self.assertIn("… + 0 more companies in the table below ↓", updated)
 
 
 if __name__ == "__main__":
