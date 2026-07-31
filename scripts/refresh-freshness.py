@@ -15,14 +15,14 @@ from pathlib import Path
 
 README = Path(__file__).resolve().parent.parent / "README.md"
 FIRE_DAYS, NEW_DAYS = 14, 45
-TABLE_HEADER = "| Company | OA / Interview Question | Practice | Updated |"
-TABLE_DIVIDER = "| :-- | :-- | :-: | :-- |"
+TABLE_HEADER = "| Company | OA / Interview Question | Practice format | Practice | Updated |"
+TABLE_DIVIDER = "| :-- | :-- | :-- | :-: | :-- |"
 BOTTOM_ANCHOR = '<a id="bottom"></a>'
 PROBLEM_URL = "https://www.fastprep.io/problems/"
 PRACTICE_BUTTON = "[![Practice][p]]"
 # GitHub truncates rendered README input at 512,000 bytes. Keep enough margin
 # for routine table additions between maintenance passes.
-README_MAX_BYTES = 480_000
+README_MAX_BYTES = 500_000
 MONTHS = {m: i + 1 for i, m in enumerate(
     ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"])}
 CELL = re.compile(r"^(?P<head>\|.*\| )(?:🔥 |🆕 )?(?P<mon>[A-Z][a-z]{2}) (?P<day>\d{2}), (?P<year>\d{4}) \|$")
@@ -47,7 +47,7 @@ if bottom_index == header_index + 2:
 for i in range(header_index + 2, bottom_index):
     line = lines[i]
     if (
-        line.count("|") != 5
+        line.count("|") != 6
         or line.count(PROBLEM_URL) != 2
         or line.count(PRACTICE_BUTTON) != 1
     ):
