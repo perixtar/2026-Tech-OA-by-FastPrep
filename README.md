@@ -14,7 +14,7 @@
 
 [![Last update](https://img.shields.io/github/last-commit/perixtar/2026-Tech-OA-by-FastPrep/master?style=for-the-badge&label=LAST%20UPDATE&color=00C853)](https://github.com/perixtar/2026-Tech-OA-by-FastPrep/commits/master)
 [![GitHub stars](https://img.shields.io/github/stars/perixtar/2026-Tech-OA-by-FastPrep?style=for-the-badge&logo=github&color=FFB300&label=STARS)](https://github.com/perixtar/2026-Tech-OA-by-FastPrep/stargazers)
-[![Question bank](https://img.shields.io/badge/QUESTION%20BANK-1%2C400%2B-FF6D00?style=for-the-badge)](https://www.fastprep.io)
+[![Question bank](https://img.shields.io/badge/QUESTION%20BANK-1%2C600%2B-FF6D00?style=for-the-badge)](https://www.fastprep.io)
 [![Companies](https://img.shields.io/badge/COMPANIES-160%2B-2962FF?style=for-the-badge)](#coverage)
 [![Discord](https://img.shields.io/badge/DISCORD-JOIN%20US-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/kSbWpSGUTH)
 
@@ -26,7 +26,7 @@
 
 ```console
 $ fastprep sync --season 2026
-[✓] indexed   1,300+ real OA & interview questions on this board
+[✓] indexed   1,600+ real OA & interview questions on this board
 [✓] tracked   160+ companies · Accenture → Zscaler
 [✓] cadence   updated multiple times a week
 [→] pro tip   hit ⭐ Star + 👁 Watch above to catch every new drop
@@ -54,16 +54,16 @@ $ fastprep sync --season 2026
 ```text
 top tracked companies ──────────── snapshot · Jul 2026 ──
 
-Amazon       ██████████████████████ 347
-IBM          █████ 81
-Google       █████ 78
-TikTok       ████ 64
-Microsoft    ███ 55
-Uber         ███ 48
-Salesforce   ███ 42
-Snowflake    ███ 40
-JP Morgan    ██ 32
-Cisco        ██ 31
+Amazon       ██████████████████████ 369
+Google       ██████ 99
+IBM          █████ 83
+TikTok       ████ 74
+Microsoft    ████ 64
+Salesforce   ███ 51
+Uber         ███ 51
+Snowflake    ██ 41
+JP Morgan    ██ 33
+Cisco        ██ 32
 
 … + 150 more companies in the table below ↓
 ```
@@ -116,6 +116,26 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+| <img src="https://www.google.com/s2/favicons?domain=oracle.com&sz=16"> **Oracle** | [Best Time to Buy and Sell Stock](https://www.fastprep.io/problems/oracle-best-time-to-buy-and-sell-stock) | [![Practice][p]](https://www.fastprep.io/problems/oracle-best-time-to-buy-and-sell-stock) | 🔥 Jul 30, 2026 |
+| <img src="https://www.google.com/s2/favicons?domain=ibm.com&sz=16"> **IBM** | [String-Pair Frequency Similarity](https://www.fastprep.io/problems/ibm-string-pair-frequency-similarity) | [![Practice][p]](https://www.fastprep.io/problems/ibm-string-pair-frequency-similarity) | 🔥 Jul 30, 2026 |
+| <img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=16"> **Reddit** | [Chatter Message Window](https://www.fastprep.io/problems/reddit-chatter-message-window) | [![Practice][p]](https://www.fastprep.io/problems/reddit-chatter-message-window) | 🔥 Jul 29, 2026 |
+| <img src="https://www.google.com/s2/favicons?domain=amazon.com&sz=16"> **Amazon** | [Count the Number of Complete Components](https://www.fastprep.io/problems/amazon-count-complete-components) | [![Practice][p]](https://www.fastprep.io/problems/amazon-count-complete-components) | 🔥 Jul 29, 2026 |
+| <img src="https://www.google.com/s2/favicons?domain=amazon.com&sz=16"> **Amazon** | [Cousins in Binary Tree II](https://www.fastprep.io/problems/amazon-cousins-in-binary-tree-ii) | [![Practice][p]](https://www.fastprep.io/problems/amazon-cousins-in-binary-tree-ii) | 🔥 Jul 29, 2026 |
+| <img src="https://www.google.com/s2/favicons?domain=salesforce.com&sz=16"> **Salesforce** | [Diameter of an Acyclic Undirected Graph](https://www.fastprep.io/problems/salesforce-tree-diameter) | [![Practice][p]](https://www.fastprep.io/problems/salesforce-tree-diameter) | 🔥 Jul 29, 2026 |
+| <img src="https://www.google.com/s2/favicons?domain=squarepoint-capital.com&sz=16"> **Squarepoint** | [Evaluating Circuit Expressions](https://www.fastprep.io/problems/squarepoint-evaluating-circuit-expressions) | [![Practice][p]](https://www.fastprep.io/problems/squarepoint-evaluating-circuit-expressions) | 🔥 Jul 29, 2026 |
+| <img src="https://www.google.com/s2/favicons?domain=rippling.com&sz=16"> **Rippling** | [Filter and Sort Scheduled Tasks](https://www.fastprep.io/problems/rippling-filter-and-sort-scheduled-tasks) | [![Practice][p]](https://www.fastprep.io/problems/rippling-filter-and-sort-scheduled-tasks) | 🔥 Jul 29, 2026 |
+| <img src="https://www.google.com/s2/favicons?domain=google.com&sz=16"> **Google** | [Longest Subarray with Sum at Most K](https://www.fastprep.io/problems/google-longest-subarray-sum-at-most-k) | [![Practice][p]](https://www.fastprep.io/problems/google-longest-subarray-sum-at-most-k) | 🔥 Jul 29, 2026 |
+| <img src="https://www.google.com/s2/favicons?domain=google.com&sz=16"> **Google** | [Maximum Sum Path Between Two Leaf Nodes](https://www.fastprep.io/problems/google-maximum-leaf-to-leaf-path-sum) | [![Practice][p]](https://www.fastprep.io/problems/google-maximum-leaf-to-leaf-path-sum) | 🔥 Jul 29, 2026 |
+| <img src="https://www.google.com/s2/favicons?domain=amazon.com&sz=16"> **Amazon** | [Minimum Operations to Make an Array Continuous](https://www.fastprep.io/problems/amazon-minimum-operations-to-make-array-continuous) | [![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-operations-to-make-array-continuous) | 🔥 Jul 29, 2026 |
+| <img src="https://www.google.com/s2/favicons?domain=lyft.com&sz=16"> **Lyft** | [Minimum Window Substring](https://www.fastprep.io/problems/lyft-minimum-window-substring) | [![Practice][p]](https://www.fastprep.io/problems/lyft-minimum-window-substring) | 🔥 Jul 29, 2026 |
+| <img src="https://www.google.com/s2/favicons?domain=netflix.com&sz=16"> **Netflix** | [Movie Billboard Rotation](https://www.fastprep.io/problems/netflix-movie-billboard-rotation) | [![Practice][p]](https://www.fastprep.io/problems/netflix-movie-billboard-rotation) | 🔥 Jul 29, 2026 |
+| <img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=16"> **Instacart** | [Product Total With the Cheapest Promotion](https://www.fastprep.io/problems/instacart-product-total-with-cheapest-promotion) | [![Practice][p]](https://www.fastprep.io/problems/instacart-product-total-with-cheapest-promotion) | 🔥 Jul 29, 2026 |
+| <img src="https://www.google.com/s2/favicons?domain=airbnb.com&sz=16"> **Airbnb** | [Recipe Management System](https://www.fastprep.io/problems/airbnb-recipe-management-system) | [![Practice][p]](https://www.fastprep.io/problems/airbnb-recipe-management-system) | 🔥 Jul 29, 2026 |
+| <img src="https://www.google.com/s2/favicons?domain=instacart.com&sz=16"> **Instacart** | [Sort Products by Aisle With Frozen Items Last](https://www.fastprep.io/problems/instacart-sort-products-by-aisle-with-frozen-last) | [![Practice][p]](https://www.fastprep.io/problems/instacart-sort-products-by-aisle-with-frozen-last) | 🔥 Jul 29, 2026 |
+| <img src="https://www.google.com/s2/favicons?domain=rippling.com&sz=16"> **Rippling** | [Stateful Log Transform and Search](https://www.fastprep.io/problems/rippling-stateful-log-transform-and-search) | [![Practice][p]](https://www.fastprep.io/problems/rippling-stateful-log-transform-and-search) | 🔥 Jul 29, 2026 |
+| <img src="https://www.google.com/s2/favicons?domain=amazon.com&sz=16"> **Amazon** | [Vertical Order Traversal of a Binary Tree](https://www.fastprep.io/problems/amazon-vertical-order-traversal-of-binary-tree) | [![Practice][p]](https://www.fastprep.io/problems/amazon-vertical-order-traversal-of-binary-tree) | 🔥 Jul 29, 2026 |
+| <img src="https://www.google.com/s2/favicons?domain=oracle.com&sz=16"> **Oracle** | [Add One to a Number Represented as Digits](https://www.fastprep.io/problems/oracle-plus-one-digits) | [![Practice][p]](https://www.fastprep.io/problems/oracle-plus-one-digits) | 🔥 Jul 28, 2026 |
+| <img src="https://www.google.com/s2/favicons?domain=oracle.com&sz=16"> **Oracle** | [Top K Frequent Elements with Larger-Value Tie Break](https://www.fastprep.io/problems/oracle-top-k-frequent-elements) | [![Practice][p]](https://www.fastprep.io/problems/oracle-top-k-frequent-elements) | 🔥 Jul 28, 2026 |
 | <img src="https://www.google.com/s2/favicons?domain=virtu.com&sz=16"> **Virtu Financial** | [Profit Analysis](https://www.fastprep.io/problems/virtu-profit-analysis) | [![Practice][p]](https://www.fastprep.io/problems/virtu-profit-analysis) | 🔥 Jul 28, 2026 |
 | <img src="https://www.google.com/s2/favicons?domain=virtu.com&sz=16"> **Virtu Financial** | [Banking Transaction Exceptions](https://www.fastprep.io/problems/virtu-banking-transaction-exceptions) | [![Practice][p]](https://www.fastprep.io/problems/virtu-banking-transaction-exceptions) | 🔥 Jul 28, 2026 |
 | <img src="https://www.google.com/s2/favicons?domain=virtu.com&sz=16"> **Virtu Financial** | [FIX Message Reconciliation](https://www.fastprep.io/problems/virtu-fix-message-reconciliation) | [![Practice][p]](https://www.fastprep.io/problems/virtu-fix-message-reconciliation) | 🔥 Jul 28, 2026 |
