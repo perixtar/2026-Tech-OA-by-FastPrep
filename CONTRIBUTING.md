@@ -22,9 +22,11 @@ When opening an issue, include:
 - Source context, such as public post, candidate report, or your own anonymized experience.
 - FastPrep problem link if one already exists.
 
-Practice format is maintained from FastPrep's problem metadata. Please do not
-guess it from a title or company; maintainers run
-`python3 scripts/sync-practice-formats.py` after updating the question table.
+Practice format is maintained from FastPrep's public problem metadata. Explicit
+metadata wins; legacy `/problems/` routes that predate the public catalog use
+the coding workspace's `Coding` fallback. Please do not guess a format from a
+title or company; maintainers run `python3 scripts/sync-practice-formats.py`
+after updating the question table.
 
 Please do not submit confidential screenshots, private recruiter messages, account-only assessment pages, or full proprietary problem statements. A short summary is enough for maintainers to verify the report and create a practice-safe entry.
 

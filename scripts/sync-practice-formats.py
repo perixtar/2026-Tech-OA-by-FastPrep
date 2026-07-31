@@ -4,7 +4,9 @@
 The production Firestore ``problem.practiceFormat`` field is the source of
 truth. The anonymous catalog API exposes its public projection and applies the
 application's backward-compatible default: a coding problem without the field
-is an algorithm problem.
+is an algorithm problem. Legacy ``/problems/`` routes that predate the public
+catalog use the same coding-route fallback; explicit catalog metadata always
+wins, including for SQL problems.
 
 Run after adding or updating question-bank rows:
 
@@ -42,7 +44,7 @@ FORMAT_LABELS = {
 }
 KNOWN_LABELS = {*FORMAT_LABELS.values(), "Unknown"}
 ROUTE_PREFIXES = {
-    "https://www.fastprep.io/problems/": None,
+    "https://www.fastprep.io/problems/": "Coding",
     "https://www.fastprep.io/system-design/": "System design",
     "https://www.fastprep.io/low-level-design/": "Low-level design",
     "https://www.fastprep.io/project-coding/": "AI coding",
@@ -113,7 +115,7 @@ def build_format_index(catalog: list[dict]) -> dict[str, str]:
     return formats
 
 
-def row_route_and_namespace(question_cell: str) -> tuple[str, str | None]:
+def row_route_and_namespace(question_cell: str) -> tuple[str, str]:
     for prefix, namespace_label in ROUTE_PREFIXES.items():
         marker = question_cell.find(prefix)
         if marker == -1:
@@ -171,10 +173,10 @@ def sync_readme(
                 f"row {line_index + 1} has unsupported practice format {existing_label!r}"
             )
 
-        label = namespace_label or formats.get(route)
-        if label is None:
+        catalog_label = formats.get(route)
+        if catalog_label is None and namespace_label == "Coding":
             catalog_missing.append(route)
-            label = existing_label or "Unknown"
+        label = catalog_label or namespace_label
 
         if has_format_column:
             parts[3] = f" {label} "
@@ -205,6 +207,10 @@ def main() -> int:
     )
     if catalog_missing:
         print("catalog-missing routes: " + ", ".join(catalog_missing))
+
+    if unknown:
+        print("practice-format sync produced an unclassified row", file=sys.stderr)
+        return 2
 
     if args.check:
         if changed:
