@@ -6,9 +6,9 @@
 <img src="assets/fastprep-logo.png" width="88" alt="FastPrep" />
 </a>
 
-# 2026 Tech Internship / Full-Time OA & Interview Questions
+# 2026 & 2027 Tech OA & Interview Questions
 
-**Real online assessments and interview questions from 160+ companies — tracked constantly, practice-ready.**
+**A community-maintained question bank for 2026 & 2027 software engineering online assessments and technical interviews, covering coding, SQL, system design, object-oriented design (OOD), and AI coding.**
 
 <br/>
 
