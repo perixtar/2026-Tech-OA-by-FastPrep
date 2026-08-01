@@ -58,21 +58,21 @@ Amazon       ██████████████████████ 
 Google       ██████ 99
 IBM          █████ 83
 TikTok       ████ 74
-Microsoft    ████ 64
+Microsoft    ████ 65
 Salesforce   ███ 51
 Uber         ███ 51
-Snowflake    ██ 41
+Snowflake    ██ 43
 JP Morgan    ██ 33
 Cisco        ██ 32
 
-… + 172 more companies in the table below ↓
+… + 175 more companies in the table below ↓
 ```
 
 <details>
-<summary><b>🏢 Full company list (182+) — click to expand</b></summary>
+<summary><b>🏢 Full company list (185+) — click to expand</b></summary>
 <br/>
 
-Accenture, Adobe, Agoda, Airbnb, Airtable, Akuna, Alarm.com, Amazon, Amperity, Anthropic, Apple, Applied Intuition, Arista Networks, Atlassian, Barclays, Baseten, Blackrock, Blinkit, Bloomberg, BNP, BNY Mellon, Boston Consulting Group, Box, Braze, Brex, ByteDance, Canva, Capillary Technologies, Capital One, Chicago Trading, Circle, Cisco, Citadel, Cloudflare, Codeium, Cohere, Coinbase, Commvault, Confluent, Cresta, Crusoe, Cursor, Cvent, Databricks, Datadog, DE Shaw, Deloitte, Deutsche Bank, Discord, Distyl AI, DoorDash, DRW, DTCC, Eat Club, Epam, Epify, Ericsson, Expedia, FactSet, Figma, Flexport, Flipkart, FluidStack, Fortinet, GE Vernova, Geico, General Motors, Geneva Trading, GitHub, Goldman Sachs, Google, Guidewire, HackerRank, Harvey, Headlands, HSBC, Hudson River Trading, Hyper Verge, IBM, IDFC, IMC, Infosys, Instacart, Intuit, IXL Learning, Jane Street, JP Morgan, Juspay, LinkedIn, Lyft, MathWorks, Mathworks, McKinsey, Meesho, Mercor, Meta, Micro1, Microsoft, Morgan Stanley, Moveworks, NatWest, Netflix, Nutanix, Nvidia, Observer.AI, Odoo, Okta, OnePay, Onix, OpenAI, Opendoor, Optiver, Oracle, Oscar Health, Oura, Palantir, Patreon, Paypal, PayPay, Pinterest, Point 72, Publicis Sapients, QRT, Quora, Ramp, Reddit, Replit, Rippling, Robinhood, Roblox, Rubrik, Rurik, Safe Security, Salesforce, Samsung, SavantLabs, Scale AI, ServiceNow, Shopify, Sierra, Sig, Snowflake, Sofi, Spotnana, Squarepoint, Stripe, Superhuman, Swiggy, Target, TCS, Tekion, Tesla, The D. E. Shaw Group, ThoughtSpot, TikTok, Toast, Toshiba, Trade Desk, Trend Micro, Twilio, Two Sigma, Uber, Upstart, Vanta, Visa, Walleye Capital, Walmart, Wayfair, Waymo, Wells Fargo, Whatnot, Wolverine Trading, Xperi, YahoO, ZipRecruiter, Zolando, ZoloStays, Zomato / Eternal, Zoox, Zopsmart, Zorvyn, Zscaler.
+Accenture, Adobe, Agoda, Airbnb, Airtable, Akuna, Alarm.com, Amazon, Amperity, Anthropic, Apple, Applied Intuition, Arista Networks, Atlassian, Barclays, Baseten, Blackrock, Blinkit, Bloomberg, BNP, BNY Mellon, Boston Consulting Group, Box, Braze, Brex, ByteDance, Canva, Capillary Technologies, Capital One, Chicago Trading, Circle, Cisco, Citadel, Cloudflare, Codeium, Cognitiv, Cohere, Coinbase, Commvault, Confluent, Cresta, Crusoe, Cursor, Cvent, Databricks, Datadog, DE Shaw, Deloitte, Deutsche Bank, Discord, Distyl AI, DoorDash, DRW, DTCC, Eat Club, eBay, Epam, Epify, Ericsson, Expedia, FactSet, Figma, Flexport, Flipkart, FluidStack, Fortinet, GE Vernova, Geico, General Motors, Geneva Trading, GitHub, Goldman Sachs, Google, Guidewire, HackerRank, Harvey, Headlands, HSBC, Hudson River Trading, Hyper Verge, IBM, IDFC, IMC, Infosys, Instacart, Intuit, IXL Learning, Jane Street, JP Morgan, Juspay, LinkedIn, Lyft, MathWorks, Mathworks, McKinsey, Meesho, Mercor, Meta, Micro1, Microsoft, Morgan Stanley, Moveworks, NatWest, Netflix, Nutanix, Nvidia, Observer.AI, Odoo, Okta, OnePay, Onix, OpenAI, Opendoor, Optiver, Oracle, Oscar Health, Oura, Palantir, Patreon, Paypal, PayPay, Pinterest, Point 72, Publicis Sapients, QRT, Quora, Ramp, Reddit, Replit, Rippling, Robinhood, Roblox, Rubrik, Rurik, Safe Security, Salesforce, Samsung, SavantLabs, Scale AI, ServiceNow, Shopify, Sierra, Sig, Snowflake, Sofi, Spotnana, Squarepoint, StackAdapt, Stripe, Superhuman, Swiggy, Target, TCS, Tekion, Tesla, The D. E. Shaw Group, ThoughtSpot, TikTok, Toast, Toshiba, Trade Desk, Trend Micro, Twilio, Two Sigma, Uber, Upstart, Vanta, Visa, Walleye Capital, Walmart, Wayfair, Waymo, Wells Fargo, Whatnot, Wolverine Trading, Xperi, YahoO, ZipRecruiter, Zolando, ZoloStays, Zomato / Eternal, Zoox, Zopsmart, Zorvyn, Zscaler.
 
 </details>
 
@@ -113,7 +113,7 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 <sub>Newest updates first &nbsp;·&nbsp; 🔥 added in the last 2 weeks &nbsp;·&nbsp; 🆕 in the last 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (1,644)](formats/coding.md) · [SQL (2)](formats/sql.md) · [System design (89)](formats/system-design.md) · [Low-level design (15)](formats/low-level-design.md) · [AI coding (9)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (1,665)](formats/coding.md) · [SQL (2)](formats/sql.md) · [System design (89)](formats/system-design.md) · [Low-level design (15)](formats/low-level-design.md) · [AI coding (9)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 <sub>System design, low-level design/OOD, and AI coding rows sync hourly from FastPrep's public, candidate-safe catalogs. <b>Updated</b> uses the latest reported sighting when available, otherwise the first public sync date. <b>Unattributed</b> means no source-backed employer was reported.</sub>
@@ -122,9 +122,29 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+| **Superhuman** | [Reverse a Singly Linked List](https://www.fastprep.io/problems/superhuman-reverse-linked-list) | Coding | [![Practice][p]](https://www.fastprep.io/problems/superhuman-reverse-linked-list) | 🔥 Jul 31, 2026 |
+| **Superhuman** | [Recover a Tree from Preorder Depth Encoding](https://www.fastprep.io/problems/superhuman-recover-tree-from-preorder-depth) | Coding | [![Practice][p]](https://www.fastprep.io/problems/superhuman-recover-tree-from-preorder-depth) | 🔥 Jul 31, 2026 |
+| **Superhuman** | [Deep Copy a Singly Linked List](https://www.fastprep.io/problems/superhuman-deep-copy-linked-list) | Coding | [![Practice][p]](https://www.fastprep.io/problems/superhuman-deep-copy-linked-list) | 🔥 Jul 31, 2026 |
+| **Superhuman** | [Deep Copy a Random-Pointer List](https://www.fastprep.io/problems/superhuman-copy-random-pointer-list) | Coding | [![Practice][p]](https://www.fastprep.io/problems/superhuman-copy-random-pointer-list) | 🔥 Jul 31, 2026 |
 | **OpenAI** | [Design a Distributed Video Generation Platform](https://www.fastprep.io/system-design/distributed-video-generation-platform) | System design | [![Practice][p]](https://www.fastprep.io/system-design/distributed-video-generation-platform) | 🔥 Jul 31, 2026 |
 | **Chicago Trading** | [Design a Pre-Trade Risk Checking System](https://www.fastprep.io/system-design/pre-trade-risk-checking-system) | System design | [![Practice][p]](https://www.fastprep.io/system-design/pre-trade-risk-checking-system) | 🔥 Jul 31, 2026 |
 | **Amazon** | [Repair MovieDB Search and Recommendations](https://www.fastprep.io/project-coding/amazon-repair-moviedb-recommendations) | AI coding | [![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-moviedb-recommendations) | 🔥 Jul 31, 2026 |
+| **Microsoft** | [Maximum Score with Prime Jumps](https://www.fastprep.io/problems/microsoft-maximum-score-with-prime-jumps) | Coding | [![Practice][p]](https://www.fastprep.io/problems/microsoft-maximum-score-with-prime-jumps) | 🔥 Jul 30, 2026 |
+| **Visa** | [Connected Groups](https://www.fastprep.io/problems/visa-connected-groups) | Coding | [![Practice][p]](https://www.fastprep.io/problems/visa-connected-groups) | 🔥 Jul 30, 2026 |
+| **Visa** | [Perfect Substrings](https://www.fastprep.io/problems/visa-perfect-substring) | Coding | [![Practice][p]](https://www.fastprep.io/problems/visa-perfect-substring) | 🔥 Jul 30, 2026 |
+| **Oracle** | [Alphabetically Maximum Substring](https://www.fastprep.io/problems/oracle-alphabetically-maximum-substring) | Coding | [![Practice][p]](https://www.fastprep.io/problems/oracle-alphabetically-maximum-substring) | 🔥 Jul 30, 2026 |
+| **Lyft** | [Stateful Paginated Fetch N](https://www.fastprep.io/problems/lyft-stateful-paginated-fetch-n) | Coding | [![Practice][p]](https://www.fastprep.io/problems/lyft-stateful-paginated-fetch-n) | 🔥 Jul 30, 2026 |
+| **StackAdapt** | [Nested Recipe Inventory Manager](https://www.fastprep.io/problems/stackadapt-nested-recipe-inventory-manager) | Coding | [![Practice][p]](https://www.fastprep.io/problems/stackadapt-nested-recipe-inventory-manager) | 🔥 Jul 30, 2026 |
+| **Snowflake** | [Distributed Tree Counting State Machine](https://www.fastprep.io/problems/snowflake-distributed-tree-counting-state-machine) | Coding | [![Practice][p]](https://www.fastprep.io/problems/snowflake-distributed-tree-counting-state-machine) | 🔥 Jul 30, 2026 |
+| **Snowflake** | [Maximum Number of Events That Can Be Attended](https://www.fastprep.io/problems/snowflake-maximum-number-of-events-that-can-be-attended) | Coding | [![Practice][p]](https://www.fastprep.io/problems/snowflake-maximum-number-of-events-that-can-be-attended) | 🔥 Jul 30, 2026 |
+| **Amazon** | [Single Element in a Sorted Array](https://www.fastprep.io/problems/amazon-single-element-in-sorted-array) | Coding | [![Practice][p]](https://www.fastprep.io/problems/amazon-single-element-in-sorted-array) | 🔥 Jul 30, 2026 |
+| **eBay** | [K Smallest Elements from Sorted Arrays](https://www.fastprep.io/problems/ebay-k-smallest-from-sorted-arrays) | Coding | [![Practice][p]](https://www.fastprep.io/problems/ebay-k-smallest-from-sorted-arrays) | 🔥 Jul 30, 2026 |
+| **eBay** | [Single-Pass Search in a Rotated Sorted Array](https://www.fastprep.io/problems/ebay-single-pass-rotated-array-search) | Coding | [![Practice][p]](https://www.fastprep.io/problems/ebay-single-pass-rotated-array-search) | 🔥 Jul 30, 2026 |
+| **Opendoor** | [Finite Same-Origin Web Crawler](https://www.fastprep.io/problems/opendoor-finite-web-crawler) | Coding | [![Practice][p]](https://www.fastprep.io/problems/opendoor-finite-web-crawler) | 🔥 Jul 30, 2026 |
+| **Oracle** | [Enumerate Right-and-Down Matrix Paths](https://www.fastprep.io/problems/oracle-enumerate-right-down-matrix-paths) | Coding | [![Practice][p]](https://www.fastprep.io/problems/oracle-enumerate-right-down-matrix-paths) | 🔥 Jul 30, 2026 |
+| **Oracle** | [Maximize Movie Ratings Without Consecutive Skips](https://www.fastprep.io/problems/oracle-maximize-movie-ratings) | Coding | [![Practice][p]](https://www.fastprep.io/problems/oracle-maximize-movie-ratings) | 🔥 Jul 30, 2026 |
+| **DoorDash** | [Random Dasher Set Operations](https://www.fastprep.io/problems/doordash-random-dasher-set) | Coding | [![Practice][p]](https://www.fastprep.io/problems/doordash-random-dasher-set) | 🔥 Jul 30, 2026 |
+| **Databricks** | [Key-Value Store with Hit Counter](https://www.fastprep.io/problems/databricks-key-value-store-with-hit-counter) | Coding | [![Practice][p]](https://www.fastprep.io/problems/databricks-key-value-store-with-hit-counter) | 🔥 Jul 30, 2026 |
 | **Oracle** | [Best Time to Buy and Sell Stock](https://www.fastprep.io/problems/oracle-best-time-to-buy-and-sell-stock) | Coding | [![Practice][p]](https://www.fastprep.io/problems/oracle-best-time-to-buy-and-sell-stock) | 🔥 Jul 30, 2026 |
 | **IBM** | [String-Pair Frequency Similarity](https://www.fastprep.io/problems/ibm-string-pair-frequency-similarity) | Coding | [![Practice][p]](https://www.fastprep.io/problems/ibm-string-pair-frequency-similarity) | 🔥 Jul 30, 2026 |
 | **Anthropic** | [Debug Extremely Randomized Trees (Fellow Program :)](https://www.fastprep.io/project-coding/anthropic-extremely-randomized-trees) | AI coding | [![Practice][p]](https://www.fastprep.io/project-coding/anthropic-extremely-randomized-trees) | 🔥 Jul 30, 2026 |
@@ -137,6 +157,7 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 | **Opendoor** | [Map-Based Home Search Backend](https://www.fastprep.io/system-design/map-home-search-backend) | System design | [![Practice][p]](https://www.fastprep.io/system-design/map-home-search-backend) | 🔥 Jul 30, 2026 |
 | **Databricks** | [Music Playlist System](https://www.fastprep.io/system-design/music-playlist-system) | System design | [![Practice][p]](https://www.fastprep.io/system-design/music-playlist-system) | 🔥 Jul 30, 2026 |
 | **OpenAI** | [Payment Hold, Charge, and Settlement](https://www.fastprep.io/system-design/payment-hold-charge-settlement) | System design | [![Practice][p]](https://www.fastprep.io/system-design/payment-hold-charge-settlement) | 🔥 Jul 30, 2026 |
+| **Cognitiv** | [Word Search](https://www.fastprep.io/problems/cognitiv-word-search) | Coding | [![Practice][p]](https://www.fastprep.io/problems/cognitiv-word-search) | 🔥 Jul 29, 2026 |
 | **Reddit** | [Chatter Message Window](https://www.fastprep.io/problems/reddit-chatter-message-window) | Coding | [![Practice][p]](https://www.fastprep.io/problems/reddit-chatter-message-window) | 🔥 Jul 29, 2026 |
 | **Amazon** | [Count the Number of Complete Components](https://www.fastprep.io/problems/amazon-count-complete-components) | Coding | [![Practice][p]](https://www.fastprep.io/problems/amazon-count-complete-components) | 🔥 Jul 29, 2026 |
 | **Amazon** | [Cousins in Binary Tree II](https://www.fastprep.io/problems/amazon-cousins-in-binary-tree-ii) | Coding | [![Practice][p]](https://www.fastprep.io/problems/amazon-cousins-in-binary-tree-ii) | 🔥 Jul 29, 2026 |

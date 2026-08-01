@@ -2,14 +2,35 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**1,644 questions**
+**1,665 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+| **Superhuman** | [Reverse a Singly Linked List](https://www.fastprep.io/problems/superhuman-reverse-linked-list) | [![Practice][p]](https://www.fastprep.io/problems/superhuman-reverse-linked-list) | 🔥 Jul 31, 2026 |
+| **Superhuman** | [Recover a Tree from Preorder Depth Encoding](https://www.fastprep.io/problems/superhuman-recover-tree-from-preorder-depth) | [![Practice][p]](https://www.fastprep.io/problems/superhuman-recover-tree-from-preorder-depth) | 🔥 Jul 31, 2026 |
+| **Superhuman** | [Deep Copy a Singly Linked List](https://www.fastprep.io/problems/superhuman-deep-copy-linked-list) | [![Practice][p]](https://www.fastprep.io/problems/superhuman-deep-copy-linked-list) | 🔥 Jul 31, 2026 |
+| **Superhuman** | [Deep Copy a Random-Pointer List](https://www.fastprep.io/problems/superhuman-copy-random-pointer-list) | [![Practice][p]](https://www.fastprep.io/problems/superhuman-copy-random-pointer-list) | 🔥 Jul 31, 2026 |
+| **Microsoft** | [Maximum Score with Prime Jumps](https://www.fastprep.io/problems/microsoft-maximum-score-with-prime-jumps) | [![Practice][p]](https://www.fastprep.io/problems/microsoft-maximum-score-with-prime-jumps) | 🔥 Jul 30, 2026 |
+| **Visa** | [Connected Groups](https://www.fastprep.io/problems/visa-connected-groups) | [![Practice][p]](https://www.fastprep.io/problems/visa-connected-groups) | 🔥 Jul 30, 2026 |
+| **Visa** | [Perfect Substrings](https://www.fastprep.io/problems/visa-perfect-substring) | [![Practice][p]](https://www.fastprep.io/problems/visa-perfect-substring) | 🔥 Jul 30, 2026 |
+| **Oracle** | [Alphabetically Maximum Substring](https://www.fastprep.io/problems/oracle-alphabetically-maximum-substring) | [![Practice][p]](https://www.fastprep.io/problems/oracle-alphabetically-maximum-substring) | 🔥 Jul 30, 2026 |
+| **Lyft** | [Stateful Paginated Fetch N](https://www.fastprep.io/problems/lyft-stateful-paginated-fetch-n) | [![Practice][p]](https://www.fastprep.io/problems/lyft-stateful-paginated-fetch-n) | 🔥 Jul 30, 2026 |
+| **StackAdapt** | [Nested Recipe Inventory Manager](https://www.fastprep.io/problems/stackadapt-nested-recipe-inventory-manager) | [![Practice][p]](https://www.fastprep.io/problems/stackadapt-nested-recipe-inventory-manager) | 🔥 Jul 30, 2026 |
+| **Snowflake** | [Distributed Tree Counting State Machine](https://www.fastprep.io/problems/snowflake-distributed-tree-counting-state-machine) | [![Practice][p]](https://www.fastprep.io/problems/snowflake-distributed-tree-counting-state-machine) | 🔥 Jul 30, 2026 |
+| **Snowflake** | [Maximum Number of Events That Can Be Attended](https://www.fastprep.io/problems/snowflake-maximum-number-of-events-that-can-be-attended) | [![Practice][p]](https://www.fastprep.io/problems/snowflake-maximum-number-of-events-that-can-be-attended) | 🔥 Jul 30, 2026 |
+| **Amazon** | [Single Element in a Sorted Array](https://www.fastprep.io/problems/amazon-single-element-in-sorted-array) | [![Practice][p]](https://www.fastprep.io/problems/amazon-single-element-in-sorted-array) | 🔥 Jul 30, 2026 |
+| **eBay** | [K Smallest Elements from Sorted Arrays](https://www.fastprep.io/problems/ebay-k-smallest-from-sorted-arrays) | [![Practice][p]](https://www.fastprep.io/problems/ebay-k-smallest-from-sorted-arrays) | 🔥 Jul 30, 2026 |
+| **eBay** | [Single-Pass Search in a Rotated Sorted Array](https://www.fastprep.io/problems/ebay-single-pass-rotated-array-search) | [![Practice][p]](https://www.fastprep.io/problems/ebay-single-pass-rotated-array-search) | 🔥 Jul 30, 2026 |
+| **Opendoor** | [Finite Same-Origin Web Crawler](https://www.fastprep.io/problems/opendoor-finite-web-crawler) | [![Practice][p]](https://www.fastprep.io/problems/opendoor-finite-web-crawler) | 🔥 Jul 30, 2026 |
+| **Oracle** | [Enumerate Right-and-Down Matrix Paths](https://www.fastprep.io/problems/oracle-enumerate-right-down-matrix-paths) | [![Practice][p]](https://www.fastprep.io/problems/oracle-enumerate-right-down-matrix-paths) | 🔥 Jul 30, 2026 |
+| **Oracle** | [Maximize Movie Ratings Without Consecutive Skips](https://www.fastprep.io/problems/oracle-maximize-movie-ratings) | [![Practice][p]](https://www.fastprep.io/problems/oracle-maximize-movie-ratings) | 🔥 Jul 30, 2026 |
+| **DoorDash** | [Random Dasher Set Operations](https://www.fastprep.io/problems/doordash-random-dasher-set) | [![Practice][p]](https://www.fastprep.io/problems/doordash-random-dasher-set) | 🔥 Jul 30, 2026 |
+| **Databricks** | [Key-Value Store with Hit Counter](https://www.fastprep.io/problems/databricks-key-value-store-with-hit-counter) | [![Practice][p]](https://www.fastprep.io/problems/databricks-key-value-store-with-hit-counter) | 🔥 Jul 30, 2026 |
 | **Oracle** | [Best Time to Buy and Sell Stock](https://www.fastprep.io/problems/oracle-best-time-to-buy-and-sell-stock) | [![Practice][p]](https://www.fastprep.io/problems/oracle-best-time-to-buy-and-sell-stock) | 🔥 Jul 30, 2026 |
 | **IBM** | [String-Pair Frequency Similarity](https://www.fastprep.io/problems/ibm-string-pair-frequency-similarity) | [![Practice][p]](https://www.fastprep.io/problems/ibm-string-pair-frequency-similarity) | 🔥 Jul 30, 2026 |
+| **Cognitiv** | [Word Search](https://www.fastprep.io/problems/cognitiv-word-search) | [![Practice][p]](https://www.fastprep.io/problems/cognitiv-word-search) | 🔥 Jul 29, 2026 |
 | **Reddit** | [Chatter Message Window](https://www.fastprep.io/problems/reddit-chatter-message-window) | [![Practice][p]](https://www.fastprep.io/problems/reddit-chatter-message-window) | 🔥 Jul 29, 2026 |
 | **Amazon** | [Count the Number of Complete Components](https://www.fastprep.io/problems/amazon-count-complete-components) | [![Practice][p]](https://www.fastprep.io/problems/amazon-count-complete-components) | 🔥 Jul 29, 2026 |
 | **Amazon** | [Cousins in Binary Tree II](https://www.fastprep.io/problems/amazon-cousins-in-binary-tree-ii) | [![Practice][p]](https://www.fastprep.io/problems/amazon-cousins-in-binary-tree-ii) | 🔥 Jul 29, 2026 |
