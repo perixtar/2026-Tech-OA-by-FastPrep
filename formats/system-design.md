@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**83 questions**
+**89 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -14,6 +14,10 @@
 | **Salesforce / Replit** | [Design an Event-Driven Notification System](https://www.fastprep.io/system-design/event-driven-notification-system) | [![Practice][p]](https://www.fastprep.io/system-design/event-driven-notification-system) | 🔥 Jul 30, 2026 |
 | **Amazon / Lyft** | [Design a Web Crawler](https://www.fastprep.io/system-design/web-crawler) | [![Practice][p]](https://www.fastprep.io/system-design/web-crawler) | 🔥 Jul 30, 2026 |
 | **Pinterest / Amazon** | [Design a Following News Feed Service](https://www.fastprep.io/system-design/following-news-feed-service) | [![Practice][p]](https://www.fastprep.io/system-design/following-news-feed-service) | 🔥 Jul 30, 2026 |
+| **Databricks** | [Chat API and Database System](https://www.fastprep.io/system-design/chat-api-and-database-system) | [![Practice][p]](https://www.fastprep.io/system-design/chat-api-and-database-system) | 🔥 Jul 30, 2026 |
+| **Opendoor** | [Map-Based Home Search Backend](https://www.fastprep.io/system-design/map-home-search-backend) | [![Practice][p]](https://www.fastprep.io/system-design/map-home-search-backend) | 🔥 Jul 30, 2026 |
+| **Databricks** | [Music Playlist System](https://www.fastprep.io/system-design/music-playlist-system) | [![Practice][p]](https://www.fastprep.io/system-design/music-playlist-system) | 🔥 Jul 30, 2026 |
+| **OpenAI** | [Payment Hold, Charge, and Settlement](https://www.fastprep.io/system-design/payment-hold-charge-settlement) | [![Practice][p]](https://www.fastprep.io/system-design/payment-hold-charge-settlement) | 🔥 Jul 30, 2026 |
 | **Databricks** | [Bookstore Batch Book-Price API](https://www.fastprep.io/system-design/bookstore-batch-book-price-api) | [![Practice][p]](https://www.fastprep.io/system-design/bookstore-batch-book-price-api) | 🔥 Jul 29, 2026 |
 | **Anthropic** | [Design a Model-Weight Deployment Platform](https://www.fastprep.io/system-design/model-weight-deployment-platform) | [![Practice][p]](https://www.fastprep.io/system-design/model-weight-deployment-platform) | 🔥 Jul 29, 2026 |
 | **Rippling** | [Design a Publisher News Feed](https://www.fastprep.io/system-design/publisher-news-feed) | [![Practice][p]](https://www.fastprep.io/system-design/publisher-news-feed) | 🔥 Jul 29, 2026 |
@@ -89,5 +93,7 @@
 | **Zoox** | [Design a Robotaxi Teleoperations Analytics Platform](https://www.fastprep.io/system-design/robotaxi-teleoperations-analytics-platform) | [![Practice][p]](https://www.fastprep.io/system-design/robotaxi-teleoperations-analytics-platform) | Apr 26, 2026 |
 | **Discord** | [Design a Video Call Analytics Platform](https://www.fastprep.io/system-design/video-call-analytics-platform) | [![Practice][p]](https://www.fastprep.io/system-design/video-call-analytics-platform) | Apr 26, 2026 |
 | **Amazon** | [Design a Fastag Toll Payment System](https://www.fastprep.io/system-design/fastag-toll-payment-system) | [![Practice][p]](https://www.fastprep.io/system-design/fastag-toll-payment-system) | Apr 25, 2026 |
+| **Cohere** | [Enterprise Research Assistant](https://www.fastprep.io/system-design/enterprise-research-assistant) | [![Practice][p]](https://www.fastprep.io/system-design/enterprise-research-assistant) | Apr 01, 2026 |
+| **DoorDash** | [Food Review System](https://www.fastprep.io/system-design/food-review-system) | [![Practice][p]](https://www.fastprep.io/system-design/food-review-system) | Apr 01, 2026 |
 | **Sierra** | [Design a Resumable Streaming AI Chat](https://www.fastprep.io/system-design/resumable-streaming-ai-chat) | [![Practice][p]](https://www.fastprep.io/system-design/resumable-streaming-ai-chat) | Mar 06, 2026 |
 | **Pinterest** | [Design Merchant Product Catalog Ingestion](https://www.fastprep.io/system-design/merchant-product-catalog-ingestion) | [![Practice][p]](https://www.fastprep.io/system-design/merchant-product-catalog-ingestion) | Aug 21, 2024 |
