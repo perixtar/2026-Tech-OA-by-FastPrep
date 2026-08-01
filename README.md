@@ -54,7 +54,7 @@ $ fastprep sync --season 2026
 ```text
 top tracked companies ──────────── snapshot · Jul 2026 ──
 
-Amazon       ██████████████████████ 369
+Amazon       ██████████████████████ 370
 Google       ██████ 99
 IBM          █████ 83
 TikTok       ████ 74
