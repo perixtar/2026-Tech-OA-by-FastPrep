@@ -113,7 +113,7 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 <sub>Newest updates first &nbsp;·&nbsp; 🔥 added in the last 2 weeks &nbsp;·&nbsp; 🆕 in the last 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (1,665)](formats/coding.md) · [SQL (2)](formats/sql.md) · [System design (89)](formats/system-design.md) · [Low-level design (15)](formats/low-level-design.md) · [AI coding (9)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (1,665)](formats/coding.md) · [SQL (2)](formats/sql.md) · [System design (90)](formats/system-design.md) · [Low-level design (15)](formats/low-level-design.md) · [AI coding (9)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 <sub>System design, low-level design/OOD, and AI coding rows sync hourly from FastPrep's public, candidate-safe catalogs. <b>Updated</b> uses the latest reported sighting when available, otherwise the first public sync date. <b>Unattributed</b> means no source-backed employer was reported.</sub>
@@ -157,6 +157,7 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 | **Opendoor** | [Map-Based Home Search Backend](https://www.fastprep.io/system-design/map-home-search-backend) | System design | [![Practice][p]](https://www.fastprep.io/system-design/map-home-search-backend) | 🔥 Jul 30, 2026 |
 | **Databricks** | [Music Playlist System](https://www.fastprep.io/system-design/music-playlist-system) | System design | [![Practice][p]](https://www.fastprep.io/system-design/music-playlist-system) | 🔥 Jul 30, 2026 |
 | **OpenAI** | [Payment Hold, Charge, and Settlement](https://www.fastprep.io/system-design/payment-hold-charge-settlement) | System design | [![Practice][p]](https://www.fastprep.io/system-design/payment-hold-charge-settlement) | 🔥 Jul 30, 2026 |
+| **Zscaler** | [Design a Global Service Metrics Monitoring and Alerting Platform](https://www.fastprep.io/system-design/global-service-metrics-monitoring-and-alerting) | System design | [![Practice][p]](https://www.fastprep.io/system-design/global-service-metrics-monitoring-and-alerting) | 🔥 Jul 30, 2026 |
 | **Cognitiv** | [Word Search](https://www.fastprep.io/problems/cognitiv-word-search) | Coding | [![Practice][p]](https://www.fastprep.io/problems/cognitiv-word-search) | 🔥 Jul 29, 2026 |
 | **Reddit** | [Chatter Message Window](https://www.fastprep.io/problems/reddit-chatter-message-window) | Coding | [![Practice][p]](https://www.fastprep.io/problems/reddit-chatter-message-window) | 🔥 Jul 29, 2026 |
 | **Amazon** | [Count the Number of Complete Components](https://www.fastprep.io/problems/amazon-count-complete-components) | Coding | [![Practice][p]](https://www.fastprep.io/problems/amazon-count-complete-components) | 🔥 Jul 29, 2026 |

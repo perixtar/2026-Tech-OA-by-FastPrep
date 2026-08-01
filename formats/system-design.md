@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**89 questions**
+**90 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -18,6 +18,7 @@
 | **Opendoor** | [Map-Based Home Search Backend](https://www.fastprep.io/system-design/map-home-search-backend) | [![Practice][p]](https://www.fastprep.io/system-design/map-home-search-backend) | 🔥 Jul 30, 2026 |
 | **Databricks** | [Music Playlist System](https://www.fastprep.io/system-design/music-playlist-system) | [![Practice][p]](https://www.fastprep.io/system-design/music-playlist-system) | 🔥 Jul 30, 2026 |
 | **OpenAI** | [Payment Hold, Charge, and Settlement](https://www.fastprep.io/system-design/payment-hold-charge-settlement) | [![Practice][p]](https://www.fastprep.io/system-design/payment-hold-charge-settlement) | 🔥 Jul 30, 2026 |
+| **Zscaler** | [Design a Global Service Metrics Monitoring and Alerting Platform](https://www.fastprep.io/system-design/global-service-metrics-monitoring-and-alerting) | [![Practice][p]](https://www.fastprep.io/system-design/global-service-metrics-monitoring-and-alerting) | 🔥 Jul 30, 2026 |
 | **Databricks** | [Bookstore Batch Book-Price API](https://www.fastprep.io/system-design/bookstore-batch-book-price-api) | [![Practice][p]](https://www.fastprep.io/system-design/bookstore-batch-book-price-api) | 🔥 Jul 29, 2026 |
 | **Anthropic** | [Design a Model-Weight Deployment Platform](https://www.fastprep.io/system-design/model-weight-deployment-platform) | [![Practice][p]](https://www.fastprep.io/system-design/model-weight-deployment-platform) | 🔥 Jul 29, 2026 |
 | **Rippling** | [Design a Publisher News Feed](https://www.fastprep.io/system-design/publisher-news-feed) | [![Practice][p]](https://www.fastprep.io/system-design/publisher-news-feed) | 🔥 Jul 29, 2026 |
