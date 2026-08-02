@@ -141,9 +141,9 @@
 | **Capital One** | [Sort Every Matrix Border Layer](https://www.fastprep.io/problems/capital-one-sort-matrix-border-layers) | [![Practice][p]](https://www.fastprep.io/problems/capital-one-sort-matrix-border-layers) | 🔥 Jul 19, 2026 |
 | **Capital One** | [Round-Robin WDL Order](https://www.fastprep.io/problems/capital-one-round-robin-wdl-order) | [![Practice][p]](https://www.fastprep.io/problems/capital-one-round-robin-wdl-order) | 🔥 Jul 19, 2026 |
 | **Waymo** | [Average or Zero](https://www.fastprep.io/problems/waymo-average-or-zero) | [![Practice][p]](https://www.fastprep.io/problems/waymo-average-or-zero) | 🔥 Jul 19, 2026 |
-| **Visa** | [Minimum Score of a Path Between Cities](https://www.fastprep.io/problems/visa-minimum-score-path-between-cities) | [![Practice][p]](https://www.fastprep.io/problems/visa-minimum-score-path-between-cities) | 🔥 Jul 18, 2026 |
-| **IDFC** | [Smallest Adjacent Concatenation](https://www.fastprep.io/problems/idfc-smallest-adjacent-concatenation) | [![Practice][p]](https://www.fastprep.io/problems/idfc-smallest-adjacent-concatenation) | 🔥 Jul 18, 2026 |
-| **IDFC** | [Minimum Cake Cuts](https://www.fastprep.io/problems/idfc-minimum-cake-cuts) | [![Practice][p]](https://www.fastprep.io/problems/idfc-minimum-cake-cuts) | 🔥 Jul 18, 2026 |
+| **Visa** | [Minimum Score of a Path Between Cities](https://www.fastprep.io/problems/visa-minimum-score-path-between-cities) | [![Practice][p]](https://www.fastprep.io/problems/visa-minimum-score-path-between-cities) | 🆕 Jul 18, 2026 |
+| **IDFC** | [Smallest Adjacent Concatenation](https://www.fastprep.io/problems/idfc-smallest-adjacent-concatenation) | [![Practice][p]](https://www.fastprep.io/problems/idfc-smallest-adjacent-concatenation) | 🆕 Jul 18, 2026 |
+| **IDFC** | [Minimum Cake Cuts](https://www.fastprep.io/problems/idfc-minimum-cake-cuts) | [![Practice][p]](https://www.fastprep.io/problems/idfc-minimum-cake-cuts) | 🆕 Jul 18, 2026 |
 | **HSBC** | [Remove Vowels from a String](https://www.fastprep.io/problems/hsbc-remove-vowels) | [![Practice][p]](https://www.fastprep.io/problems/hsbc-remove-vowels) | 🆕 Jul 17, 2026 |
 | **Microsoft** | [Alphabetically Smallest Palindrome](https://www.fastprep.io/problems/microsoft-alphabetically-smallest-palindrome) | [![Practice][p]](https://www.fastprep.io/problems/microsoft-alphabetically-smallest-palindrome) | 🆕 Jul 16, 2026 |
 | **Microsoft** | [Maximum Reward Points](https://www.fastprep.io/problems/microsoft-get-maximum-reward-points) | [![Practice][p]](https://www.fastprep.io/problems/microsoft-get-maximum-reward-points) | 🆕 Jul 16, 2026 |
@@ -351,7 +351,7 @@
 | **Amazon** | [Sort Bug Report Frequencies](https://www.fastprep.io/problems/amazon-sort-bug-report-frequencies) | [![Practice][p]](https://www.fastprep.io/problems/amazon-sort-bug-report-frequencies) | 🆕 Jun 19, 2026 |
 | **Amazon** | [Maximum Equal Parts for Prefixes](https://www.fastprep.io/problems/amazon-maximum-equal-parts-for-prefixes) | [![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-equal-parts-for-prefixes) | 🆕 Jun 19, 2026 |
 | **Meesho** | [Efficient Deployments](https://www.fastprep.io/problems/meesho-efficient-deployments) | [![Practice][p]](https://www.fastprep.io/problems/meesho-efficient-deployments) | 🆕 Jun 18, 2026 |
-| **Google** | [Fountain Safety](https://www.fastprep.io/problems/google-fountain-safety) | [![Practice][p]](https://www.fastprep.io/problems/google-fountain-safety) | 🆕 Jun 17, 2026 |
+| **Google** | [Fountain Safety](https://www.fastprep.io/problems/google-fountain-safety) | [![Practice][p]](https://www.fastprep.io/problems/google-fountain-safety) | Jun 17, 2026 |
 | **Walmart** | [K-Capable Model Selection](https://www.fastprep.io/problems/walmart-k-capable-model-selection) | [![Practice][p]](https://www.fastprep.io/problems/walmart-k-capable-model-selection) | Jun 16, 2026 |
 | **Scale AI** | [Task Processor: Dependencies and Deadlines](https://www.fastprep.io/problems/scale-ai-task-processor-dependencies-deadlines) | [![Practice][p]](https://www.fastprep.io/problems/scale-ai-task-processor-dependencies-deadlines) | Jun 14, 2026 |
 | **Shopify** | [Mars Rover Robot Controller](https://www.fastprep.io/problems/shopify-mars-rover-robot-controller) | [![Practice][p]](https://www.fastprep.io/problems/shopify-mars-rover-robot-controller) | Jun 13, 2026 |
