@@ -2,12 +2,14 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**15 questions**
+**17 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+| **Susquehanna International Group** | [Design a Cash Register with Inventory and Profit Tracking](https://www.fastprep.io/low-level-design/cash-register-inventory-and-profit) | [![Practice][p]](https://www.fastprep.io/low-level-design/cash-register-inventory-and-profit) | 🔥 Jul 30, 2026 |
+| **Amazon** | [Design a Database Partition Split-and-Merge Manager](https://www.fastprep.io/low-level-design/database-partition-split-and-merge-manager) | [![Practice][p]](https://www.fastprep.io/low-level-design/database-partition-split-and-merge-manager) | 🔥 Jul 30, 2026 |
 | **Databricks** | [Design a Locking Key-Value Store with Batch Writes](https://www.fastprep.io/low-level-design/locking-key-value-store-with-batch-writes) | [![Practice][p]](https://www.fastprep.io/low-level-design/locking-key-value-store-with-batch-writes) | 🔥 Jul 29, 2026 |
 | **Databricks** | [Design a WAL-Backed Batch Log Writer](https://www.fastprep.io/low-level-design/wal-backed-batch-log-writer) | [![Practice][p]](https://www.fastprep.io/low-level-design/wal-backed-batch-log-writer) | 🔥 Jul 29, 2026 |
 | **Uber** | [Design and Implement a Parking Lot](https://www.fastprep.io/low-level-design/uber-parking-lot-design-and-code) | [![Practice][p]](https://www.fastprep.io/low-level-design/uber-parking-lot-design-and-code) | 🔥 Jul 28, 2026 |
