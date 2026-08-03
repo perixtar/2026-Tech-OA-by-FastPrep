@@ -2,12 +2,13 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**17 questions**
+**18 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+| **Asana** | [Design a Rectangular Jigsaw Puzzle](https://www.fastprep.io/low-level-design/rectangular-jigsaw-puzzle) | [![Practice][p]](https://www.fastprep.io/low-level-design/rectangular-jigsaw-puzzle) | 🔥 Aug 02, 2026 |
 | **Susquehanna International Group** | [Design a Cash Register with Inventory and Profit Tracking](https://www.fastprep.io/low-level-design/cash-register-inventory-and-profit) | [![Practice][p]](https://www.fastprep.io/low-level-design/cash-register-inventory-and-profit) | 🔥 Jul 30, 2026 |
 | **Amazon** | [Design a Database Partition Split-and-Merge Manager](https://www.fastprep.io/low-level-design/database-partition-split-and-merge-manager) | [![Practice][p]](https://www.fastprep.io/low-level-design/database-partition-split-and-merge-manager) | 🔥 Jul 30, 2026 |
 | **Databricks** | [Design a Locking Key-Value Store with Batch Writes](https://www.fastprep.io/low-level-design/locking-key-value-store-with-batch-writes) | [![Practice][p]](https://www.fastprep.io/low-level-design/locking-key-value-store-with-batch-writes) | 🔥 Jul 29, 2026 |
