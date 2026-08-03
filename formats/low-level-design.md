@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**18 questions**
+**24 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -26,3 +26,9 @@
 | **Adobe** | [Design Infinite Scroll for Mutable Data](https://www.fastprep.io/low-level-design/adobe-mutable-infinite-scroll) | [![Practice][p]](https://www.fastprep.io/low-level-design/adobe-mutable-infinite-scroll) | 🆕 Jul 17, 2026 |
 | **Adobe** | [Design Network-Backed Search Suggestions](https://www.fastprep.io/low-level-design/adobe-network-search-suggestions) | [![Practice][p]](https://www.fastprep.io/low-level-design/adobe-network-search-suggestions) | 🆕 Jul 17, 2026 |
 | **Amazon** | [Design a Multi-Floor Parking Lot](https://www.fastprep.io/low-level-design/multi-floor-parking-lot) | [![Practice][p]](https://www.fastprep.io/low-level-design/multi-floor-parking-lot) | Jul 11, 2025 |
+| **Postman** | [Design a Threaded Comment System with User Tags](https://www.fastprep.io/low-level-design/threaded-comment-system-with-user-tags) | [![Practice][p]](https://www.fastprep.io/low-level-design/threaded-comment-system-with-user-tags) | Jun 07, 2025 |
+| **Postman** | [Design an Annotated Comment Thread System](https://www.fastprep.io/low-level-design/annotated-comment-thread-system) | [![Practice][p]](https://www.fastprep.io/low-level-design/annotated-comment-thread-system) | Jun 07, 2025 |
+| **Postman** | [Design a Dating Application](https://www.fastprep.io/low-level-design/dating-application-object-model) | [![Practice][p]](https://www.fastprep.io/low-level-design/dating-application-object-model) | May 15, 2025 |
+| **Postman** | [Design a Location-Aware Dating Application](https://www.fastprep.io/low-level-design/location-aware-dating-application) | [![Practice][p]](https://www.fastprep.io/low-level-design/location-aware-dating-application) | May 15, 2025 |
+| **Postman** | [Design Undo Delete for Shared Collections](https://www.fastprep.io/low-level-design/undo-delete-shared-collections) | [![Practice][p]](https://www.fastprep.io/low-level-design/undo-delete-shared-collections) | Jul 19, 2024 |
+| **Postman** | [Design Undoable Deletion for API Collections](https://www.fastprep.io/low-level-design/undoable-collection-deletion) | [![Practice][p]](https://www.fastprep.io/low-level-design/undoable-collection-deletion) | Jul 19, 2024 |

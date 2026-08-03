@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**97 questions**
+**103 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -12,7 +12,7 @@
 | **OpenAI / Baseten** | [Design a Stateless Generative AI Chat Service](https://www.fastprep.io/system-design/stateless-generative-ai-chat-service) | [![Practice][p]](https://www.fastprep.io/system-design/stateless-generative-ai-chat-service) | 🔥 Aug 02, 2026 |
 | **OpenAI** | [Design a Declarative Infrastructure Orchestrator](https://www.fastprep.io/system-design/declarative-infrastructure-orchestrator) | [![Practice][p]](https://www.fastprep.io/system-design/declarative-infrastructure-orchestrator) | 🔥 Aug 02, 2026 |
 | **OpenAI / The D. E. Shaw Group** | [Design an Online Payment Processing System](https://www.fastprep.io/system-design/online-payment-processing-system) | [![Practice][p]](https://www.fastprep.io/system-design/online-payment-processing-system) | 🔥 Aug 02, 2026 |
-| **DoorDash / Robinhood / Snowflake** | [Design a Scheduled Job Execution System](https://www.fastprep.io/system-design/scheduled-job-execution-system) | [![Practice][p]](https://www.fastprep.io/system-design/scheduled-job-execution-system) | 🔥 Aug 01, 2026 |
+| **DoorDash / Robinhood / Snowflake / Postman** | [Design a Scheduled Job Execution System](https://www.fastprep.io/system-design/scheduled-job-execution-system) | [![Practice][p]](https://www.fastprep.io/system-design/scheduled-job-execution-system) | 🔥 Aug 01, 2026 |
 | **Decagon** | [Design a Multi-Tenant AI Gateway](https://www.fastprep.io/system-design/multi-tenant-ai-gateway) | [![Practice][p]](https://www.fastprep.io/system-design/multi-tenant-ai-gateway) | 🔥 Aug 01, 2026 |
 | **Scale AI** | [Design an Embedding and Classification API](https://www.fastprep.io/system-design/embedding-and-classification-api) | [![Practice][p]](https://www.fastprep.io/system-design/embedding-and-classification-api) | 🔥 Aug 01, 2026 |
 | **Chicago Trading** | [Design a Pre-Trade Risk Checking System](https://www.fastprep.io/system-design/pre-trade-risk-checking-system) | [![Practice][p]](https://www.fastprep.io/system-design/pre-trade-risk-checking-system) | 🔥 Jul 31, 2026 |
@@ -52,7 +52,7 @@
 | **Databricks** | [Design a Durable Local Event Writer](https://www.fastprep.io/system-design/durable-local-event-writer) | [![Practice][p]](https://www.fastprep.io/system-design/durable-local-event-writer) | 🔥 Jul 26, 2026 |
 | **Stripe** | [Design an Idempotent Ledger Service](https://www.fastprep.io/system-design/idempotent-ledger-service) | [![Practice][p]](https://www.fastprep.io/system-design/idempotent-ledger-service) | 🔥 Jul 25, 2026 |
 | **Amazon** | [Global Music Streaming Platform](https://www.fastprep.io/system-design/global-music-streaming-platform) | [![Practice][p]](https://www.fastprep.io/system-design/global-music-streaming-platform) | 🔥 Jul 25, 2026 |
-| **Amazon** | [Social News Feed With Live Engagement](https://www.fastprep.io/system-design/social-news-feed-with-live-engagement) | [![Practice][p]](https://www.fastprep.io/system-design/social-news-feed-with-live-engagement) | 🔥 Jul 25, 2026 |
+| **Amazon / Postman** | [Social News Feed With Live Engagement](https://www.fastprep.io/system-design/social-news-feed-with-live-engagement) | [![Practice][p]](https://www.fastprep.io/system-design/social-news-feed-with-live-engagement) | 🔥 Jul 25, 2026 |
 | **LinkedIn** | [CI/CD Pipeline Orchestration System](https://www.fastprep.io/system-design/ci-cd-pipeline-orchestration-system) | [![Practice][p]](https://www.fastprep.io/system-design/ci-cd-pipeline-orchestration-system) | 🔥 Jul 24, 2026 |
 | **Tekion** | [Design a Car Service-Center Booking System](https://www.fastprep.io/system-design/car-service-center-booking) | [![Practice][p]](https://www.fastprep.io/system-design/car-service-center-booking) | 🔥 Jul 24, 2026 |
 | **MathWorks** | [Design a Product Authentication Platform](https://www.fastprep.io/system-design/product-authentication-platform) | [![Practice][p]](https://www.fastprep.io/system-design/product-authentication-platform) | 🔥 Jul 24, 2026 |
@@ -96,7 +96,8 @@
 | **Amazon** | [Design an E-commerce Recommendation Event Pipeline](https://www.fastprep.io/system-design/ecommerce-recommendation-event-pipeline) | [![Practice][p]](https://www.fastprep.io/system-design/ecommerce-recommendation-event-pipeline) | Jun 05, 2026 |
 | **Amazon** | [Design an Amazon Locker System](https://www.fastprep.io/system-design/amazon-locker-system) | [![Practice][p]](https://www.fastprep.io/system-design/amazon-locker-system) | May 26, 2026 |
 | **Amazon** | [Design a Cloud File Storage System](https://www.fastprep.io/system-design/cloud-file-storage) | [![Practice][p]](https://www.fastprep.io/system-design/cloud-file-storage) | May 24, 2026 |
-| **Amazon** | [Design a Collaborative Document Editor](https://www.fastprep.io/system-design/collaborative-document-editor) | [![Practice][p]](https://www.fastprep.io/system-design/collaborative-document-editor) | May 22, 2026 |
+| **Amazon / Postman** | [Design a Collaborative Document Editor](https://www.fastprep.io/system-design/collaborative-document-editor) | [![Practice][p]](https://www.fastprep.io/system-design/collaborative-document-editor) | May 22, 2026 |
+| **Postman** | [Design a Social Feed and Post Detail Experience](https://www.fastprep.io/system-design/social-feed-and-post-detail-experience) | [![Practice][p]](https://www.fastprep.io/system-design/social-feed-and-post-detail-experience) | May 21, 2026 |
 | **ByteDance** | [Design an Event Booking and Analytics Platform](https://www.fastprep.io/system-design/event-booking-and-analytics-platform) | [![Practice][p]](https://www.fastprep.io/system-design/event-booking-and-analytics-platform) | May 07, 2026 |
 | **Zoox** | [Design a Robotaxi Teleoperations Analytics Platform](https://www.fastprep.io/system-design/robotaxi-teleoperations-analytics-platform) | [![Practice][p]](https://www.fastprep.io/system-design/robotaxi-teleoperations-analytics-platform) | Apr 26, 2026 |
 | **Discord** | [Design a Video Call Analytics Platform](https://www.fastprep.io/system-design/video-call-analytics-platform) | [![Practice][p]](https://www.fastprep.io/system-design/video-call-analytics-platform) | Apr 26, 2026 |
@@ -104,4 +105,9 @@
 | **Cohere** | [Enterprise Research Assistant](https://www.fastprep.io/system-design/enterprise-research-assistant) | [![Practice][p]](https://www.fastprep.io/system-design/enterprise-research-assistant) | Apr 01, 2026 |
 | **DoorDash** | [Food Review System](https://www.fastprep.io/system-design/food-review-system) | [![Practice][p]](https://www.fastprep.io/system-design/food-review-system) | Apr 01, 2026 |
 | **Sierra** | [Design a Resumable Streaming AI Chat](https://www.fastprep.io/system-design/resumable-streaming-ai-chat) | [![Practice][p]](https://www.fastprep.io/system-design/resumable-streaming-ai-chat) | Mar 06, 2026 |
+| **Postman** | [Design a Calendar Event Collaboration System](https://www.fastprep.io/system-design/calendar-event-collaboration-system) | [![Practice][p]](https://www.fastprep.io/system-design/calendar-event-collaboration-system) | May 15, 2025 |
+| **Postman** | [Design a Collaborative Document Workspace Frontend](https://www.fastprep.io/system-design/frontend-collaborative-document-workspace) | [![Practice][p]](https://www.fastprep.io/system-design/frontend-collaborative-document-workspace) | Jan 17, 2025 |
+| **Postman** | [Design a Multi-Provider Weather Forecast Service](https://www.fastprep.io/system-design/multi-provider-weather-forecast-service) | [![Practice][p]](https://www.fastprep.io/system-design/multi-provider-weather-forecast-service) | Nov 29, 2024 |
 | **Pinterest** | [Design Merchant Product Catalog Ingestion](https://www.fastprep.io/system-design/merchant-product-catalog-ingestion) | [![Practice][p]](https://www.fastprep.io/system-design/merchant-product-catalog-ingestion) | Aug 21, 2024 |
+| **Postman** | [Design a URL Shortening Service](https://www.fastprep.io/system-design/url-shortening-service) | [![Practice][p]](https://www.fastprep.io/system-design/url-shortening-service) | May 17, 2024 |
+| **Postman** | [Design an Authenticated Page Presence Counter](https://www.fastprep.io/system-design/authenticated-page-presence-counter) | [![Practice][p]](https://www.fastprep.io/system-design/authenticated-page-presence-counter) | Mar 31, 2020 |
