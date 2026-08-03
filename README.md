@@ -113,7 +113,7 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 <sub>Newest updates first &nbsp;·&nbsp; 🔥 added in the last 2 weeks &nbsp;·&nbsp; 🆕 in the last 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (1,665)](formats/coding.md) · [SQL (2)](formats/sql.md) · [System design (96)](formats/system-design.md) · [Low-level design (17)](formats/low-level-design.md) · [AI coding (9)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (1,665)](formats/coding.md) · [SQL (2)](formats/sql.md) · [System design (97)](formats/system-design.md) · [Low-level design (17)](formats/low-level-design.md) · [AI coding (11)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 <sub>System design, low-level design/OOD, and AI coding rows sync hourly from FastPrep's public, candidate-safe catalogs. <b>Updated</b> uses the latest reported sighting when available, otherwise the first public sync date. <b>Unattributed</b> means no source-backed employer was reported.</sub>
@@ -122,6 +122,11 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+| **OpenAI** | [Design a Distributed Video Generation Platform](https://www.fastprep.io/system-design/distributed-video-generation-platform) | System design | [![Practice][p]](https://www.fastprep.io/system-design/distributed-video-generation-platform) | 🔥 Aug 02, 2026 |
+| **OpenAI / Baseten** | [Design a Stateless Generative AI Chat Service](https://www.fastprep.io/system-design/stateless-generative-ai-chat-service) | System design | [![Practice][p]](https://www.fastprep.io/system-design/stateless-generative-ai-chat-service) | 🔥 Aug 02, 2026 |
+| **OpenAI** | [Design a Declarative Infrastructure Orchestrator](https://www.fastprep.io/system-design/declarative-infrastructure-orchestrator) | System design | [![Practice][p]](https://www.fastprep.io/system-design/declarative-infrastructure-orchestrator) | 🔥 Aug 02, 2026 |
+| **Baseten** | [Build a Durable Single-Server Key-Value Store](https://www.fastprep.io/project-coding/durable-filesystem-byte-key-value-store) | AI coding | [![Practice][p]](https://www.fastprep.io/project-coding/durable-filesystem-byte-key-value-store) | 🔥 Aug 02, 2026 |
+| **Baseten** | [Parallelize API Calls with a Thread Pool](https://www.fastprep.io/project-coding/parallel-api-thread-pool-runner) | AI coding | [![Practice][p]](https://www.fastprep.io/project-coding/parallel-api-thread-pool-runner) | 🔥 Aug 02, 2026 |
 | **DoorDash / Robinhood / Snowflake** | [Design a Scheduled Job Execution System](https://www.fastprep.io/system-design/scheduled-job-execution-system) | System design | [![Practice][p]](https://www.fastprep.io/system-design/scheduled-job-execution-system) | 🔥 Aug 01, 2026 |
 | **Decagon** | [Design a Multi-Tenant AI Gateway](https://www.fastprep.io/system-design/multi-tenant-ai-gateway) | System design | [![Practice][p]](https://www.fastprep.io/system-design/multi-tenant-ai-gateway) | 🔥 Aug 01, 2026 |
 | **Scale AI** | [Design an Embedding and Classification API](https://www.fastprep.io/system-design/embedding-and-classification-api) | System design | [![Practice][p]](https://www.fastprep.io/system-design/embedding-and-classification-api) | 🔥 Aug 01, 2026 |
@@ -129,7 +134,6 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 | **Superhuman** | [Recover a Tree from Preorder Depth Encoding](https://www.fastprep.io/problems/superhuman-recover-tree-from-preorder-depth) | Coding | [![Practice][p]](https://www.fastprep.io/problems/superhuman-recover-tree-from-preorder-depth) | 🔥 Jul 31, 2026 |
 | **Superhuman** | [Deep Copy a Singly Linked List](https://www.fastprep.io/problems/superhuman-deep-copy-linked-list) | Coding | [![Practice][p]](https://www.fastprep.io/problems/superhuman-deep-copy-linked-list) | 🔥 Jul 31, 2026 |
 | **Superhuman** | [Deep Copy a Random-Pointer List](https://www.fastprep.io/problems/superhuman-copy-random-pointer-list) | Coding | [![Practice][p]](https://www.fastprep.io/problems/superhuman-copy-random-pointer-list) | 🔥 Jul 31, 2026 |
-| **OpenAI** | [Design a Distributed Video Generation Platform](https://www.fastprep.io/system-design/distributed-video-generation-platform) | System design | [![Practice][p]](https://www.fastprep.io/system-design/distributed-video-generation-platform) | 🔥 Jul 31, 2026 |
 | **Chicago Trading** | [Design a Pre-Trade Risk Checking System](https://www.fastprep.io/system-design/pre-trade-risk-checking-system) | System design | [![Practice][p]](https://www.fastprep.io/system-design/pre-trade-risk-checking-system) | 🔥 Jul 31, 2026 |
 | **Amazon** | [Repair MovieDB Search and Recommendations](https://www.fastprep.io/project-coding/amazon-repair-moviedb-recommendations) | AI coding | [![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-moviedb-recommendations) | 🔥 Jul 31, 2026 |
 | **Plaid** | [Design an Embedded Pay-by-Bank Checkout](https://www.fastprep.io/system-design/embedded-pay-by-bank-checkout) | System design | [![Practice][p]](https://www.fastprep.io/system-design/embedded-pay-by-bank-checkout) | 🔥 Jul 31, 2026 |
@@ -318,7 +322,6 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 | **Amazon** | [Design a Distributed Recurring Workflow Scheduler](https://www.fastprep.io/system-design/distributed-recurring-workflow-scheduler) | System design | [![Practice][p]](https://www.fastprep.io/system-design/distributed-recurring-workflow-scheduler) | 🔥 Jul 21, 2026 |
 | **Mercor** | [Design a Durable Work Orchestration Platform](https://www.fastprep.io/system-design/durable-work-orchestration-platform) | System design | [![Practice][p]](https://www.fastprep.io/system-design/durable-work-orchestration-platform) | 🔥 Jul 21, 2026 |
 | **Amperity** | [Design a Read-Once Secret Sharing Service](https://www.fastprep.io/system-design/read-once-secret-sharing) | System design | [![Practice][p]](https://www.fastprep.io/system-design/read-once-secret-sharing) | 🔥 Jul 21, 2026 |
-| **OpenAI** | [Design a Stateless Generative AI Chat Service](https://www.fastprep.io/system-design/stateless-generative-ai-chat-service) | System design | [![Practice][p]](https://www.fastprep.io/system-design/stateless-generative-ai-chat-service) | 🔥 Jul 21, 2026 |
 | **Amazon** | [Design Music Search, Playlists, and Playback](https://www.fastprep.io/low-level-design/amazon-music-search-and-playback) | Low-level design | [![Practice][p]](https://www.fastprep.io/low-level-design/amazon-music-search-and-playback) | 🔥 Jul 21, 2026 |
 | **Walmart** | [Minimum Stress Path](https://www.fastprep.io/problems/walmart-minimum-stress-path) | Coding | [![Practice][p]](https://www.fastprep.io/problems/walmart-minimum-stress-path) | 🔥 Jul 20, 2026 |
 | **Capital One** | [Format a Newspaper Page](https://www.fastprep.io/problems/capital-one-format-newspaper-page) | Coding | [![Practice][p]](https://www.fastprep.io/problems/capital-one-format-newspaper-page) | 🔥 Jul 20, 2026 |
