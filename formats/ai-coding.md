@@ -2,12 +2,13 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**11 questions**
+**12 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+| **Amazon** | [Repair the Wallet Loan Marketplace](https://www.fastprep.io/project-coding/repair-wallet-loan-marketplace) | [![Practice][p]](https://www.fastprep.io/project-coding/repair-wallet-loan-marketplace) | 🔥 Aug 03, 2026 |
 | **Baseten** | [Build a Durable Single-Server Key-Value Store](https://www.fastprep.io/project-coding/durable-filesystem-byte-key-value-store) | [![Practice][p]](https://www.fastprep.io/project-coding/durable-filesystem-byte-key-value-store) | 🔥 Aug 02, 2026 |
 | **Baseten** | [Parallelize API Calls with a Thread Pool](https://www.fastprep.io/project-coding/parallel-api-thread-pool-runner) | [![Practice][p]](https://www.fastprep.io/project-coding/parallel-api-thread-pool-runner) | 🔥 Aug 02, 2026 |
 | **Amazon** | [Repair MovieDB Search and Recommendations](https://www.fastprep.io/project-coding/amazon-repair-moviedb-recommendations) | [![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-moviedb-recommendations) | 🔥 Jul 31, 2026 |
