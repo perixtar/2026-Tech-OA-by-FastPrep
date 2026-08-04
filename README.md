@@ -113,7 +113,7 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 <sub>Newest updates first &nbsp;·&nbsp; 🔥 added in the last 2 weeks &nbsp;·&nbsp; 🆕 in the last 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (1,665)](formats/coding.md) · [SQL (2)](formats/sql.md) · [System design (107)](formats/system-design.md) · [Low-level design (24)](formats/low-level-design.md) · [AI coding (12)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (1,665)](formats/coding.md) · [SQL (2)](formats/sql.md) · [System design (107)](formats/system-design.md) · [Low-level design (26)](formats/low-level-design.md) · [AI coding (12)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 <sub>System design, low-level design/OOD, and AI coding rows sync hourly from FastPrep's public, candidate-safe catalogs. <b>Updated</b> uses the latest reported sighting when available, otherwise the first public sync date. <b>Unattributed</b> means no source-backed employer was reported.</sub>
@@ -126,6 +126,7 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 | **Anthropic** | [Design a Prompt Playground](https://www.fastprep.io/system-design/prompt-playground-system) | System design | [![Practice][p]](https://www.fastprep.io/system-design/prompt-playground-system) | 🔥 Aug 03, 2026 |
 | **Anthropic** | [Design Peer-to-Peer Model Distribution](https://www.fastprep.io/system-design/peer-to-peer-model-distribution) | System design | [![Practice][p]](https://www.fastprep.io/system-design/peer-to-peer-model-distribution) | 🔥 Aug 03, 2026 |
 | **Amazon** | [Repair the Wallet Loan Marketplace](https://www.fastprep.io/project-coding/repair-wallet-loan-marketplace) | AI coding | [![Practice][p]](https://www.fastprep.io/project-coding/repair-wallet-loan-marketplace) | 🔥 Aug 03, 2026 |
+| **Amazon** | [Design a Playlist Source Mixer](https://www.fastprep.io/low-level-design/playlist-source-mixer) | Low-level design | [![Practice][p]](https://www.fastprep.io/low-level-design/playlist-source-mixer) | 🔥 Aug 03, 2026 |
 | **OpenAI** | [Design a Distributed Video Generation Platform](https://www.fastprep.io/system-design/distributed-video-generation-platform) | System design | [![Practice][p]](https://www.fastprep.io/system-design/distributed-video-generation-platform) | 🔥 Aug 02, 2026 |
 | **OpenAI / Baseten** | [Design a Stateless Generative AI Chat Service](https://www.fastprep.io/system-design/stateless-generative-ai-chat-service) | System design | [![Practice][p]](https://www.fastprep.io/system-design/stateless-generative-ai-chat-service) | 🔥 Aug 02, 2026 |
 | **OpenAI** | [Design a Declarative Infrastructure Orchestrator](https://www.fastprep.io/system-design/declarative-infrastructure-orchestrator) | System design | [![Practice][p]](https://www.fastprep.io/system-design/declarative-infrastructure-orchestrator) | 🔥 Aug 02, 2026 |
@@ -177,6 +178,7 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 | **Susquehanna International Group** | [Design a Cash Register with Inventory and Profit Tracking](https://www.fastprep.io/low-level-design/cash-register-inventory-and-profit) | Low-level design | [![Practice][p]](https://www.fastprep.io/low-level-design/cash-register-inventory-and-profit) | 🔥 Jul 30, 2026 |
 | **Amazon** | [Design a Database Partition Split-and-Merge Manager](https://www.fastprep.io/low-level-design/database-partition-split-and-merge-manager) | Low-level design | [![Practice][p]](https://www.fastprep.io/low-level-design/database-partition-split-and-merge-manager) | 🔥 Jul 30, 2026 |
 | **Walmart** | [Design a Marketplace Product Catalog Platform](https://www.fastprep.io/system-design/marketplace-product-catalog-platform) | System design | [![Practice][p]](https://www.fastprep.io/system-design/marketplace-product-catalog-platform) | 🔥 Jul 30, 2026 |
+| **Amazon** | [Design and Implement a Streaming Log Handler](https://www.fastprep.io/low-level-design/streaming-log-handler) | Low-level design | [![Practice][p]](https://www.fastprep.io/low-level-design/streaming-log-handler) | 🔥 Jul 30, 2026 |
 | **Cognitiv** | [Word Search](https://www.fastprep.io/problems/cognitiv-word-search) | Coding | [![Practice][p]](https://www.fastprep.io/problems/cognitiv-word-search) | 🔥 Jul 29, 2026 |
 | **Reddit** | [Chatter Message Window](https://www.fastprep.io/problems/reddit-chatter-message-window) | Coding | [![Practice][p]](https://www.fastprep.io/problems/reddit-chatter-message-window) | 🔥 Jul 29, 2026 |
 | **Amazon** | [Count the Number of Complete Components](https://www.fastprep.io/problems/amazon-count-complete-components) | Coding | [![Practice][p]](https://www.fastprep.io/problems/amazon-count-complete-components) | 🔥 Jul 29, 2026 |
