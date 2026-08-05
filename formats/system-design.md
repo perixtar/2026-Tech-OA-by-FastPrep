@@ -2,12 +2,14 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**107 questions**
+**109 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+| **Figma** | [Design Access-Aware Design-File Retrieval and Ranking](https://www.fastprep.io/system-design/access-aware-design-file-retrieval-ranking) | [![Practice][p]](https://www.fastprep.io/system-design/access-aware-design-file-retrieval-ranking) | 🔥 Aug 04, 2026 |
+| **OpenAI / Figma** | [Design an Agent Evaluation Platform](https://www.fastprep.io/system-design/agent-evaluation-platform) | [![Practice][p]](https://www.fastprep.io/system-design/agent-evaluation-platform) | 🔥 Aug 04, 2026 |
 | **DoorDash** | [Design a Downstream-Service Alert Notification System](https://www.fastprep.io/system-design/downstream-service-alert-notification-system) | [![Practice][p]](https://www.fastprep.io/system-design/downstream-service-alert-notification-system) | 🔥 Aug 03, 2026 |
 | **Anthropic** | [Design a Prompt Playground](https://www.fastprep.io/system-design/prompt-playground-system) | [![Practice][p]](https://www.fastprep.io/system-design/prompt-playground-system) | 🔥 Aug 03, 2026 |
 | **Anthropic** | [Design Peer-to-Peer Model Distribution](https://www.fastprep.io/system-design/peer-to-peer-model-distribution) | [![Practice][p]](https://www.fastprep.io/system-design/peer-to-peer-model-distribution) | 🔥 Aug 03, 2026 |

@@ -113,7 +113,7 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 <sub>Newest updates first &nbsp;·&nbsp; 🔥 added in the last 2 weeks &nbsp;·&nbsp; 🆕 in the last 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (1,665)](formats/coding.md) · [SQL (2)](formats/sql.md) · [System design (107)](formats/system-design.md) · [Low-level design (26)](formats/low-level-design.md) · [AI coding (12)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (1,665)](formats/coding.md) · [SQL (2)](formats/sql.md) · [System design (109)](formats/system-design.md) · [Low-level design (26)](formats/low-level-design.md) · [AI coding (12)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 <sub>System design, low-level design/OOD, and AI coding rows sync hourly from FastPrep's public, candidate-safe catalogs. <b>Updated</b> uses the latest reported sighting when available, otherwise the first public sync date. <b>Unattributed</b> means no source-backed employer was reported.</sub>
@@ -122,6 +122,8 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+| **Figma** | [Design Access-Aware Design-File Retrieval and Ranking](https://www.fastprep.io/system-design/access-aware-design-file-retrieval-ranking) | System design | [![Practice][p]](https://www.fastprep.io/system-design/access-aware-design-file-retrieval-ranking) | 🔥 Aug 04, 2026 |
+| **OpenAI / Figma** | [Design an Agent Evaluation Platform](https://www.fastprep.io/system-design/agent-evaluation-platform) | System design | [![Practice][p]](https://www.fastprep.io/system-design/agent-evaluation-platform) | 🔥 Aug 04, 2026 |
 | **DoorDash** | [Design a Downstream-Service Alert Notification System](https://www.fastprep.io/system-design/downstream-service-alert-notification-system) | System design | [![Practice][p]](https://www.fastprep.io/system-design/downstream-service-alert-notification-system) | 🔥 Aug 03, 2026 |
 | **Anthropic** | [Design a Prompt Playground](https://www.fastprep.io/system-design/prompt-playground-system) | System design | [![Practice][p]](https://www.fastprep.io/system-design/prompt-playground-system) | 🔥 Aug 03, 2026 |
 | **Anthropic** | [Design Peer-to-Peer Model Distribution](https://www.fastprep.io/system-design/peer-to-peer-model-distribution) | System design | [![Practice][p]](https://www.fastprep.io/system-design/peer-to-peer-model-distribution) | 🔥 Aug 03, 2026 |
