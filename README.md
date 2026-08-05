@@ -65,14 +65,14 @@ Snowflake    ██ 43
 JP Morgan    ██ 33
 Cisco        ██ 32
 
-… + 182 more companies in the table below ↓
+… + 183 more companies in the table below ↓
 ```
 
 <details>
-<summary><b>🏢 Full company list (192+) — click to expand</b></summary>
+<summary><b>🏢 Full company list (193+) — click to expand</b></summary>
 <br/>
 
-Accenture, Adobe, Agoda, Airbnb, Airtable, Akuna, Alarm.com, Amazon, Amperity, Anthropic, Apple, Applied Intuition, Arista Networks, Asana, Assort Health, Atlassian, Barclays, Baseten, Blackrock, Blinkit, Bloomberg, BNP, BNY Mellon, Boston Consulting Group, Box, Braze, Brex, ByteDance, Canva, Capillary Technologies, Capital One, Chicago Trading, Circle, Cisco, Citadel, Cloudflare, Codeium, Cognitiv, Cohere, Coinbase, Commvault, Confluent, Cresta, Crusoe, Cursor, Cvent, Databricks, Datadog, DE Shaw, Decagon, Deloitte, Deutsche Bank, Discord, Distyl AI, DoorDash, DRW, DTCC, Eat Club, eBay, Epam, Epify, Ericsson, Expedia, FactSet, Figma, Flexport, Flipkart, FluidStack, Fortinet, GE Vernova, Geico, General Motors, Geneva Trading, GitHub, Goldman Sachs, Google, Guidewire, HackerRank, Harvey, Headlands, HSBC, Hudson River Trading, Hyper Verge, IBM, IDFC, IMC, Infosys, Instacart, Intuit, IXL Learning, Jane Street, JP Morgan, Juspay, LinkedIn, Lyft, MathWorks, Mathworks, McKinsey, Meesho, Mercor, Meta, Micro1, Microsoft, Morgan Stanley, Moveworks, NatWest, Netflix, Nutanix, Nvidia, Observer.AI, Odoo, Okta, OnePay, Onix, OpenAI, Opendoor, Optiver, Oracle, Oscar Health, Oura, Palantir, Patreon, Paypal, PayPay, Pinterest, Plaid, Point 72, Postman, Publicis Sapients, QRT, Quora, Ramp, Reddit, Replit, Rippling, Robinhood, Roblox, Rubrik, Rurik, Safe Security, Salesforce, Samsung, Sarvam AI, SavantLabs, Scale AI, ServiceNow, Shopify, Sierra, Sig, Snowflake, Sofi, Spotnana, Squarepoint, StackAdapt, Stripe, Superhuman, Susquehanna International Group, Swiggy, Target, TCS, Tekion, Tesla, The D. E. Shaw Group, ThoughtSpot, TikTok, Toast, Toshiba, Trade Desk, Trend Micro, Twilio, Two Sigma, Uber, Upstart, Vanta, Visa, Walleye Capital, Walmart, Wayfair, Waymo, Wells Fargo, Whatnot, Wolverine Trading, Xperi, YahoO, ZipRecruiter, Zolando, ZoloStays, Zomato / Eternal, Zoox, Zopsmart, Zorvyn, Zscaler.
+Accenture, Adobe, Agoda, Airbnb, Airtable, Akuna, Alarm.com, Amazon, Amperity, Anthropic, Apple, Applied Intuition, Arista Networks, Asana, Assort Health, Atlassian, Barclays, Baseten, Blackrock, Blinkit, Bloomberg, BNP, BNY Mellon, Boston Consulting Group, Box, Braze, Brex, ByteDance, Canva, Capillary Technologies, Capital One, Chicago Trading, Circle, Cisco, Citadel, Cloudflare, Codeium, Cognitiv, Cohere, Coinbase, Commvault, Confluent, Cresta, Crusoe, Cursor, Cvent, Databricks, Datadog, DE Shaw, Decagon, Deloitte, Deutsche Bank, Discord, Distyl AI, DoorDash, DRW, DTCC, Eat Club, eBay, Epam, Epify, Ericsson, Expedia, FactSet, Figma, Flexport, Flipkart, FluidStack, Fortinet, GE Vernova, Geico, General Motors, Geneva Trading, GitHub, Goldman Sachs, Google, Guidewire, HackerRank, Harvey, Headlands, HSBC, Hudson River Trading, Hyper Verge, IBM, IDFC, IMC, Infosys, infosys, Instacart, Intuit, IXL Learning, Jane Street, JP Morgan, Juspay, LinkedIn, Lyft, MathWorks, Mathworks, McKinsey, Meesho, Mercor, Meta, Micro1, Microsoft, Morgan Stanley, Moveworks, NatWest, Netflix, Nutanix, Nvidia, Observer.AI, Odoo, Okta, OnePay, Onix, OpenAI, Opendoor, Optiver, Oracle, Oscar Health, Oura, Palantir, Patreon, Paypal, PayPay, Pinterest, Plaid, Point 72, Postman, Publicis Sapients, QRT, Quora, Ramp, Reddit, Replit, Rippling, Robinhood, Roblox, Rubrik, Rurik, Safe Security, Salesforce, Samsung, Sarvam AI, SavantLabs, Scale AI, ServiceNow, Shopify, Sierra, Sig, Snowflake, Sofi, Spotnana, Squarepoint, StackAdapt, Stripe, Superhuman, Susquehanna International Group, Swiggy, Target, TCS, Tekion, Tesla, The D. E. Shaw Group, ThoughtSpot, TikTok, Toast, Toshiba, Trade Desk, Trend Micro, Twilio, Two Sigma, Uber, Upstart, Vanta, Visa, Walleye Capital, Walmart, Wayfair, Waymo, Wells Fargo, Whatnot, Wolverine Trading, Xperi, YahoO, ZipRecruiter, Zolando, ZoloStays, Zomato / Eternal, Zoox, Zopsmart, Zorvyn, Zscaler.
 
 </details>
 
@@ -113,7 +113,7 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 <sub>Newest updates first &nbsp;·&nbsp; 🔥 added in the last 2 weeks &nbsp;·&nbsp; 🆕 in the last 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (1,665)](formats/coding.md) · [SQL (2)](formats/sql.md) · [System design (109)](formats/system-design.md) · [Low-level design (26)](formats/low-level-design.md) · [AI coding (12)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (1,665)](formats/coding.md) · [SQL (2)](formats/sql.md) · [System design (110)](formats/system-design.md) · [Low-level design (26)](formats/low-level-design.md) · [AI coding (12)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 <sub>System design, low-level design/OOD, and AI coding rows sync hourly from FastPrep's public, candidate-safe catalogs. <b>Updated</b> uses the latest reported sighting when available, otherwise the first public sync date. <b>Unattributed</b> means no source-backed employer was reported.</sub>
@@ -766,6 +766,7 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 | **Amazon** | [Package Delivery System](https://www.fastprep.io/problems/amazon-package-delivery-system) | Coding | [![Practice][p]](https://www.fastprep.io/problems/amazon-package-delivery-system) | Jan 24, 2026 |
 | **Amazon** | [VM Rental Revenue](https://www.fastprep.io/problems/amazon-vm-rental-revenue) | Coding | [![Practice][p]](https://www.fastprep.io/problems/amazon-vm-rental-revenue) | Jan 24, 2026 |
 | **Amazon** | [Lexicographically Maximum Final Sequence](https://www.fastprep.io/problems/amazon-lexicographically-maximum-final-sequence) | Coding | [![Practice][p]](https://www.fastprep.io/problems/amazon-lexicographically-maximum-final-sequence) | Jan 24, 2026 |
+| **infosys** | [Design Ride-Hailing Dispatch and Trip Lifecycle](https://www.fastprep.io/system-design/regional-ride-hailing-dispatch-system) | System design | [![Practice][p]](https://www.fastprep.io/system-design/regional-ride-hailing-dispatch-system) | Jan 21, 2026 |
 | **JP Morgan** | [Count Dropped Requests](https://www.fastprep.io/problems/jpmorgan-count-dropped-requests) | Coding | [![Practice][p]](https://www.fastprep.io/problems/jpmorgan-count-dropped-requests) | Jan 19, 2026 |
 | **JP Morgan** | [Generate Table of Contents](https://www.fastprep.io/problems/jpmorgan-generate-table-of-contents) | Coding | [![Practice][p]](https://www.fastprep.io/problems/jpmorgan-generate-table-of-contents) | Jan 19, 2026 |
 | **Walmart** | [Sort Real Number Strings](https://www.fastprep.io/problems/walmart-sort-real-number-strings) | Coding | [![Practice][p]](https://www.fastprep.io/problems/walmart-sort-real-number-strings) | Jan 12, 2026 |

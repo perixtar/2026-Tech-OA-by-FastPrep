@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**109 questions**
+**110 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -110,6 +110,7 @@
 | **Amazon** | [Design a Fastag Toll Payment System](https://www.fastprep.io/system-design/fastag-toll-payment-system) | [![Practice][p]](https://www.fastprep.io/system-design/fastag-toll-payment-system) | Apr 25, 2026 |
 | **Cohere** | [Enterprise Research Assistant](https://www.fastprep.io/system-design/enterprise-research-assistant) | [![Practice][p]](https://www.fastprep.io/system-design/enterprise-research-assistant) | Apr 01, 2026 |
 | **DoorDash** | [Food Review System](https://www.fastprep.io/system-design/food-review-system) | [![Practice][p]](https://www.fastprep.io/system-design/food-review-system) | Apr 01, 2026 |
+| **infosys** | [Design Ride-Hailing Dispatch and Trip Lifecycle](https://www.fastprep.io/system-design/regional-ride-hailing-dispatch-system) | [![Practice][p]](https://www.fastprep.io/system-design/regional-ride-hailing-dispatch-system) | Jan 21, 2026 |
 | **Sierra** | [Design a Resumable Streaming AI Chat](https://www.fastprep.io/system-design/resumable-streaming-ai-chat) | [![Practice][p]](https://www.fastprep.io/system-design/resumable-streaming-ai-chat) | Nov 24, 2025 |
 | **Postman** | [Design a Calendar Event Collaboration System](https://www.fastprep.io/system-design/calendar-event-collaboration-system) | [![Practice][p]](https://www.fastprep.io/system-design/calendar-event-collaboration-system) | May 15, 2025 |
 | **Postman** | [Design a Collaborative Document Workspace Frontend](https://www.fastprep.io/system-design/frontend-collaborative-document-workspace) | [![Practice][p]](https://www.fastprep.io/system-design/frontend-collaborative-document-workspace) | Jan 17, 2025 |
