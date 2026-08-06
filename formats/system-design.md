@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**113 questions**
+**118 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -12,11 +12,14 @@
 | **Rippling** | [Design a Personalized News Aggregation Platform](https://www.fastprep.io/system-design/personalized-news-aggregation-platform) | [![Practice][p]](https://www.fastprep.io/system-design/personalized-news-aggregation-platform) | 🔥 Aug 05, 2026 |
 | **Netflix** | [Design Advertising Order Lifecycle Tracking](https://www.fastprep.io/system-design/advertising-order-lifecycle-tracking) | [![Practice][p]](https://www.fastprep.io/system-design/advertising-order-lifecycle-tracking) | 🔥 Aug 05, 2026 |
 | **Netflix** | [Design an Advertising Frequency-Capping Service](https://www.fastprep.io/system-design/advertising-frequency-capping-service) | [![Practice][p]](https://www.fastprep.io/system-design/advertising-frequency-capping-service) | 🔥 Aug 05, 2026 |
+| **Airtable** | [Design a Backend Search Engine](https://www.fastprep.io/system-design/backend-search-engine) | [![Practice][p]](https://www.fastprep.io/system-design/backend-search-engine) | 🔥 Aug 05, 2026 |
 | **Figma** | [Design Access-Aware Design-File Retrieval and Ranking](https://www.fastprep.io/system-design/access-aware-design-file-retrieval-ranking) | [![Practice][p]](https://www.fastprep.io/system-design/access-aware-design-file-retrieval-ranking) | 🔥 Aug 04, 2026 |
 | **OpenAI / Figma** | [Design an Agent Evaluation Platform](https://www.fastprep.io/system-design/agent-evaluation-platform) | [![Practice][p]](https://www.fastprep.io/system-design/agent-evaluation-platform) | 🔥 Aug 04, 2026 |
+| **Rippling** | [Design a Centralized Log Ingestion and Search Platform](https://www.fastprep.io/system-design/centralized-log-ingestion-and-search) | [![Practice][p]](https://www.fastprep.io/system-design/centralized-log-ingestion-and-search) | 🔥 Aug 04, 2026 |
 | **DoorDash** | [Design a Downstream-Service Alert Notification System](https://www.fastprep.io/system-design/downstream-service-alert-notification-system) | [![Practice][p]](https://www.fastprep.io/system-design/downstream-service-alert-notification-system) | 🔥 Aug 03, 2026 |
 | **Anthropic** | [Design a Prompt Playground](https://www.fastprep.io/system-design/prompt-playground-system) | [![Practice][p]](https://www.fastprep.io/system-design/prompt-playground-system) | 🔥 Aug 03, 2026 |
 | **Anthropic** | [Design Peer-to-Peer Model Distribution](https://www.fastprep.io/system-design/peer-to-peer-model-distribution) | [![Practice][p]](https://www.fastprep.io/system-design/peer-to-peer-model-distribution) | 🔥 Aug 03, 2026 |
+| **Gusto** | [Design a Restaurant Staff Scheduling System](https://www.fastprep.io/system-design/restaurant-scheduling-system) | [![Practice][p]](https://www.fastprep.io/system-design/restaurant-scheduling-system) | 🔥 Aug 03, 2026 |
 | **OpenAI** | [Design a Distributed Video Generation Platform](https://www.fastprep.io/system-design/distributed-video-generation-platform) | [![Practice][p]](https://www.fastprep.io/system-design/distributed-video-generation-platform) | 🔥 Aug 02, 2026 |
 | **OpenAI / Baseten** | [Design a Stateless Generative AI Chat Service](https://www.fastprep.io/system-design/stateless-generative-ai-chat-service) | [![Practice][p]](https://www.fastprep.io/system-design/stateless-generative-ai-chat-service) | 🔥 Aug 02, 2026 |
 | **OpenAI** | [Design a Declarative Infrastructure Orchestrator](https://www.fastprep.io/system-design/declarative-infrastructure-orchestrator) | [![Practice][p]](https://www.fastprep.io/system-design/declarative-infrastructure-orchestrator) | 🔥 Aug 02, 2026 |
@@ -38,6 +41,9 @@
 | **Zscaler / Amazon** | [Design a Global Service Metrics Monitoring and Alerting Platform](https://www.fastprep.io/system-design/global-service-metrics-monitoring-and-alerting) | [![Practice][p]](https://www.fastprep.io/system-design/global-service-metrics-monitoring-and-alerting) | 🔥 Jul 30, 2026 |
 | **Expedia** | [Design a Partner Data Aggregation and Query Service](https://www.fastprep.io/system-design/partner-data-aggregation-and-query-service) | [![Practice][p]](https://www.fastprep.io/system-design/partner-data-aggregation-and-query-service) | 🔥 Jul 30, 2026 |
 | **Walmart** | [Design a Marketplace Product Catalog Platform](https://www.fastprep.io/system-design/marketplace-product-catalog-platform) | [![Practice][p]](https://www.fastprep.io/system-design/marketplace-product-catalog-platform) | 🔥 Jul 30, 2026 |
+| **Oracle / Retell AI** | [Design a Distributed Rate Limiter](https://www.fastprep.io/system-design/distributed-rate-limiter) | [![Practice][p]](https://www.fastprep.io/system-design/distributed-rate-limiter) | 🔥 Jul 30, 2026 |
+| **DoorDash** | [Design a Three-Day Charity Event System](https://www.fastprep.io/system-design/three-day-charity-event-system) | [![Practice][p]](https://www.fastprep.io/system-design/three-day-charity-event-system) | 🔥 Jul 30, 2026 |
+| **Attentive** | [Design Retailer Product Catalog Serving](https://www.fastprep.io/system-design/retailer-product-catalog-serving) | [![Practice][p]](https://www.fastprep.io/system-design/retailer-product-catalog-serving) | 🔥 Jul 30, 2026 |
 | **Databricks** | [Bookstore Batch Book-Price API](https://www.fastprep.io/system-design/bookstore-batch-book-price-api) | [![Practice][p]](https://www.fastprep.io/system-design/bookstore-batch-book-price-api) | 🔥 Jul 29, 2026 |
 | **Anthropic** | [Design a Model-Weight Deployment Platform](https://www.fastprep.io/system-design/model-weight-deployment-platform) | [![Practice][p]](https://www.fastprep.io/system-design/model-weight-deployment-platform) | 🔥 Jul 29, 2026 |
 | **Rippling** | [Design a Publisher News Feed](https://www.fastprep.io/system-design/publisher-news-feed) | [![Practice][p]](https://www.fastprep.io/system-design/publisher-news-feed) | 🔥 Jul 29, 2026 |
@@ -46,7 +52,6 @@
 | **Amazon** | [Design Offline Reading-Progress Synchronization](https://www.fastprep.io/system-design/offline-reading-progress-sync) | [![Practice][p]](https://www.fastprep.io/system-design/offline-reading-progress-sync) | 🔥 Jul 29, 2026 |
 | **Anthropic** | [One-to-One Chat Service](https://www.fastprep.io/system-design/one-to-one-chat-service) | [![Practice][p]](https://www.fastprep.io/system-design/one-to-one-chat-service) | 🔥 Jul 29, 2026 |
 | **Databricks** | [WAL-Backed Batched Log-Writing System](https://www.fastprep.io/system-design/wal-backed-batched-log-writing-system) | [![Practice][p]](https://www.fastprep.io/system-design/wal-backed-batched-log-writing-system) | 🔥 Jul 29, 2026 |
-| **Oracle** | [Design a Distributed Rate Limiter](https://www.fastprep.io/system-design/distributed-rate-limiter) | [![Practice][p]](https://www.fastprep.io/system-design/distributed-rate-limiter) | 🔥 Jul 28, 2026 |
 | **Oracle** | [Design a Healthcare Data Ingestion Pipeline](https://www.fastprep.io/system-design/healthcare-data-ingestion-pipeline) | [![Practice][p]](https://www.fastprep.io/system-design/healthcare-data-ingestion-pipeline) | 🔥 Jul 28, 2026 |
 | **Google** | [Distributed Quoted-Log Tokenization](https://www.fastprep.io/system-design/distributed-quoted-log-tokenization) | [![Practice][p]](https://www.fastprep.io/system-design/distributed-quoted-log-tokenization) | 🔥 Jul 28, 2026 |
 | **Lyft** | [Donation Platform](https://www.fastprep.io/system-design/donation-platform) | [![Practice][p]](https://www.fastprep.io/system-design/donation-platform) | 🔥 Jul 28, 2026 |
