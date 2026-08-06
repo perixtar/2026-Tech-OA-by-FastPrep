@@ -113,7 +113,7 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 <sub>Newest updates first &nbsp;·&nbsp; 🔥 added in the last 2 weeks &nbsp;·&nbsp; 🆕 in the last 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (1,665)](formats/coding.md) · [SQL (2)](formats/sql.md) · [System design (110)](formats/system-design.md) · [Low-level design (26)](formats/low-level-design.md) · [AI coding (12)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (1,665)](formats/coding.md) · [SQL (2)](formats/sql.md) · [System design (113)](formats/system-design.md) · [Low-level design (26)](formats/low-level-design.md) · [AI coding (12)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 <sub>System design, low-level design/OOD, and AI coding rows sync hourly from FastPrep's public, candidate-safe catalogs. <b>Updated</b> uses the latest reported sighting when available, otherwise the first public sync date. <b>Unattributed</b> means no source-backed employer was reported.</sub>
@@ -122,6 +122,10 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+| **OpenAI** | [Design an Online Chess Platform](https://www.fastprep.io/system-design/online-chess-platform) | System design | [![Practice][p]](https://www.fastprep.io/system-design/online-chess-platform) | 🔥 Aug 05, 2026 |
+| **Rippling** | [Design a Personalized News Aggregation Platform](https://www.fastprep.io/system-design/personalized-news-aggregation-platform) | System design | [![Practice][p]](https://www.fastprep.io/system-design/personalized-news-aggregation-platform) | 🔥 Aug 05, 2026 |
+| **Netflix** | [Design Advertising Order Lifecycle Tracking](https://www.fastprep.io/system-design/advertising-order-lifecycle-tracking) | System design | [![Practice][p]](https://www.fastprep.io/system-design/advertising-order-lifecycle-tracking) | 🔥 Aug 05, 2026 |
+| **Netflix** | [Design an Advertising Frequency-Capping Service](https://www.fastprep.io/system-design/advertising-frequency-capping-service) | System design | [![Practice][p]](https://www.fastprep.io/system-design/advertising-frequency-capping-service) | 🔥 Aug 05, 2026 |
 | **Figma** | [Design Access-Aware Design-File Retrieval and Ranking](https://www.fastprep.io/system-design/access-aware-design-file-retrieval-ranking) | System design | [![Practice][p]](https://www.fastprep.io/system-design/access-aware-design-file-retrieval-ranking) | 🔥 Aug 04, 2026 |
 | **OpenAI / Figma** | [Design an Agent Evaluation Platform](https://www.fastprep.io/system-design/agent-evaluation-platform) | System design | [![Practice][p]](https://www.fastprep.io/system-design/agent-evaluation-platform) | 🔥 Aug 04, 2026 |
 | **DoorDash** | [Design a Downstream-Service Alert Notification System](https://www.fastprep.io/system-design/downstream-service-alert-notification-system) | System design | [![Practice][p]](https://www.fastprep.io/system-design/downstream-service-alert-notification-system) | 🔥 Aug 03, 2026 |
@@ -328,7 +332,6 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 | **DRW** | [Shortest Compressed Length After Removal](https://www.fastprep.io/problems/drw-shortest-compressed-length-after-removal) | Coding | [![Practice][p]](https://www.fastprep.io/problems/drw-shortest-compressed-length-after-removal) | 🆕 Jul 22, 2026 |
 | **Amazon** | [Design a Financial Portfolio Dashboard](https://www.fastprep.io/system-design/financial-portfolio-dashboard) | System design | [![Practice][p]](https://www.fastprep.io/system-design/financial-portfolio-dashboard) | 🆕 Jul 22, 2026 |
 | **Zoox** | [Design a Nearby Autonomous Vehicle Search Service](https://www.fastprep.io/system-design/nearby-autonomous-vehicle-search) | System design | [![Practice][p]](https://www.fastprep.io/system-design/nearby-autonomous-vehicle-search) | 🆕 Jul 22, 2026 |
-| **OpenAI** | [Design an Online Chess Platform](https://www.fastprep.io/system-design/online-chess-platform) | System design | [![Practice][p]](https://www.fastprep.io/system-design/online-chess-platform) | 🆕 Jul 22, 2026 |
 | **Databricks** | [Design a Chat Application with Message and Thread Deletion](https://www.fastprep.io/system-design/chat-message-and-thread-deletion) | System design | [![Practice][p]](https://www.fastprep.io/system-design/chat-message-and-thread-deletion) | 🆕 Jul 22, 2026 |
 | **Amazon** | [Design a Distributed Recurring Workflow Scheduler](https://www.fastprep.io/system-design/distributed-recurring-workflow-scheduler) | System design | [![Practice][p]](https://www.fastprep.io/system-design/distributed-recurring-workflow-scheduler) | 🆕 Jul 21, 2026 |
 | **Mercor** | [Design a Durable Work Orchestration Platform](https://www.fastprep.io/system-design/durable-work-orchestration-platform) | System design | [![Practice][p]](https://www.fastprep.io/system-design/durable-work-orchestration-platform) | 🆕 Jul 21, 2026 |

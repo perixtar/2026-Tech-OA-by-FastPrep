@@ -2,12 +2,16 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**110 questions**
+**113 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+| **OpenAI** | [Design an Online Chess Platform](https://www.fastprep.io/system-design/online-chess-platform) | [![Practice][p]](https://www.fastprep.io/system-design/online-chess-platform) | 🔥 Aug 05, 2026 |
+| **Rippling** | [Design a Personalized News Aggregation Platform](https://www.fastprep.io/system-design/personalized-news-aggregation-platform) | [![Practice][p]](https://www.fastprep.io/system-design/personalized-news-aggregation-platform) | 🔥 Aug 05, 2026 |
+| **Netflix** | [Design Advertising Order Lifecycle Tracking](https://www.fastprep.io/system-design/advertising-order-lifecycle-tracking) | [![Practice][p]](https://www.fastprep.io/system-design/advertising-order-lifecycle-tracking) | 🔥 Aug 05, 2026 |
+| **Netflix** | [Design an Advertising Frequency-Capping Service](https://www.fastprep.io/system-design/advertising-frequency-capping-service) | [![Practice][p]](https://www.fastprep.io/system-design/advertising-frequency-capping-service) | 🔥 Aug 05, 2026 |
 | **Figma** | [Design Access-Aware Design-File Retrieval and Ranking](https://www.fastprep.io/system-design/access-aware-design-file-retrieval-ranking) | [![Practice][p]](https://www.fastprep.io/system-design/access-aware-design-file-retrieval-ranking) | 🔥 Aug 04, 2026 |
 | **OpenAI / Figma** | [Design an Agent Evaluation Platform](https://www.fastprep.io/system-design/agent-evaluation-platform) | [![Practice][p]](https://www.fastprep.io/system-design/agent-evaluation-platform) | 🔥 Aug 04, 2026 |
 | **DoorDash** | [Design a Downstream-Service Alert Notification System](https://www.fastprep.io/system-design/downstream-service-alert-notification-system) | [![Practice][p]](https://www.fastprep.io/system-design/downstream-service-alert-notification-system) | 🔥 Aug 03, 2026 |
@@ -71,7 +75,6 @@
 | **Cursor** | [Design a Versioned IDE Settings Sync System](https://www.fastprep.io/system-design/versioned-ide-settings-sync) | [![Practice][p]](https://www.fastprep.io/system-design/versioned-ide-settings-sync) | 🔥 Jul 23, 2026 |
 | **Amazon** | [Design a Financial Portfolio Dashboard](https://www.fastprep.io/system-design/financial-portfolio-dashboard) | [![Practice][p]](https://www.fastprep.io/system-design/financial-portfolio-dashboard) | 🆕 Jul 22, 2026 |
 | **Zoox** | [Design a Nearby Autonomous Vehicle Search Service](https://www.fastprep.io/system-design/nearby-autonomous-vehicle-search) | [![Practice][p]](https://www.fastprep.io/system-design/nearby-autonomous-vehicle-search) | 🆕 Jul 22, 2026 |
-| **OpenAI** | [Design an Online Chess Platform](https://www.fastprep.io/system-design/online-chess-platform) | [![Practice][p]](https://www.fastprep.io/system-design/online-chess-platform) | 🆕 Jul 22, 2026 |
 | **Databricks** | [Design a Chat Application with Message and Thread Deletion](https://www.fastprep.io/system-design/chat-message-and-thread-deletion) | [![Practice][p]](https://www.fastprep.io/system-design/chat-message-and-thread-deletion) | 🆕 Jul 22, 2026 |
 | **Amazon** | [Design a Distributed Recurring Workflow Scheduler](https://www.fastprep.io/system-design/distributed-recurring-workflow-scheduler) | [![Practice][p]](https://www.fastprep.io/system-design/distributed-recurring-workflow-scheduler) | 🆕 Jul 21, 2026 |
 | **Mercor** | [Design a Durable Work Orchestration Platform](https://www.fastprep.io/system-design/durable-work-orchestration-platform) | [![Practice][p]](https://www.fastprep.io/system-design/durable-work-orchestration-platform) | 🆕 Jul 21, 2026 |
