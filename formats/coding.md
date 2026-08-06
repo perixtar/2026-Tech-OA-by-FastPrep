@@ -2,12 +2,25 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**1,665 questions**
+**1,682 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+| **TikTok** | [Concatenate Digit-wise Sums](https://www.fastprep.io/problems/tiktok-concatenate-digit-wise-sums) | [![Practice][p]](https://www.fastprep.io/problems/tiktok-concatenate-digit-wise-sums) | 🔥 Aug 05, 2026 |
+| **TikTok** | [Count 2x2 Submatrices by Black Cells](https://www.fastprep.io/problems/tiktok-count-black-blocks) | [![Practice][p]](https://www.fastprep.io/problems/tiktok-count-black-blocks) | 🔥 Aug 05, 2026 |
+| **TikTok** | [Count House Segments After Destruction](https://www.fastprep.io/problems/tiktok-count-house-segments-after-destruction) | [![Practice][p]](https://www.fastprep.io/problems/tiktok-count-house-segments-after-destruction) | 🔥 Aug 05, 2026 |
+| **TikTok** | [Debugger Breakpoint Actions](https://www.fastprep.io/problems/tiktok-debugger-breakpoint-actions) | [![Practice][p]](https://www.fastprep.io/problems/tiktok-debugger-breakpoint-actions) | 🔥 Aug 05, 2026 |
+| **TikTok** | [Find All Local Peaks](https://www.fastprep.io/problems/tiktok-find-all-local-peaks) | [![Practice][p]](https://www.fastprep.io/problems/tiktok-find-all-local-peaks) | 🔥 Aug 05, 2026 |
+| **TikTok** | [Minimum Height Difference Between Distant Peaks](https://www.fastprep.io/problems/tiktok-minimum-height-difference-between-distant-peaks) | [![Practice][p]](https://www.fastprep.io/problems/tiktok-minimum-height-difference-between-distant-peaks) | 🔥 Aug 05, 2026 |
+| **TikTok** | [Minimum Operations for Stepwise Structures](https://www.fastprep.io/problems/tiktok-minimum-operations-for-stepwise-structures) | [![Practice][p]](https://www.fastprep.io/problems/tiktok-minimum-operations-for-stepwise-structures) | 🔥 Aug 05, 2026 |
+| **TikTok** | [Rating Level After Changes](https://www.fastprep.io/problems/tiktok-rating-level-after-changes) | [![Practice][p]](https://www.fastprep.io/problems/tiktok-rating-level-after-changes) | 🔥 Aug 05, 2026 |
+| **TikTok** | [Reverse Letters in Pairs](https://www.fastprep.io/problems/tiktok-reverse-letters-in-pairs) | [![Practice][p]](https://www.fastprep.io/problems/tiktok-reverse-letters-in-pairs) | 🔥 Aug 05, 2026 |
+| **TikTok** | [Space Station Shuttle Missions](https://www.fastprep.io/problems/tiktok-space-station-shuttle-missions) | [![Practice][p]](https://www.fastprep.io/problems/tiktok-space-station-shuttle-missions) | 🔥 Aug 05, 2026 |
+| **Capital One** | [Obstacle Placement Queries](https://www.fastprep.io/problems/capital-one-obstacle-placement-queries) | [![Practice][p]](https://www.fastprep.io/problems/capital-one-obstacle-placement-queries) | 🔥 Aug 04, 2026 |
+| **TikTok** | [Leftmost Memory Block Allocator](https://www.fastprep.io/problems/tiktok-leftmost-memory-block-allocator) | [![Practice][p]](https://www.fastprep.io/problems/tiktok-leftmost-memory-block-allocator) | 🔥 Aug 04, 2026 |
+| **TikTok** | [Product Minus Sum of Digits](https://www.fastprep.io/problems/tiktok-product-minus-sum-of-digits) | [![Practice][p]](https://www.fastprep.io/problems/tiktok-product-minus-sum-of-digits) | 🔥 Aug 04, 2026 |
 | **Superhuman** | [Reverse a Singly Linked List](https://www.fastprep.io/problems/superhuman-reverse-linked-list) | [![Practice][p]](https://www.fastprep.io/problems/superhuman-reverse-linked-list) | 🔥 Jul 31, 2026 |
 | **Superhuman** | [Recover a Tree from Preorder Depth Encoding](https://www.fastprep.io/problems/superhuman-recover-tree-from-preorder-depth) | [![Practice][p]](https://www.fastprep.io/problems/superhuman-recover-tree-from-preorder-depth) | 🔥 Jul 31, 2026 |
 | **Superhuman** | [Deep Copy a Singly Linked List](https://www.fastprep.io/problems/superhuman-deep-copy-linked-list) | [![Practice][p]](https://www.fastprep.io/problems/superhuman-deep-copy-linked-list) | 🔥 Jul 31, 2026 |
@@ -110,6 +123,10 @@
 | **Stripe** | [Rule-Driven Transaction Fraud Detection](https://www.fastprep.io/problems/stripe-rule-driven-transaction-fraud-detection) | [![Practice][p]](https://www.fastprep.io/problems/stripe-rule-driven-transaction-fraud-detection) | 🔥 Jul 25, 2026 |
 | **OpenAI** | [Prefix Matrix Products and Autograd](https://www.fastprep.io/problems/openai-prefix-matrix-products-autograd) | [![Practice][p]](https://www.fastprep.io/problems/openai-prefix-matrix-products-autograd) | 🔥 Jul 25, 2026 |
 | **Pinterest** | [Nested Set Structural Equivalence](https://www.fastprep.io/problems/pinterest-nested-set-structural-equivalence) | [![Practice][p]](https://www.fastprep.io/problems/pinterest-nested-set-structural-equivalence) | 🔥 Jul 25, 2026 |
+| **TikTok** | [Bubble Explosion](https://www.fastprep.io/problems/tiktok-bubble-explosion) | [![Practice][p]](https://www.fastprep.io/problems/tiktok-bubble-explosion) | 🔥 Jul 25, 2026 |
+| **TikTok** | [Reconstruct Landmark Journey](https://www.fastprep.io/problems/tiktok-reconstruct-landmark-journey) | [![Practice][p]](https://www.fastprep.io/problems/tiktok-reconstruct-landmark-journey) | 🔥 Jul 25, 2026 |
+| **TikTok** | [Reverse the Interior of Vowel-Bounded Words](https://www.fastprep.io/problems/tiktok-reverse-interior-of-vowel-words) | [![Practice][p]](https://www.fastprep.io/problems/tiktok-reverse-interior-of-vowel-words) | 🔥 Jul 25, 2026 |
+| **TikTok** | [Uppercase-Lowercase Difference](https://www.fastprep.io/problems/tiktok-uppercase-lowercase-difference) | [![Practice][p]](https://www.fastprep.io/problems/tiktok-uppercase-lowercase-difference) | 🔥 Jul 25, 2026 |
 | **MathWorks** | [Beautiful Arrangement](https://www.fastprep.io/problems/mathworks-beautiful-arrangement) | [![Practice][p]](https://www.fastprep.io/problems/mathworks-beautiful-arrangement) | 🔥 Jul 24, 2026 |
 | **MathWorks** | [Find Minimum Cost to Remove Array Elements](https://www.fastprep.io/problems/mathworks-find-minimum-cost-to-remove-array-elements) | [![Practice][p]](https://www.fastprep.io/problems/mathworks-find-minimum-cost-to-remove-array-elements) | 🔥 Jul 24, 2026 |
 | **Apple** | [Design Task Manager](https://www.fastprep.io/problems/apple-design-task-manager) | [![Practice][p]](https://www.fastprep.io/problems/apple-design-task-manager) | 🔥 Jul 24, 2026 |
