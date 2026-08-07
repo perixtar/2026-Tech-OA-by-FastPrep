@@ -147,11 +147,11 @@
 | **Cresta** | [Feature Flag Evaluation Engine](https://www.fastprep.io/problems/cresta-feature-flag-evaluation-engine) | [![Practice][p]](https://www.fastprep.io/problems/cresta-feature-flag-evaluation-engine) | 🔥 Jul 24, 2026 |
 | **MathWorks** | [Group Shifted Strings](https://www.fastprep.io/problems/mathworks-group-shifted-strings) | [![Practice][p]](https://www.fastprep.io/problems/mathworks-group-shifted-strings) | 🔥 Jul 24, 2026 |
 | **MathWorks** | [Longest Valid Parentheses](https://www.fastprep.io/problems/mathworks-longest-valid-parentheses) | [![Practice][p]](https://www.fastprep.io/problems/mathworks-longest-valid-parentheses) | 🔥 Jul 24, 2026 |
-| **Akuna** | [Profitable Project Pairs](https://www.fastprep.io/problems/akuna-profitable-project-pairs) | [![Practice][p]](https://www.fastprep.io/problems/akuna-profitable-project-pairs) | 🔥 Jul 23, 2026 |
-| **Goldman Sachs** | [Validate Binary Search Tree](https://www.fastprep.io/problems/goldman-sachs-validate-binary-search-tree) | [![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-validate-binary-search-tree) | 🔥 Jul 23, 2026 |
-| **Visa** | [Maximum Server Processing Time](https://www.fastprep.io/problems/visa-maximum-server-processing-time) | [![Practice][p]](https://www.fastprep.io/problems/visa-maximum-server-processing-time) | 🔥 Jul 23, 2026 |
-| **Visa** | [Signal Pings](https://www.fastprep.io/problems/visa-signal-pings) | [![Practice][p]](https://www.fastprep.io/problems/visa-signal-pings) | 🔥 Jul 23, 2026 |
-| **Visa** | [Sum of Index-Ordered Pair Differences](https://www.fastprep.io/problems/visa-sum-of-index-pair-differences) | [![Practice][p]](https://www.fastprep.io/problems/visa-sum-of-index-pair-differences) | 🔥 Jul 23, 2026 |
+| **Akuna** | [Profitable Project Pairs](https://www.fastprep.io/problems/akuna-profitable-project-pairs) | [![Practice][p]](https://www.fastprep.io/problems/akuna-profitable-project-pairs) | 🆕 Jul 23, 2026 |
+| **Goldman Sachs** | [Validate Binary Search Tree](https://www.fastprep.io/problems/goldman-sachs-validate-binary-search-tree) | [![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-validate-binary-search-tree) | 🆕 Jul 23, 2026 |
+| **Visa** | [Maximum Server Processing Time](https://www.fastprep.io/problems/visa-maximum-server-processing-time) | [![Practice][p]](https://www.fastprep.io/problems/visa-maximum-server-processing-time) | 🆕 Jul 23, 2026 |
+| **Visa** | [Signal Pings](https://www.fastprep.io/problems/visa-signal-pings) | [![Practice][p]](https://www.fastprep.io/problems/visa-signal-pings) | 🆕 Jul 23, 2026 |
+| **Visa** | [Sum of Index-Ordered Pair Differences](https://www.fastprep.io/problems/visa-sum-of-index-pair-differences) | [![Practice][p]](https://www.fastprep.io/problems/visa-sum-of-index-pair-differences) | 🆕 Jul 23, 2026 |
 | **Bloomberg** | [Word Break II](https://www.fastprep.io/problems/bloomberg-word-break-ii) | [![Practice][p]](https://www.fastprep.io/problems/bloomberg-word-break-ii) | 🆕 Jul 22, 2026 |
 | **IMC** | [Rock Jumping](https://www.fastprep.io/problems/imc-rock-jumping) | [![Practice][p]](https://www.fastprep.io/problems/imc-rock-jumping) | 🆕 Jul 22, 2026 |
 | **IMC** | [Stack Batch Removal](https://www.fastprep.io/problems/imc-stack-batch-removal) | [![Practice][p]](https://www.fastprep.io/problems/imc-stack-batch-removal) | 🆕 Jul 22, 2026 |
