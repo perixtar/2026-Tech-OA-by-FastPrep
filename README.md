@@ -123,6 +123,7 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
 | **Anthropic** | [Repair an Agent and Reduce Its Turn Count](https://www.fastprep.io/project-coding/anthropic-agent-turn-reduction) | AI coding | [![Practice][p]](https://www.fastprep.io/project-coding/anthropic-agent-turn-reduction) | 🔥 Aug 06, 2026 |
+| **Amazon / Wayfair** | [Design a Multi-Floor Parking Lot](https://www.fastprep.io/low-level-design/multi-floor-parking-lot) | Low-level design | [![Practice][p]](https://www.fastprep.io/low-level-design/multi-floor-parking-lot) | 🔥 Aug 06, 2026 |
 | **TikTok** | [Distribution Center Package Allocation](https://www.fastprep.io/problems/tiktok-distribution-center-package-allocation) | Coding | [![Practice][p]](https://www.fastprep.io/problems/tiktok-distribution-center-package-allocation) | 🔥 Aug 05, 2026 |
 | **OpenAI** | [Design an Online Chess Platform](https://www.fastprep.io/system-design/online-chess-platform) | System design | [![Practice][p]](https://www.fastprep.io/system-design/online-chess-platform) | 🔥 Aug 05, 2026 |
 | **Rippling** | [Design a Personalized News Aggregation Platform](https://www.fastprep.io/system-design/personalized-news-aggregation-platform) | System design | [![Practice][p]](https://www.fastprep.io/system-design/personalized-news-aggregation-platform) | 🔥 Aug 05, 2026 |
@@ -936,7 +937,6 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 | **Arcesium** | [Minimum Tunnel Crossing Time](https://www.fastprep.io/problems/arcesium-minimum-tunnel-crossing-time) | Coding | [![Practice][p]](https://www.fastprep.io/problems/arcesium-minimum-tunnel-crossing-time) | Jul 23, 2025 |
 | **Arcesium** | [Product of Subset Maxima](https://www.fastprep.io/problems/arcesium-product-of-subset-maxima) | Coding | [![Practice][p]](https://www.fastprep.io/problems/arcesium-product-of-subset-maxima) | Jul 23, 2025 |
 | **Arcesium** | [Reconstruct the Root Stream](https://www.fastprep.io/problems/arcesium-reconstruct-root-stream) | Coding | [![Practice][p]](https://www.fastprep.io/problems/arcesium-reconstruct-root-stream) | Jul 23, 2025 |
-| **Amazon** | [Design a Multi-Floor Parking Lot](https://www.fastprep.io/low-level-design/multi-floor-parking-lot) | Low-level design | [![Practice][p]](https://www.fastprep.io/low-level-design/multi-floor-parking-lot) | Jul 11, 2025 |
 | **Amazon** | [Maximize Pages Before Suspension](https://www.fastprep.io/problems/amazon-maximize-pages-before-suspension) | Coding | [![Practice][p]](https://www.fastprep.io/problems/amazon-maximize-pages-before-suspension) | Jul 08, 2025 |
 | **Salesforce** | [Minimum Operations to Zero](https://www.fastprep.io/problems/salesforce-minimum-operations-to-zero) | Coding | [![Practice][p]](https://www.fastprep.io/problems/salesforce-minimum-operations-to-zero) | Jul 08, 2025 |
 | **Salesforce** | [Integrity Score](https://www.fastprep.io/problems/salesforce-integrity-score) | Coding | [![Practice][p]](https://www.fastprep.io/problems/salesforce-integrity-score) | Jul 08, 2025 |

@@ -8,6 +8,7 @@
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+| **Amazon / Wayfair** | [Design a Multi-Floor Parking Lot](https://www.fastprep.io/low-level-design/multi-floor-parking-lot) | [![Practice][p]](https://www.fastprep.io/low-level-design/multi-floor-parking-lot) | 🔥 Aug 06, 2026 |
 | **Amazon** | [Design a Playlist Source Mixer](https://www.fastprep.io/low-level-design/playlist-source-mixer) | [![Practice][p]](https://www.fastprep.io/low-level-design/playlist-source-mixer) | 🔥 Aug 03, 2026 |
 | **Asana** | [Design a Rectangular Jigsaw Puzzle](https://www.fastprep.io/low-level-design/rectangular-jigsaw-puzzle) | [![Practice][p]](https://www.fastprep.io/low-level-design/rectangular-jigsaw-puzzle) | 🔥 Aug 02, 2026 |
 | **Susquehanna International Group** | [Design a Cash Register with Inventory and Profit Tracking](https://www.fastprep.io/low-level-design/cash-register-inventory-and-profit) | [![Practice][p]](https://www.fastprep.io/low-level-design/cash-register-inventory-and-profit) | 🔥 Jul 30, 2026 |
@@ -27,7 +28,6 @@
 | **Goldman Sachs** | [Design an In-Memory Job Scheduler](https://www.fastprep.io/low-level-design/in-memory-job-scheduler) | [![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-job-scheduler) | 🆕 Jul 17, 2026 |
 | **Adobe** | [Design Infinite Scroll for Mutable Data](https://www.fastprep.io/low-level-design/adobe-mutable-infinite-scroll) | [![Practice][p]](https://www.fastprep.io/low-level-design/adobe-mutable-infinite-scroll) | 🆕 Jul 17, 2026 |
 | **Adobe** | [Design Network-Backed Search Suggestions](https://www.fastprep.io/low-level-design/adobe-network-search-suggestions) | [![Practice][p]](https://www.fastprep.io/low-level-design/adobe-network-search-suggestions) | 🆕 Jul 17, 2026 |
-| **Amazon** | [Design a Multi-Floor Parking Lot](https://www.fastprep.io/low-level-design/multi-floor-parking-lot) | [![Practice][p]](https://www.fastprep.io/low-level-design/multi-floor-parking-lot) | Jul 11, 2025 |
 | **Postman** | [Design a Threaded Comment System with User Tags](https://www.fastprep.io/low-level-design/threaded-comment-system-with-user-tags) | [![Practice][p]](https://www.fastprep.io/low-level-design/threaded-comment-system-with-user-tags) | Jun 07, 2025 |
 | **Postman** | [Design an Annotated Comment Thread System](https://www.fastprep.io/low-level-design/annotated-comment-thread-system) | [![Practice][p]](https://www.fastprep.io/low-level-design/annotated-comment-thread-system) | Jun 07, 2025 |
 | **Postman** | [Design a Dating Application](https://www.fastprep.io/low-level-design/dating-application-object-model) | [![Practice][p]](https://www.fastprep.io/low-level-design/dating-application-object-model) | May 15, 2025 |
