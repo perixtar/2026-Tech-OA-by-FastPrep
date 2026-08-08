@@ -113,7 +113,7 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 <sub>Newest updates first &nbsp;·&nbsp; 🔥 added in the last 2 weeks &nbsp;·&nbsp; 🆕 in the last 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (1,735)](formats/coding.md) · [SQL (2)](formats/sql.md) · [System design (127)](formats/system-design.md) · [Low-level design (26)](formats/low-level-design.md) · [AI coding (17)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (1,735)](formats/coding.md) · [SQL (2)](formats/sql.md) · [System design (129)](formats/system-design.md) · [Low-level design (26)](formats/low-level-design.md) · [AI coding (17)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 <sub>System design, low-level design/OOD, and AI coding rows sync hourly from FastPrep's public, candidate-safe catalogs. <b>Updated</b> uses the latest reported sighting when available, otherwise the first public sync date. <b>Unattributed</b> means no source-backed employer was reported.</sub>
@@ -126,6 +126,8 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 | **OpenAI** | [Payment Hold, Charge, and Settlement](https://www.fastprep.io/system-design/payment-hold-charge-settlement) | System design | [![Practice][p]](https://www.fastprep.io/system-design/payment-hold-charge-settlement) | 🔥 Aug 07, 2026 |
 | **Databricks** | [Online Bookseller Platform](https://www.fastprep.io/system-design/online-bookseller-platform) | System design | [![Practice][p]](https://www.fastprep.io/system-design/online-bookseller-platform) | 🔥 Aug 07, 2026 |
 | **Zoox** | [Design a Real-Time Fleet Location Display](https://www.fastprep.io/system-design/real-time-fleet-location-display) | System design | [![Practice][p]](https://www.fastprep.io/system-design/real-time-fleet-location-display) | 🔥 Aug 07, 2026 |
+| **Figma** | [Design Comments for a Collaborative Canvas](https://www.fastprep.io/system-design/collaborative-canvas-comments) | System design | [![Practice][p]](https://www.fastprep.io/system-design/collaborative-canvas-comments) | 🔥 Aug 07, 2026 |
+| **Figma** | [Design Trending Design Files](https://www.fastprep.io/system-design/trending-design-files) | System design | [![Practice][p]](https://www.fastprep.io/system-design/trending-design-files) | 🔥 Aug 07, 2026 |
 | **Anthropic** | [Repair an Agent and Reduce Its Turn Count](https://www.fastprep.io/project-coding/anthropic-agent-turn-reduction) | AI coding | [![Practice][p]](https://www.fastprep.io/project-coding/anthropic-agent-turn-reduction) | 🔥 Aug 06, 2026 |
 | **Amazon / Wayfair** | [Design a Multi-Floor Parking Lot](https://www.fastprep.io/low-level-design/multi-floor-parking-lot) | Low-level design | [![Practice][p]](https://www.fastprep.io/low-level-design/multi-floor-parking-lot) | 🔥 Aug 06, 2026 |
 | **Zscaler / Amazon / Walmart** | [Design a Global Service Metrics Monitoring and Alerting Platform](https://www.fastprep.io/system-design/global-service-metrics-monitoring-and-alerting) | System design | [![Practice][p]](https://www.fastprep.io/system-design/global-service-metrics-monitoring-and-alerting) | 🔥 Aug 06, 2026 |

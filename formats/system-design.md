@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**127 questions**
+**129 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -12,6 +12,8 @@
 | **OpenAI** | [Payment Hold, Charge, and Settlement](https://www.fastprep.io/system-design/payment-hold-charge-settlement) | [![Practice][p]](https://www.fastprep.io/system-design/payment-hold-charge-settlement) | 🔥 Aug 07, 2026 |
 | **Databricks** | [Online Bookseller Platform](https://www.fastprep.io/system-design/online-bookseller-platform) | [![Practice][p]](https://www.fastprep.io/system-design/online-bookseller-platform) | 🔥 Aug 07, 2026 |
 | **Zoox** | [Design a Real-Time Fleet Location Display](https://www.fastprep.io/system-design/real-time-fleet-location-display) | [![Practice][p]](https://www.fastprep.io/system-design/real-time-fleet-location-display) | 🔥 Aug 07, 2026 |
+| **Figma** | [Design Comments for a Collaborative Canvas](https://www.fastprep.io/system-design/collaborative-canvas-comments) | [![Practice][p]](https://www.fastprep.io/system-design/collaborative-canvas-comments) | 🔥 Aug 07, 2026 |
+| **Figma** | [Design Trending Design Files](https://www.fastprep.io/system-design/trending-design-files) | [![Practice][p]](https://www.fastprep.io/system-design/trending-design-files) | 🔥 Aug 07, 2026 |
 | **Zscaler / Amazon / Walmart** | [Design a Global Service Metrics Monitoring and Alerting Platform](https://www.fastprep.io/system-design/global-service-metrics-monitoring-and-alerting) | [![Practice][p]](https://www.fastprep.io/system-design/global-service-metrics-monitoring-and-alerting) | 🔥 Aug 06, 2026 |
 | **Rippling** | [Design a Frontend News Feed with Offline Virtualization](https://www.fastprep.io/system-design/frontend-news-feed-offline-virtualization) | [![Practice][p]](https://www.fastprep.io/system-design/frontend-news-feed-offline-virtualization) | 🔥 Aug 06, 2026 |
 | **Netflix** | [Design a Grounded Recommendation Chatbot](https://www.fastprep.io/system-design/grounded-recommendation-chatbot) | [![Practice][p]](https://www.fastprep.io/system-design/grounded-recommendation-chatbot) | 🔥 Aug 06, 2026 |
