@@ -113,7 +113,7 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 <sub>Newest updates first &nbsp;·&nbsp; 🔥 added in the last 2 weeks &nbsp;·&nbsp; 🆕 in the last 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (1,735)](formats/coding.md) · [SQL (2)](formats/sql.md) · [System design (129)](formats/system-design.md) · [Low-level design (26)](formats/low-level-design.md) · [AI coding (17)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (1,735)](formats/coding.md) · [SQL (2)](formats/sql.md) · [System design (130)](formats/system-design.md) · [Low-level design (26)](formats/low-level-design.md) · [AI coding (17)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 <sub>System design, low-level design/OOD, and AI coding rows sync hourly from FastPrep's public, candidate-safe catalogs. <b>Updated</b> uses the latest reported sighting when available, otherwise the first public sync date. <b>Unattributed</b> means no source-backed employer was reported.</sub>
@@ -138,6 +138,7 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 | **Amazon** | [Design an ML Training and Deployment Platform](https://www.fastprep.io/system-design/ml-training-and-inference-platform) | System design | [![Practice][p]](https://www.fastprep.io/system-design/ml-training-and-inference-platform) | 🔥 Aug 06, 2026 |
 | **Anthropic** | [Design Opaque-GPU Inference Capacity](https://www.fastprep.io/system-design/opaque-gpu-inference-capacity-review) | System design | [![Practice][p]](https://www.fastprep.io/system-design/opaque-gpu-inference-capacity-review) | 🔥 Aug 06, 2026 |
 | **Pinterest** | [Design Viral Comment Notification Aggregation](https://www.fastprep.io/system-design/viral-comment-notification-aggregation) | System design | [![Practice][p]](https://www.fastprep.io/system-design/viral-comment-notification-aggregation) | 🔥 Aug 06, 2026 |
+| **infosys** | [Design Offline-First Document Autosave and Synchronization](https://www.fastprep.io/system-design/offline-first-document-autosave-sync) | System design | [![Practice][p]](https://www.fastprep.io/system-design/offline-first-document-autosave-sync) | 🔥 Aug 06, 2026 |
 | **TikTok** | [Distribution Center Package Allocation](https://www.fastprep.io/problems/tiktok-distribution-center-package-allocation) | Coding | [![Practice][p]](https://www.fastprep.io/problems/tiktok-distribution-center-package-allocation) | 🔥 Aug 05, 2026 |
 | **OpenAI** | [Design an Online Chess Platform](https://www.fastprep.io/system-design/online-chess-platform) | System design | [![Practice][p]](https://www.fastprep.io/system-design/online-chess-platform) | 🔥 Aug 05, 2026 |
 | **Rippling** | [Design a Personalized News Aggregation Platform](https://www.fastprep.io/system-design/personalized-news-aggregation-platform) | System design | [![Practice][p]](https://www.fastprep.io/system-design/personalized-news-aggregation-platform) | 🔥 Aug 05, 2026 |

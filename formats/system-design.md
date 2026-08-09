@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**129 questions**
+**130 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -22,6 +22,7 @@
 | **Amazon** | [Design an ML Training and Deployment Platform](https://www.fastprep.io/system-design/ml-training-and-inference-platform) | [![Practice][p]](https://www.fastprep.io/system-design/ml-training-and-inference-platform) | 🔥 Aug 06, 2026 |
 | **Anthropic** | [Design Opaque-GPU Inference Capacity](https://www.fastprep.io/system-design/opaque-gpu-inference-capacity-review) | [![Practice][p]](https://www.fastprep.io/system-design/opaque-gpu-inference-capacity-review) | 🔥 Aug 06, 2026 |
 | **Pinterest** | [Design Viral Comment Notification Aggregation](https://www.fastprep.io/system-design/viral-comment-notification-aggregation) | [![Practice][p]](https://www.fastprep.io/system-design/viral-comment-notification-aggregation) | 🔥 Aug 06, 2026 |
+| **infosys** | [Design Offline-First Document Autosave and Synchronization](https://www.fastprep.io/system-design/offline-first-document-autosave-sync) | [![Practice][p]](https://www.fastprep.io/system-design/offline-first-document-autosave-sync) | 🔥 Aug 06, 2026 |
 | **OpenAI** | [Design an Online Chess Platform](https://www.fastprep.io/system-design/online-chess-platform) | [![Practice][p]](https://www.fastprep.io/system-design/online-chess-platform) | 🔥 Aug 05, 2026 |
 | **Rippling** | [Design a Personalized News Aggregation Platform](https://www.fastprep.io/system-design/personalized-news-aggregation-platform) | [![Practice][p]](https://www.fastprep.io/system-design/personalized-news-aggregation-platform) | 🔥 Aug 05, 2026 |
 | **Netflix** | [Design Advertising Order Lifecycle Tracking](https://www.fastprep.io/system-design/advertising-order-lifecycle-tracking) | [![Practice][p]](https://www.fastprep.io/system-design/advertising-order-lifecycle-tracking) | 🔥 Aug 05, 2026 |
