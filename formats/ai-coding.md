@@ -2,13 +2,15 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**17 questions**
+**19 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
 | **Anthropic** | [Repair an Agent and Reduce Its Turn Count](https://www.fastprep.io/project-coding/anthropic-agent-turn-reduction) | [![Practice][p]](https://www.fastprep.io/project-coding/anthropic-agent-turn-reduction) | 🔥 Aug 06, 2026 |
+| **Headway** | [Fixed-Window Rate Limiter Middleware](https://www.fastprep.io/project-coding/fixed-window-rate-limiter-middleware) | [![Practice][p]](https://www.fastprep.io/project-coding/fixed-window-rate-limiter-middleware) | 🔥 Aug 06, 2026 |
+| **Headway** | [Repair Insurance Eligibility Status Projection](https://www.fastprep.io/project-coding/repair-insurance-eligibility-status-projection) | [![Practice][p]](https://www.fastprep.io/project-coding/repair-insurance-eligibility-status-projection) | 🔥 Aug 06, 2026 |
 | **Amazon** | [Repair the Wallet Loan Marketplace](https://www.fastprep.io/project-coding/repair-wallet-loan-marketplace) | [![Practice][p]](https://www.fastprep.io/project-coding/repair-wallet-loan-marketplace) | 🔥 Aug 03, 2026 |
 | **DoorDash** | [Build a Refund DAG with Local HTTP Services](https://www.fastprep.io/project-coding/doordash-refund-dag-local-services) | [![Practice][p]](https://www.fastprep.io/project-coding/doordash-refund-dag-local-services) | 🔥 Aug 03, 2026 |
 | **Baseten** | [Build a Durable Single-Server Key-Value Store](https://www.fastprep.io/project-coding/durable-filesystem-byte-key-value-store) | [![Practice][p]](https://www.fastprep.io/project-coding/durable-filesystem-byte-key-value-store) | 🔥 Aug 02, 2026 |

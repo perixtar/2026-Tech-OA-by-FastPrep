@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**130 questions**
+**132 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -23,6 +23,8 @@
 | **Anthropic** | [Design Opaque-GPU Inference Capacity](https://www.fastprep.io/system-design/opaque-gpu-inference-capacity-review) | [![Practice][p]](https://www.fastprep.io/system-design/opaque-gpu-inference-capacity-review) | 🔥 Aug 06, 2026 |
 | **Pinterest** | [Design Viral Comment Notification Aggregation](https://www.fastprep.io/system-design/viral-comment-notification-aggregation) | [![Practice][p]](https://www.fastprep.io/system-design/viral-comment-notification-aggregation) | 🔥 Aug 06, 2026 |
 | **infosys** | [Design Offline-First Document Autosave and Synchronization](https://www.fastprep.io/system-design/offline-first-document-autosave-sync) | [![Practice][p]](https://www.fastprep.io/system-design/offline-first-document-autosave-sync) | 🔥 Aug 06, 2026 |
+| **Otter.ai** | [Design a Meeting Bot Allocation and Status Platform](https://www.fastprep.io/system-design/meeting-bot-allocation-and-status-platform) | [![Practice][p]](https://www.fastprep.io/system-design/meeting-bot-allocation-and-status-platform) | 🔥 Aug 06, 2026 |
+| **Headway** | [Design Vacation Rental Listing Search](https://www.fastprep.io/system-design/vacation-rental-listing-search) | [![Practice][p]](https://www.fastprep.io/system-design/vacation-rental-listing-search) | 🔥 Aug 06, 2026 |
 | **OpenAI** | [Design an Online Chess Platform](https://www.fastprep.io/system-design/online-chess-platform) | [![Practice][p]](https://www.fastprep.io/system-design/online-chess-platform) | 🔥 Aug 05, 2026 |
 | **Rippling** | [Design a Personalized News Aggregation Platform](https://www.fastprep.io/system-design/personalized-news-aggregation-platform) | [![Practice][p]](https://www.fastprep.io/system-design/personalized-news-aggregation-platform) | 🔥 Aug 05, 2026 |
 | **Netflix** | [Design Advertising Order Lifecycle Tracking](https://www.fastprep.io/system-design/advertising-order-lifecycle-tracking) | [![Practice][p]](https://www.fastprep.io/system-design/advertising-order-lifecycle-tracking) | 🔥 Aug 05, 2026 |
