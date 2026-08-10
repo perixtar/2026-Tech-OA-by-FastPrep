@@ -2,12 +2,13 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**132 questions**
+**133 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+| **Apple** | [Design an On-Prem Media Transfer for Cloud GPU Training](https://www.fastprep.io/system-design/on-prem-media-transfer-to-cloud-gpu-training) | [![Practice][p]](https://www.fastprep.io/system-design/on-prem-media-transfer-to-cloud-gpu-training) | 🔥 Aug 09, 2026 |
 | **OpenAI / The D. E. Shaw Group / Zoox** | [Design an Online Payment Processing System](https://www.fastprep.io/system-design/online-payment-processing-system) | [![Practice][p]](https://www.fastprep.io/system-design/online-payment-processing-system) | 🔥 Aug 07, 2026 |
 | **OpenAI** | [Payment Hold, Charge, and Settlement](https://www.fastprep.io/system-design/payment-hold-charge-settlement) | [![Practice][p]](https://www.fastprep.io/system-design/payment-hold-charge-settlement) | 🔥 Aug 07, 2026 |
 | **Databricks** | [Online Bookseller Platform](https://www.fastprep.io/system-design/online-bookseller-platform) | [![Practice][p]](https://www.fastprep.io/system-design/online-bookseller-platform) | 🔥 Aug 07, 2026 |
