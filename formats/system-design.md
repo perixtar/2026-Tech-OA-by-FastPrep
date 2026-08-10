@@ -2,12 +2,13 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**133 questions**
+**134 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+| **Google** | [Design a Real-Time Anomaly Detection Service](https://www.fastprep.io/system-design/real-time-anomaly-detection-service) | [![Practice][p]](https://www.fastprep.io/system-design/real-time-anomaly-detection-service) | 🔥 Aug 10, 2026 |
 | **Apple** | [Design an On-Prem Media Transfer for Cloud GPU Training](https://www.fastprep.io/system-design/on-prem-media-transfer-to-cloud-gpu-training) | [![Practice][p]](https://www.fastprep.io/system-design/on-prem-media-transfer-to-cloud-gpu-training) | 🔥 Aug 09, 2026 |
 | **OpenAI / The D. E. Shaw Group / Zoox** | [Design an Online Payment Processing System](https://www.fastprep.io/system-design/online-payment-processing-system) | [![Practice][p]](https://www.fastprep.io/system-design/online-payment-processing-system) | 🔥 Aug 07, 2026 |
 | **OpenAI** | [Payment Hold, Charge, and Settlement](https://www.fastprep.io/system-design/payment-hold-charge-settlement) | [![Practice][p]](https://www.fastprep.io/system-design/payment-hold-charge-settlement) | 🔥 Aug 07, 2026 |
