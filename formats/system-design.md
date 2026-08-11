@@ -2,13 +2,18 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**134 questions**
+**136 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
 | **Google** | [Design a Real-Time Anomaly Detection Service](https://www.fastprep.io/system-design/real-time-anomaly-detection-service) | [![Practice][p]](https://www.fastprep.io/system-design/real-time-anomaly-detection-service) | 🔥 Aug 10, 2026 |
+| **Netflix / Oracle** | [Design a Personalized Recommendation System](https://www.fastprep.io/system-design/personalized-recommendation-system) | [![Practice][p]](https://www.fastprep.io/system-design/personalized-recommendation-system) | 🔥 Aug 10, 2026 |
+| **DoorDash / Robinhood / Snowflake / Postman** | [Design a Scheduled Job Execution System](https://www.fastprep.io/system-design/scheduled-job-execution-system) | [![Practice][p]](https://www.fastprep.io/system-design/scheduled-job-execution-system) | 🔥 Aug 10, 2026 |
+| **Amazon / Oracle** | [Design a Netflix-Style Streaming Platform](https://www.fastprep.io/system-design/netflix-streaming-platform) | [![Practice][p]](https://www.fastprep.io/system-design/netflix-streaming-platform) | 🔥 Aug 10, 2026 |
+| **Uber** | [Design a Driver Review Leaderboard](https://www.fastprep.io/system-design/driver-review-leaderboard) | [![Practice][p]](https://www.fastprep.io/system-design/driver-review-leaderboard) | 🔥 Aug 10, 2026 |
+| **Oracle** | [Design a Remote Browser Isolation Service](https://www.fastprep.io/system-design/remote-browser-isolation-service) | [![Practice][p]](https://www.fastprep.io/system-design/remote-browser-isolation-service) | 🔥 Aug 10, 2026 |
 | **Apple** | [Design an On-Prem Media Transfer for Cloud GPU Training](https://www.fastprep.io/system-design/on-prem-media-transfer-to-cloud-gpu-training) | [![Practice][p]](https://www.fastprep.io/system-design/on-prem-media-transfer-to-cloud-gpu-training) | 🔥 Aug 09, 2026 |
 | **OpenAI / The D. E. Shaw Group / Zoox** | [Design an Online Payment Processing System](https://www.fastprep.io/system-design/online-payment-processing-system) | [![Practice][p]](https://www.fastprep.io/system-design/online-payment-processing-system) | 🔥 Aug 07, 2026 |
 | **OpenAI** | [Payment Hold, Charge, and Settlement](https://www.fastprep.io/system-design/payment-hold-charge-settlement) | [![Practice][p]](https://www.fastprep.io/system-design/payment-hold-charge-settlement) | 🔥 Aug 07, 2026 |
@@ -19,7 +24,6 @@
 | **Zscaler / Amazon / Walmart** | [Design a Global Service Metrics Monitoring and Alerting Platform](https://www.fastprep.io/system-design/global-service-metrics-monitoring-and-alerting) | [![Practice][p]](https://www.fastprep.io/system-design/global-service-metrics-monitoring-and-alerting) | 🔥 Aug 06, 2026 |
 | **Rippling** | [Design a Frontend News Feed with Offline Virtualization](https://www.fastprep.io/system-design/frontend-news-feed-offline-virtualization) | [![Practice][p]](https://www.fastprep.io/system-design/frontend-news-feed-offline-virtualization) | 🔥 Aug 06, 2026 |
 | **Netflix** | [Design a Grounded Recommendation Chatbot](https://www.fastprep.io/system-design/grounded-recommendation-chatbot) | [![Practice][p]](https://www.fastprep.io/system-design/grounded-recommendation-chatbot) | 🔥 Aug 06, 2026 |
-| **Netflix / Oracle** | [Design a Personalized Recommendation System](https://www.fastprep.io/system-design/personalized-recommendation-system) | [![Practice][p]](https://www.fastprep.io/system-design/personalized-recommendation-system) | 🔥 Aug 06, 2026 |
 | **Wayfair** | [Design an Audio Fingerprint Recognition Service](https://www.fastprep.io/system-design/audio-fingerprint-recognition-service) | [![Practice][p]](https://www.fastprep.io/system-design/audio-fingerprint-recognition-service) | 🔥 Aug 06, 2026 |
 | **Amazon** | [Design an ML Training and Deployment Platform](https://www.fastprep.io/system-design/ml-training-and-inference-platform) | [![Practice][p]](https://www.fastprep.io/system-design/ml-training-and-inference-platform) | 🔥 Aug 06, 2026 |
 | **Anthropic** | [Design Opaque-GPU Inference Capacity](https://www.fastprep.io/system-design/opaque-gpu-inference-capacity-review) | [![Practice][p]](https://www.fastprep.io/system-design/opaque-gpu-inference-capacity-review) | 🔥 Aug 06, 2026 |
@@ -45,7 +49,6 @@
 | **OpenAI / Baseten** | [Design a Stateless Generative AI Chat Service](https://www.fastprep.io/system-design/stateless-generative-ai-chat-service) | [![Practice][p]](https://www.fastprep.io/system-design/stateless-generative-ai-chat-service) | 🔥 Aug 02, 2026 |
 | **OpenAI** | [Design a Declarative Infrastructure Orchestrator](https://www.fastprep.io/system-design/declarative-infrastructure-orchestrator) | [![Practice][p]](https://www.fastprep.io/system-design/declarative-infrastructure-orchestrator) | 🔥 Aug 02, 2026 |
 | **Salesforce / Replit / Sarvam AI** | [Design an Event-Driven Notification System](https://www.fastprep.io/system-design/event-driven-notification-system) | [![Practice][p]](https://www.fastprep.io/system-design/event-driven-notification-system) | 🔥 Aug 02, 2026 |
-| **DoorDash / Robinhood / Snowflake / Postman** | [Design a Scheduled Job Execution System](https://www.fastprep.io/system-design/scheduled-job-execution-system) | [![Practice][p]](https://www.fastprep.io/system-design/scheduled-job-execution-system) | 🔥 Aug 01, 2026 |
 | **Decagon** | [Design a Multi-Tenant AI Gateway](https://www.fastprep.io/system-design/multi-tenant-ai-gateway) | [![Practice][p]](https://www.fastprep.io/system-design/multi-tenant-ai-gateway) | 🔥 Aug 01, 2026 |
 | **Scale AI** | [Design an Embedding and Classification API](https://www.fastprep.io/system-design/embedding-and-classification-api) | [![Practice][p]](https://www.fastprep.io/system-design/embedding-and-classification-api) | 🔥 Aug 01, 2026 |
 | **Apple** | [Design an Online Voting Service](https://www.fastprep.io/system-design/online-voting-service) | [![Practice][p]](https://www.fastprep.io/system-design/online-voting-service) | 🔥 Aug 01, 2026 |
@@ -69,17 +72,16 @@
 | **Amazon** | [Design Offline Reading-Progress Synchronization](https://www.fastprep.io/system-design/offline-reading-progress-sync) | [![Practice][p]](https://www.fastprep.io/system-design/offline-reading-progress-sync) | 🔥 Jul 29, 2026 |
 | **Anthropic** | [One-to-One Chat Service](https://www.fastprep.io/system-design/one-to-one-chat-service) | [![Practice][p]](https://www.fastprep.io/system-design/one-to-one-chat-service) | 🔥 Jul 29, 2026 |
 | **Databricks** | [WAL-Backed Batched Log-Writing System](https://www.fastprep.io/system-design/wal-backed-batched-log-writing-system) | [![Practice][p]](https://www.fastprep.io/system-design/wal-backed-batched-log-writing-system) | 🔥 Jul 29, 2026 |
-| **Amazon / Oracle** | [Design a Netflix-Style Streaming Platform](https://www.fastprep.io/system-design/netflix-streaming-platform) | [![Practice][p]](https://www.fastprep.io/system-design/netflix-streaming-platform) | 🔥 Jul 29, 2026 |
 | **Oracle** | [Design a Healthcare Data Ingestion Pipeline](https://www.fastprep.io/system-design/healthcare-data-ingestion-pipeline) | [![Practice][p]](https://www.fastprep.io/system-design/healthcare-data-ingestion-pipeline) | 🔥 Jul 28, 2026 |
 | **Google** | [Distributed Quoted-Log Tokenization](https://www.fastprep.io/system-design/distributed-quoted-log-tokenization) | [![Practice][p]](https://www.fastprep.io/system-design/distributed-quoted-log-tokenization) | 🔥 Jul 28, 2026 |
 | **Lyft** | [Donation Platform](https://www.fastprep.io/system-design/donation-platform) | [![Practice][p]](https://www.fastprep.io/system-design/donation-platform) | 🔥 Jul 28, 2026 |
 | **Uber** | [Rolling Stock Price Alert System](https://www.fastprep.io/system-design/rolling-stock-price-alert-system) | [![Practice][p]](https://www.fastprep.io/system-design/rolling-stock-price-alert-system) | 🔥 Jul 28, 2026 |
-| **Optiver** | [Design a News Subscription Processing Engine](https://www.fastprep.io/system-design/news-subscription-processing-engine) | [![Practice][p]](https://www.fastprep.io/system-design/news-subscription-processing-engine) | 🔥 Jul 27, 2026 |
-| **Brex** | [Design a Peer-to-Peer Money Transfer System](https://www.fastprep.io/system-design/peer-to-peer-money-transfer-system) | [![Practice][p]](https://www.fastprep.io/system-design/peer-to-peer-money-transfer-system) | 🔥 Jul 27, 2026 |
-| **Uber** | [Design a Price Movement Alert Platform](https://www.fastprep.io/system-design/price-movement-alert-platform) | [![Practice][p]](https://www.fastprep.io/system-design/price-movement-alert-platform) | 🔥 Jul 27, 2026 |
-| **Amazon** | [Design a Ticket Booking System](https://www.fastprep.io/system-design/ticket-booking-system) | [![Practice][p]](https://www.fastprep.io/system-design/ticket-booking-system) | 🔥 Jul 27, 2026 |
-| **Distyl AI** | [Design an Iterative Compound-LLM Defense Generator](https://www.fastprep.io/system-design/iterative-compound-llm-defense-generator) | [![Practice][p]](https://www.fastprep.io/system-design/iterative-compound-llm-defense-generator) | 🔥 Jul 27, 2026 |
-| **Hudson River Trading** | [Design Shared NFS Read Acceleration](https://www.fastprep.io/system-design/shared-nfs-read-acceleration) | [![Practice][p]](https://www.fastprep.io/system-design/shared-nfs-read-acceleration) | 🔥 Jul 27, 2026 |
+| **Optiver** | [Design a News Subscription Processing Engine](https://www.fastprep.io/system-design/news-subscription-processing-engine) | [![Practice][p]](https://www.fastprep.io/system-design/news-subscription-processing-engine) | 🆕 Jul 27, 2026 |
+| **Brex** | [Design a Peer-to-Peer Money Transfer System](https://www.fastprep.io/system-design/peer-to-peer-money-transfer-system) | [![Practice][p]](https://www.fastprep.io/system-design/peer-to-peer-money-transfer-system) | 🆕 Jul 27, 2026 |
+| **Uber** | [Design a Price Movement Alert Platform](https://www.fastprep.io/system-design/price-movement-alert-platform) | [![Practice][p]](https://www.fastprep.io/system-design/price-movement-alert-platform) | 🆕 Jul 27, 2026 |
+| **Amazon** | [Design a Ticket Booking System](https://www.fastprep.io/system-design/ticket-booking-system) | [![Practice][p]](https://www.fastprep.io/system-design/ticket-booking-system) | 🆕 Jul 27, 2026 |
+| **Distyl AI** | [Design an Iterative Compound-LLM Defense Generator](https://www.fastprep.io/system-design/iterative-compound-llm-defense-generator) | [![Practice][p]](https://www.fastprep.io/system-design/iterative-compound-llm-defense-generator) | 🆕 Jul 27, 2026 |
+| **Hudson River Trading** | [Design Shared NFS Read Acceleration](https://www.fastprep.io/system-design/shared-nfs-read-acceleration) | [![Practice][p]](https://www.fastprep.io/system-design/shared-nfs-read-acceleration) | 🆕 Jul 27, 2026 |
 | **Databricks** | [Design a Durable Local Event Writer](https://www.fastprep.io/system-design/durable-local-event-writer) | [![Practice][p]](https://www.fastprep.io/system-design/durable-local-event-writer) | 🆕 Jul 26, 2026 |
 | **Databricks** | [Design a Chat Application Cache Architecture](https://www.fastprep.io/system-design/chat-application-cache-architecture) | [![Practice][p]](https://www.fastprep.io/system-design/chat-application-cache-architecture) | 🆕 Jul 25, 2026 |
 | **Stripe** | [Design an Idempotent Ledger Service](https://www.fastprep.io/system-design/idempotent-ledger-service) | [![Practice][p]](https://www.fastprep.io/system-design/idempotent-ledger-service) | 🆕 Jul 25, 2026 |
