@@ -8,6 +8,7 @@
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+| **Anthropic** | [Inference Engine (Fellow Program :D](https://www.fastprep.io/project-coding/anthropic-inference-engine-scheduler) | [![Practice][p]](https://www.fastprep.io/project-coding/anthropic-inference-engine-scheduler) | 🔥 Aug 09, 2026 |
 | **Anthropic** | [Repair an Agent and Reduce Its Turn Count](https://www.fastprep.io/project-coding/anthropic-agent-turn-reduction) | [![Practice][p]](https://www.fastprep.io/project-coding/anthropic-agent-turn-reduction) | 🔥 Aug 06, 2026 |
 | **Headway** | [Fixed-Window Rate Limiter Middleware](https://www.fastprep.io/project-coding/fixed-window-rate-limiter-middleware) | [![Practice][p]](https://www.fastprep.io/project-coding/fixed-window-rate-limiter-middleware) | 🔥 Aug 06, 2026 |
 | **Headway** | [Repair Insurance Eligibility Status Projection](https://www.fastprep.io/project-coding/repair-insurance-eligibility-status-projection) | [![Practice][p]](https://www.fastprep.io/project-coding/repair-insurance-eligibility-status-projection) | 🔥 Aug 06, 2026 |
@@ -19,7 +20,6 @@
 | **Amazon** | [Repair MovieDB Search and Recommendations](https://www.fastprep.io/project-coding/amazon-repair-moviedb-recommendations) | [![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-moviedb-recommendations) | 🔥 Jul 31, 2026 |
 | **OpenAI** | [Repair a Deployed Django Rate Limiter](https://www.fastprep.io/project-coding/openai-django-rate-limiter) | [![Practice][p]](https://www.fastprep.io/project-coding/openai-django-rate-limiter) | 🔥 Jul 31, 2026 |
 | **Anthropic** | [Debug Extremely Randomized Trees (Fellow Program :)](https://www.fastprep.io/project-coding/anthropic-extremely-randomized-trees) | [![Practice][p]](https://www.fastprep.io/project-coding/anthropic-extremely-randomized-trees) | 🔥 Jul 30, 2026 |
-| **Anthropic** | [Inference Engine (Fellow Program :D](https://www.fastprep.io/project-coding/anthropic-inference-engine-scheduler) | [![Practice][p]](https://www.fastprep.io/project-coding/anthropic-inference-engine-scheduler) | 🔥 Jul 30, 2026 |
 | **Mercury Insurance** | [Build a Python CRUD API](https://www.fastprep.io/project-coding/mercury-python-crud-api) | [![Practice][p]](https://www.fastprep.io/project-coding/mercury-python-crud-api) | 🔥 Jul 30, 2026 |
 | **Coinbase** | [In-Memory Database](https://www.fastprep.io/project-coding/in-memory-database) | [![Practice][p]](https://www.fastprep.io/project-coding/in-memory-database) | 🆕 Jul 27, 2026 |
 | **Amazon** | [Repair recurring payments in the Wallet backend](https://www.fastprep.io/project-coding/repair-recurring-wallet-payments) | [![Practice][p]](https://www.fastprep.io/project-coding/repair-recurring-wallet-payments) | 🆕 Jul 12, 2026 |
