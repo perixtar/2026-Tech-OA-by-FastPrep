@@ -2,18 +2,26 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**136 questions**
+**144 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+| **Snowflake** | [Design a Fault-Tolerant Cloud Queue Service](https://www.fastprep.io/system-design/fault-tolerant-cloud-queue-service) | [![Practice][p]](https://www.fastprep.io/system-design/fault-tolerant-cloud-queue-service) | 🔥 Aug 11, 2026 |
+| **Apple** | [Design a Mobile Application Event Collection API](https://www.fastprep.io/system-design/mobile-application-event-collection-api) | [![Practice][p]](https://www.fastprep.io/system-design/mobile-application-event-collection-api) | 🔥 Aug 11, 2026 |
+| **Rippling** | [Design a Room-Type Hotel Booking System](https://www.fastprep.io/system-design/room-type-hotel-booking-system) | [![Practice][p]](https://www.fastprep.io/system-design/room-type-hotel-booking-system) | 🔥 Aug 11, 2026 |
+| **Pinterest** | [Design an Ad Event Measurement Platform](https://www.fastprep.io/system-design/ad-event-measurement-platform) | [![Practice][p]](https://www.fastprep.io/system-design/ad-event-measurement-platform) | 🔥 Aug 11, 2026 |
+| **Apple** | [Design an Analytical Data Dashboard](https://www.fastprep.io/system-design/analytical-data-dashboard) | [![Practice][p]](https://www.fastprep.io/system-design/analytical-data-dashboard) | 🔥 Aug 11, 2026 |
+| **Databricks** | [Design an LLM Content Safety Service](https://www.fastprep.io/system-design/llm-content-safety-service) | [![Practice][p]](https://www.fastprep.io/system-design/llm-content-safety-service) | 🔥 Aug 11, 2026 |
 | **Google** | [Design a Real-Time Anomaly Detection Service](https://www.fastprep.io/system-design/real-time-anomaly-detection-service) | [![Practice][p]](https://www.fastprep.io/system-design/real-time-anomaly-detection-service) | 🔥 Aug 10, 2026 |
 | **Netflix / Oracle** | [Design a Personalized Recommendation System](https://www.fastprep.io/system-design/personalized-recommendation-system) | [![Practice][p]](https://www.fastprep.io/system-design/personalized-recommendation-system) | 🔥 Aug 10, 2026 |
 | **DoorDash / Robinhood / Snowflake / Postman** | [Design a Scheduled Job Execution System](https://www.fastprep.io/system-design/scheduled-job-execution-system) | [![Practice][p]](https://www.fastprep.io/system-design/scheduled-job-execution-system) | 🔥 Aug 10, 2026 |
 | **Amazon / Oracle** | [Design a Netflix-Style Streaming Platform](https://www.fastprep.io/system-design/netflix-streaming-platform) | [![Practice][p]](https://www.fastprep.io/system-design/netflix-streaming-platform) | 🔥 Aug 10, 2026 |
 | **Uber** | [Design a Driver Review Leaderboard](https://www.fastprep.io/system-design/driver-review-leaderboard) | [![Practice][p]](https://www.fastprep.io/system-design/driver-review-leaderboard) | 🔥 Aug 10, 2026 |
 | **Oracle** | [Design a Remote Browser Isolation Service](https://www.fastprep.io/system-design/remote-browser-isolation-service) | [![Practice][p]](https://www.fastprep.io/system-design/remote-browser-isolation-service) | 🔥 Aug 10, 2026 |
+| **Spotify** | [Design a Weekly User Activity Prediction System](https://www.fastprep.io/system-design/weekly-user-activity-prediction) | [![Practice][p]](https://www.fastprep.io/system-design/weekly-user-activity-prediction) | 🔥 Aug 10, 2026 |
+| **Anthropic** | [Design Production ML Serving Observability](https://www.fastprep.io/system-design/production-ml-serving-observability) | [![Practice][p]](https://www.fastprep.io/system-design/production-ml-serving-observability) | 🔥 Aug 10, 2026 |
 | **Apple** | [Design an On-Prem Media Transfer for Cloud GPU Training](https://www.fastprep.io/system-design/on-prem-media-transfer-to-cloud-gpu-training) | [![Practice][p]](https://www.fastprep.io/system-design/on-prem-media-transfer-to-cloud-gpu-training) | 🔥 Aug 09, 2026 |
 | **OpenAI / The D. E. Shaw Group / Zoox** | [Design an Online Payment Processing System](https://www.fastprep.io/system-design/online-payment-processing-system) | [![Practice][p]](https://www.fastprep.io/system-design/online-payment-processing-system) | 🔥 Aug 07, 2026 |
 | **OpenAI** | [Payment Hold, Charge, and Settlement](https://www.fastprep.io/system-design/payment-hold-charge-settlement) | [![Practice][p]](https://www.fastprep.io/system-design/payment-hold-charge-settlement) | 🔥 Aug 07, 2026 |
