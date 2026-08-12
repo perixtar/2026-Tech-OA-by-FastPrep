@@ -122,8 +122,8 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
-| **Anthropic** | [Inference Engine](https://www.fastprep.io/project-coding/anthropic-inference-engine-scheduler) | AI coding | [![Practice][p]](https://www.fastprep.io/project-coding/anthropic-inference-engine-scheduler) | 🔥 Aug 12, 2026 |
-| **Anthropic** | [Coding Challenge - Extremely Randomized Trees](https://www.fastprep.io/project-coding/anthropic-extremely-randomized-trees) | AI coding | [![Practice][p]](https://www.fastprep.io/project-coding/anthropic-extremely-randomized-trees) | 🔥 Aug 12, 2026 |
+| **Anthropic** | [Inference Engine (Fellow Program :D](https://www.fastprep.io/project-coding/anthropic-inference-engine-scheduler) | AI coding | [![Practice][p]](https://www.fastprep.io/project-coding/anthropic-inference-engine-scheduler) | 🔥 Aug 12, 2026 |
+| **Anthropic** | [Debug Extremely Randomized Trees (Fellow Program :)](https://www.fastprep.io/project-coding/anthropic-extremely-randomized-trees) | AI coding | [![Practice][p]](https://www.fastprep.io/project-coding/anthropic-extremely-randomized-trees) | 🔥 Aug 12, 2026 |
 | **Snowflake** | [Design a Fault-Tolerant Cloud Queue Service](https://www.fastprep.io/system-design/fault-tolerant-cloud-queue-service) | System design | [![Practice][p]](https://www.fastprep.io/system-design/fault-tolerant-cloud-queue-service) | 🔥 Aug 11, 2026 |
 | **Apple** | [Design a Mobile Application Event Collection API](https://www.fastprep.io/system-design/mobile-application-event-collection-api) | System design | [![Practice][p]](https://www.fastprep.io/system-design/mobile-application-event-collection-api) | 🔥 Aug 11, 2026 |
 | **Rippling** | [Design a Room-Type Hotel Booking System](https://www.fastprep.io/system-design/room-type-hotel-booking-system) | System design | [![Practice][p]](https://www.fastprep.io/system-design/room-type-hotel-booking-system) | 🔥 Aug 11, 2026 |
