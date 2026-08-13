@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**146 questions**
+**147 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -19,6 +19,7 @@
 | **Goldman Sachs** | [Design a Live-Stream Chat System](https://www.fastprep.io/system-design/live-stream-chat-system) | [![Practice][p]](https://www.fastprep.io/system-design/live-stream-chat-system) | 🔥 Aug 12, 2026 |
 | **Coinbase** | [Design a Brokerage Order Processing System](https://www.fastprep.io/system-design/brokerage-order-processing-system) | [![Practice][p]](https://www.fastprep.io/system-design/brokerage-order-processing-system) | 🔥 Aug 12, 2026 |
 | **ByteDance** | [Design a Multimedia Content Moderation Platform](https://www.fastprep.io/system-design/multimedia-content-moderation-platform) | [![Practice][p]](https://www.fastprep.io/system-design/multimedia-content-moderation-platform) | 🔥 Aug 12, 2026 |
+| **Mercor** | [Design a Unique Username Registration System](https://www.fastprep.io/system-design/unique-username-registration-system) | [![Practice][p]](https://www.fastprep.io/system-design/unique-username-registration-system) | 🔥 Aug 12, 2026 |
 | **Snowflake** | [Design a Fault-Tolerant Cloud Queue Service](https://www.fastprep.io/system-design/fault-tolerant-cloud-queue-service) | [![Practice][p]](https://www.fastprep.io/system-design/fault-tolerant-cloud-queue-service) | 🔥 Aug 11, 2026 |
 | **Apple** | [Design a Mobile Application Event Collection API](https://www.fastprep.io/system-design/mobile-application-event-collection-api) | [![Practice][p]](https://www.fastprep.io/system-design/mobile-application-event-collection-api) | 🔥 Aug 11, 2026 |
 | **Rippling** | [Design a Room-Type Hotel Booking System](https://www.fastprep.io/system-design/room-type-hotel-booking-system) | [![Practice][p]](https://www.fastprep.io/system-design/room-type-hotel-booking-system) | 🔥 Aug 11, 2026 |

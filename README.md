@@ -113,7 +113,7 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 <sub>Newest updates first &nbsp;·&nbsp; 🔥 added in the last 2 weeks &nbsp;·&nbsp; 🆕 in the last 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (1,735)](formats/coding.md) · [SQL (2)](formats/sql.md) · [System design (146)](formats/system-design.md) · [Low-level design (27)](formats/low-level-design.md) · [AI coding (19)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (1,735)](formats/coding.md) · [SQL (2)](formats/sql.md) · [System design (147)](formats/system-design.md) · [Low-level design (28)](formats/low-level-design.md) · [AI coding (19)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 <sub>System design, low-level design/OOD, and AI coding rows sync hourly from FastPrep's public, candidate-safe catalogs. <b>Updated</b> uses the latest reported sighting when available, otherwise the first public sync date. <b>Unattributed</b> means no source-backed employer was reported.</sub>
@@ -136,6 +136,8 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 | **Goldman Sachs** | [Design an In-Memory Job Scheduler](https://www.fastprep.io/low-level-design/in-memory-job-scheduler) | Low-level design | [![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-job-scheduler) | 🔥 Aug 12, 2026 |
 | **Coinbase** | [Design a Brokerage Order Processing System](https://www.fastprep.io/system-design/brokerage-order-processing-system) | System design | [![Practice][p]](https://www.fastprep.io/system-design/brokerage-order-processing-system) | 🔥 Aug 12, 2026 |
 | **ByteDance** | [Design a Multimedia Content Moderation Platform](https://www.fastprep.io/system-design/multimedia-content-moderation-platform) | System design | [![Practice][p]](https://www.fastprep.io/system-design/multimedia-content-moderation-platform) | 🔥 Aug 12, 2026 |
+| **Mercor** | [Design a Unique Username Registration System](https://www.fastprep.io/system-design/unique-username-registration-system) | System design | [![Practice][p]](https://www.fastprep.io/system-design/unique-username-registration-system) | 🔥 Aug 12, 2026 |
+| **Shopify** | [Design an Extensible Text Editor](https://www.fastprep.io/low-level-design/extensible-text-editor) | Low-level design | [![Practice][p]](https://www.fastprep.io/low-level-design/extensible-text-editor) | 🔥 Aug 12, 2026 |
 | **Snowflake** | [Design a Fault-Tolerant Cloud Queue Service](https://www.fastprep.io/system-design/fault-tolerant-cloud-queue-service) | System design | [![Practice][p]](https://www.fastprep.io/system-design/fault-tolerant-cloud-queue-service) | 🔥 Aug 11, 2026 |
 | **Apple** | [Design a Mobile Application Event Collection API](https://www.fastprep.io/system-design/mobile-application-event-collection-api) | System design | [![Practice][p]](https://www.fastprep.io/system-design/mobile-application-event-collection-api) | 🔥 Aug 11, 2026 |
 | **Rippling** | [Design a Room-Type Hotel Booking System](https://www.fastprep.io/system-design/room-type-hotel-booking-system) | System design | [![Practice][p]](https://www.fastprep.io/system-design/room-type-hotel-booking-system) | 🔥 Aug 11, 2026 |

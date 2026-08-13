@@ -2,13 +2,14 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**27 questions**
+**28 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
 | **Goldman Sachs** | [Design an In-Memory Job Scheduler](https://www.fastprep.io/low-level-design/in-memory-job-scheduler) | [![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-job-scheduler) | 🔥 Aug 12, 2026 |
+| **Shopify** | [Design an Extensible Text Editor](https://www.fastprep.io/low-level-design/extensible-text-editor) | [![Practice][p]](https://www.fastprep.io/low-level-design/extensible-text-editor) | 🔥 Aug 12, 2026 |
 | **Pinterest** | [Design a Blackjack Table Game](https://www.fastprep.io/low-level-design/blackjack-table-game) | [![Practice][p]](https://www.fastprep.io/low-level-design/blackjack-table-game) | 🔥 Aug 10, 2026 |
 | **Amazon / Wayfair** | [Design a Multi-Floor Parking Lot](https://www.fastprep.io/low-level-design/multi-floor-parking-lot) | [![Practice][p]](https://www.fastprep.io/low-level-design/multi-floor-parking-lot) | 🔥 Aug 06, 2026 |
 | **Amazon** | [Design a Playlist Source Mixer](https://www.fastprep.io/low-level-design/playlist-source-mixer) | [![Practice][p]](https://www.fastprep.io/low-level-design/playlist-source-mixer) | 🔥 Aug 03, 2026 |
