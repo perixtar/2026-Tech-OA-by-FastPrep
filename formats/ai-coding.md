@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**19 questions**
+**20 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -10,6 +10,7 @@
 | :-- | :-- | :-: | :-- |
 | **Anthropic** | [Inference Engine (Fellow Program :D](https://www.fastprep.io/project-coding/anthropic-inference-engine-scheduler) | [![Practice][p]](https://www.fastprep.io/project-coding/anthropic-inference-engine-scheduler) | 🔥 Aug 12, 2026 |
 | **Anthropic** | [Debug Extremely Randomized Trees (Fellow Program :)](https://www.fastprep.io/project-coding/anthropic-extremely-randomized-trees) | [![Practice][p]](https://www.fastprep.io/project-coding/anthropic-extremely-randomized-trees) | 🔥 Aug 12, 2026 |
+| **Snap Inc.** | [Build a Persistent Chat Backend](https://www.fastprep.io/project-coding/persistent-chat-backend) | [![Practice][p]](https://www.fastprep.io/project-coding/persistent-chat-backend) | 🔥 Aug 12, 2026 |
 | **Anthropic** | [Repair an Agent and Reduce Its Turn Count](https://www.fastprep.io/project-coding/anthropic-agent-turn-reduction) | [![Practice][p]](https://www.fastprep.io/project-coding/anthropic-agent-turn-reduction) | 🔥 Aug 06, 2026 |
 | **Headway** | [Fixed-Window Rate Limiter Middleware](https://www.fastprep.io/project-coding/fixed-window-rate-limiter-middleware) | [![Practice][p]](https://www.fastprep.io/project-coding/fixed-window-rate-limiter-middleware) | 🔥 Aug 06, 2026 |
 | **Headway** | [Repair Insurance Eligibility Status Projection](https://www.fastprep.io/project-coding/repair-insurance-eligibility-status-projection) | [![Practice][p]](https://www.fastprep.io/project-coding/repair-insurance-eligibility-status-projection) | 🔥 Aug 06, 2026 |
