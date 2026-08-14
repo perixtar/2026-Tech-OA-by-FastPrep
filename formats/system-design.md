@@ -2,13 +2,17 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**147 questions**
+**150 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
-| **Netflix / Oracle / Google** | [Design a Personalized Recommendation System](https://www.fastprep.io/system-design/personalized-recommendation-system) | [![Practice][p]](https://www.fastprep.io/system-design/personalized-recommendation-system) | 🔥 Aug 12, 2026 |
+| **Netflix / Oracle / Google / Meta** | [Design a Personalized Recommendation System](https://www.fastprep.io/system-design/personalized-recommendation-system) | [![Practice][p]](https://www.fastprep.io/system-design/personalized-recommendation-system) | 🔥 Aug 13, 2026 |
+| **Anthropic** | [Design Peer-to-Peer Model Distribution](https://www.fastprep.io/system-design/peer-to-peer-model-distribution) | [![Practice][p]](https://www.fastprep.io/system-design/peer-to-peer-model-distribution) | 🔥 Aug 13, 2026 |
+| **OpenAI** | [Design a Distributed Crossword Solver](https://www.fastprep.io/system-design/distributed-crossword-solver-orchestration) | [![Practice][p]](https://www.fastprep.io/system-design/distributed-crossword-solver-orchestration) | 🔥 Aug 13, 2026 |
+| **Meta** | [Design a Multimodal Public-Content Safety Platform](https://www.fastprep.io/system-design/multimodal-public-content-safety-platform) | [![Practice][p]](https://www.fastprep.io/system-design/multimodal-public-content-safety-platform) | 🔥 Aug 13, 2026 |
+| **Rippling** | [Design an Event Ingestion Platform](https://www.fastprep.io/system-design/durable-event-ingestion-platform) | [![Practice][p]](https://www.fastprep.io/system-design/durable-event-ingestion-platform) | 🔥 Aug 13, 2026 |
 | **DoorDash / Robinhood / Snowflake / Postman / Figma** | [Design a Scheduled Job Execution System](https://www.fastprep.io/system-design/scheduled-job-execution-system) | [![Practice][p]](https://www.fastprep.io/system-design/scheduled-job-execution-system) | 🔥 Aug 12, 2026 |
 | **OpenAI / The D. E. Shaw Group / Zoox** | [Design an Online Payment Processing System](https://www.fastprep.io/system-design/online-payment-processing-system) | [![Practice][p]](https://www.fastprep.io/system-design/online-payment-processing-system) | 🔥 Aug 12, 2026 |
 | **Figma** | [Design Comments for a Collaborative Canvas](https://www.fastprep.io/system-design/collaborative-canvas-comments) | [![Practice][p]](https://www.fastprep.io/system-design/collaborative-canvas-comments) | 🔥 Aug 12, 2026 |
@@ -58,7 +62,6 @@
 | **Rippling** | [Design a Centralized Log Ingestion and Search Platform](https://www.fastprep.io/system-design/centralized-log-ingestion-and-search) | [![Practice][p]](https://www.fastprep.io/system-design/centralized-log-ingestion-and-search) | 🔥 Aug 04, 2026 |
 | **DoorDash** | [Design a Downstream-Service Alert Notification System](https://www.fastprep.io/system-design/downstream-service-alert-notification-system) | [![Practice][p]](https://www.fastprep.io/system-design/downstream-service-alert-notification-system) | 🔥 Aug 03, 2026 |
 | **Anthropic** | [Design a Prompt Playground](https://www.fastprep.io/system-design/prompt-playground-system) | [![Practice][p]](https://www.fastprep.io/system-design/prompt-playground-system) | 🔥 Aug 03, 2026 |
-| **Anthropic** | [Design Peer-to-Peer Model Distribution](https://www.fastprep.io/system-design/peer-to-peer-model-distribution) | [![Practice][p]](https://www.fastprep.io/system-design/peer-to-peer-model-distribution) | 🔥 Aug 03, 2026 |
 | **Gusto** | [Design a Restaurant Staff Scheduling System](https://www.fastprep.io/system-design/restaurant-scheduling-system) | [![Practice][p]](https://www.fastprep.io/system-design/restaurant-scheduling-system) | 🔥 Aug 03, 2026 |
 | **OpenAI / Baseten** | [Design a Stateless Generative AI Chat Service](https://www.fastprep.io/system-design/stateless-generative-ai-chat-service) | [![Practice][p]](https://www.fastprep.io/system-design/stateless-generative-ai-chat-service) | 🔥 Aug 02, 2026 |
 | **OpenAI** | [Design a Declarative Infrastructure Orchestrator](https://www.fastprep.io/system-design/declarative-infrastructure-orchestrator) | [![Practice][p]](https://www.fastprep.io/system-design/declarative-infrastructure-orchestrator) | 🔥 Aug 02, 2026 |

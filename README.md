@@ -113,7 +113,7 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 <sub>Newest updates first &nbsp;·&nbsp; 🔥 added in the last 2 weeks &nbsp;·&nbsp; 🆕 in the last 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (1,735)](formats/coding.md) · [SQL (2)](formats/sql.md) · [System design (147)](formats/system-design.md) · [Low-level design (28)](formats/low-level-design.md) · [AI coding (20)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (1,735)](formats/coding.md) · [SQL (2)](formats/sql.md) · [System design (150)](formats/system-design.md) · [Low-level design (28)](formats/low-level-design.md) · [AI coding (20)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 <sub>System design, low-level design/OOD, and AI coding rows sync hourly from FastPrep's public, candidate-safe catalogs. <b>Updated</b> uses the latest reported sighting when available, otherwise the first public sync date. <b>Unattributed</b> means no source-backed employer was reported.</sub>
@@ -122,9 +122,13 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+| **Netflix / Oracle / Google / Meta** | [Design a Personalized Recommendation System](https://www.fastprep.io/system-design/personalized-recommendation-system) | System design | [![Practice][p]](https://www.fastprep.io/system-design/personalized-recommendation-system) | 🔥 Aug 13, 2026 |
+| **Anthropic** | [Design Peer-to-Peer Model Distribution](https://www.fastprep.io/system-design/peer-to-peer-model-distribution) | System design | [![Practice][p]](https://www.fastprep.io/system-design/peer-to-peer-model-distribution) | 🔥 Aug 13, 2026 |
+| **OpenAI** | [Design a Distributed Crossword Solver](https://www.fastprep.io/system-design/distributed-crossword-solver-orchestration) | System design | [![Practice][p]](https://www.fastprep.io/system-design/distributed-crossword-solver-orchestration) | 🔥 Aug 13, 2026 |
+| **Meta** | [Design a Multimodal Public-Content Safety Platform](https://www.fastprep.io/system-design/multimodal-public-content-safety-platform) | System design | [![Practice][p]](https://www.fastprep.io/system-design/multimodal-public-content-safety-platform) | 🔥 Aug 13, 2026 |
+| **Rippling** | [Design an Event Ingestion Platform](https://www.fastprep.io/system-design/durable-event-ingestion-platform) | System design | [![Practice][p]](https://www.fastprep.io/system-design/durable-event-ingestion-platform) | 🔥 Aug 13, 2026 |
 | **Anthropic** | [Inference Engine (Fellow Program :D](https://www.fastprep.io/project-coding/anthropic-inference-engine-scheduler) | AI coding | [![Practice][p]](https://www.fastprep.io/project-coding/anthropic-inference-engine-scheduler) | 🔥 Aug 12, 2026 |
 | **Anthropic** | [Debug Extremely Randomized Trees (Fellow Program :)](https://www.fastprep.io/project-coding/anthropic-extremely-randomized-trees) | AI coding | [![Practice][p]](https://www.fastprep.io/project-coding/anthropic-extremely-randomized-trees) | 🔥 Aug 12, 2026 |
-| **Netflix / Oracle / Google** | [Design a Personalized Recommendation System](https://www.fastprep.io/system-design/personalized-recommendation-system) | System design | [![Practice][p]](https://www.fastprep.io/system-design/personalized-recommendation-system) | 🔥 Aug 12, 2026 |
 | **DoorDash / Robinhood / Snowflake / Postman / Figma** | [Design a Scheduled Job Execution System](https://www.fastprep.io/system-design/scheduled-job-execution-system) | System design | [![Practice][p]](https://www.fastprep.io/system-design/scheduled-job-execution-system) | 🔥 Aug 12, 2026 |
 | **OpenAI / The D. E. Shaw Group / Zoox** | [Design an Online Payment Processing System](https://www.fastprep.io/system-design/online-payment-processing-system) | System design | [![Practice][p]](https://www.fastprep.io/system-design/online-payment-processing-system) | 🔥 Aug 12, 2026 |
 | **Figma** | [Design Comments for a Collaborative Canvas](https://www.fastprep.io/system-design/collaborative-canvas-comments) | System design | [![Practice][p]](https://www.fastprep.io/system-design/collaborative-canvas-comments) | 🔥 Aug 12, 2026 |
@@ -200,7 +204,6 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 | **HSBC** | [Organization Reputation After Employee Departures](https://www.fastprep.io/problems/hsbc-organization-reputation-after-departures) | Coding | [![Practice][p]](https://www.fastprep.io/problems/hsbc-organization-reputation-after-departures) | 🔥 Aug 03, 2026 |
 | **DoorDash** | [Design a Downstream-Service Alert Notification System](https://www.fastprep.io/system-design/downstream-service-alert-notification-system) | System design | [![Practice][p]](https://www.fastprep.io/system-design/downstream-service-alert-notification-system) | 🔥 Aug 03, 2026 |
 | **Anthropic** | [Design a Prompt Playground](https://www.fastprep.io/system-design/prompt-playground-system) | System design | [![Practice][p]](https://www.fastprep.io/system-design/prompt-playground-system) | 🔥 Aug 03, 2026 |
-| **Anthropic** | [Design Peer-to-Peer Model Distribution](https://www.fastprep.io/system-design/peer-to-peer-model-distribution) | System design | [![Practice][p]](https://www.fastprep.io/system-design/peer-to-peer-model-distribution) | 🔥 Aug 03, 2026 |
 | **Amazon** | [Repair the Wallet Loan Marketplace](https://www.fastprep.io/project-coding/repair-wallet-loan-marketplace) | AI coding | [![Practice][p]](https://www.fastprep.io/project-coding/repair-wallet-loan-marketplace) | 🔥 Aug 03, 2026 |
 | **Amazon** | [Design a Playlist Source Mixer](https://www.fastprep.io/low-level-design/playlist-source-mixer) | Low-level design | [![Practice][p]](https://www.fastprep.io/low-level-design/playlist-source-mixer) | 🔥 Aug 03, 2026 |
 | **Gusto** | [Design a Restaurant Staff Scheduling System](https://www.fastprep.io/system-design/restaurant-scheduling-system) | System design | [![Practice][p]](https://www.fastprep.io/system-design/restaurant-scheduling-system) | 🔥 Aug 03, 2026 |
