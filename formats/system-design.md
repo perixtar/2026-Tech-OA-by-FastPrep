@@ -2,22 +2,26 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**150 questions**
+**152 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+| **OpenAI** | [Design a Distributed Video Generation Platform](https://www.fastprep.io/system-design/distributed-video-generation-platform) | [![Practice][p]](https://www.fastprep.io/system-design/distributed-video-generation-platform) | 🔥 Aug 14, 2026 |
+| **Attentive** | [Design a Time Series Metrics Database](https://www.fastprep.io/system-design/time-series-metrics-database) | [![Practice][p]](https://www.fastprep.io/system-design/time-series-metrics-database) | 🔥 Aug 14, 2026 |
+| **Giga** | [Design a Browser-Automated Customer Support Agent](https://www.fastprep.io/system-design/browser-automated-customer-support-agent) | [![Practice][p]](https://www.fastprep.io/system-design/browser-automated-customer-support-agent) | 🔥 Aug 14, 2026 |
+| **OpenAI** | [Design In-Store Merchant Payment Reconciliation](https://www.fastprep.io/system-design/offline-merchant-payment-reconciliation) | [![Practice][p]](https://www.fastprep.io/system-design/offline-merchant-payment-reconciliation) | 🔥 Aug 14, 2026 |
 | **Netflix / Oracle / Google / Meta** | [Design a Personalized Recommendation System](https://www.fastprep.io/system-design/personalized-recommendation-system) | [![Practice][p]](https://www.fastprep.io/system-design/personalized-recommendation-system) | 🔥 Aug 13, 2026 |
 | **Anthropic** | [Design Peer-to-Peer Model Distribution](https://www.fastprep.io/system-design/peer-to-peer-model-distribution) | [![Practice][p]](https://www.fastprep.io/system-design/peer-to-peer-model-distribution) | 🔥 Aug 13, 2026 |
 | **OpenAI** | [Design a Distributed Crossword Solver](https://www.fastprep.io/system-design/distributed-crossword-solver-orchestration) | [![Practice][p]](https://www.fastprep.io/system-design/distributed-crossword-solver-orchestration) | 🔥 Aug 13, 2026 |
 | **Meta** | [Design a Multimodal Public-Content Safety Platform](https://www.fastprep.io/system-design/multimodal-public-content-safety-platform) | [![Practice][p]](https://www.fastprep.io/system-design/multimodal-public-content-safety-platform) | 🔥 Aug 13, 2026 |
 | **Rippling** | [Design an Event Ingestion Platform](https://www.fastprep.io/system-design/durable-event-ingestion-platform) | [![Practice][p]](https://www.fastprep.io/system-design/durable-event-ingestion-platform) | 🔥 Aug 13, 2026 |
+| **Databricks** | [Online Bookseller Platform](https://www.fastprep.io/system-design/online-bookseller-platform) | [![Practice][p]](https://www.fastprep.io/system-design/online-bookseller-platform) | 🔥 Aug 13, 2026 |
 | **DoorDash / Robinhood / Snowflake / Postman / Figma** | [Design a Scheduled Job Execution System](https://www.fastprep.io/system-design/scheduled-job-execution-system) | [![Practice][p]](https://www.fastprep.io/system-design/scheduled-job-execution-system) | 🔥 Aug 12, 2026 |
 | **OpenAI / The D. E. Shaw Group / Zoox** | [Design an Online Payment Processing System](https://www.fastprep.io/system-design/online-payment-processing-system) | [![Practice][p]](https://www.fastprep.io/system-design/online-payment-processing-system) | 🔥 Aug 12, 2026 |
 | **Figma** | [Design Comments for a Collaborative Canvas](https://www.fastprep.io/system-design/collaborative-canvas-comments) | [![Practice][p]](https://www.fastprep.io/system-design/collaborative-canvas-comments) | 🔥 Aug 12, 2026 |
 | **OpenAI** | [Design an Online Chess Platform](https://www.fastprep.io/system-design/online-chess-platform) | [![Practice][p]](https://www.fastprep.io/system-design/online-chess-platform) | 🔥 Aug 12, 2026 |
-| **OpenAI** | [Design a Distributed Video Generation Platform](https://www.fastprep.io/system-design/distributed-video-generation-platform) | [![Practice][p]](https://www.fastprep.io/system-design/distributed-video-generation-platform) | 🔥 Aug 12, 2026 |
 | **Anthropic** | [Design a Model-Weight Deployment Platform](https://www.fastprep.io/system-design/model-weight-deployment-platform) | [![Practice][p]](https://www.fastprep.io/system-design/model-weight-deployment-platform) | 🔥 Aug 12, 2026 |
 | **Anthropic / Snap Inc.** | [One-to-One Chat Service](https://www.fastprep.io/system-design/one-to-one-chat-service) | [![Practice][p]](https://www.fastprep.io/system-design/one-to-one-chat-service) | 🔥 Aug 12, 2026 |
 | **Goldman Sachs** | [Design a Live-Stream Chat System](https://www.fastprep.io/system-design/live-stream-chat-system) | [![Practice][p]](https://www.fastprep.io/system-design/live-stream-chat-system) | 🔥 Aug 12, 2026 |
@@ -38,7 +42,6 @@
 | **Anthropic** | [Design Production ML Serving Observability](https://www.fastprep.io/system-design/production-ml-serving-observability) | [![Practice][p]](https://www.fastprep.io/system-design/production-ml-serving-observability) | 🔥 Aug 10, 2026 |
 | **Apple** | [Design an On-Prem Media Transfer for Cloud GPU Training](https://www.fastprep.io/system-design/on-prem-media-transfer-to-cloud-gpu-training) | [![Practice][p]](https://www.fastprep.io/system-design/on-prem-media-transfer-to-cloud-gpu-training) | 🔥 Aug 09, 2026 |
 | **OpenAI** | [Payment Hold, Charge, and Settlement](https://www.fastprep.io/system-design/payment-hold-charge-settlement) | [![Practice][p]](https://www.fastprep.io/system-design/payment-hold-charge-settlement) | 🔥 Aug 07, 2026 |
-| **Databricks** | [Online Bookseller Platform](https://www.fastprep.io/system-design/online-bookseller-platform) | [![Practice][p]](https://www.fastprep.io/system-design/online-bookseller-platform) | 🔥 Aug 07, 2026 |
 | **Zoox** | [Design a Real-Time Fleet Location Display](https://www.fastprep.io/system-design/real-time-fleet-location-display) | [![Practice][p]](https://www.fastprep.io/system-design/real-time-fleet-location-display) | 🔥 Aug 07, 2026 |
 | **Figma** | [Design Trending Design Files](https://www.fastprep.io/system-design/trending-design-files) | [![Practice][p]](https://www.fastprep.io/system-design/trending-design-files) | 🔥 Aug 07, 2026 |
 | **Zscaler / Amazon / Walmart** | [Design a Global Service Metrics Monitoring and Alerting Platform](https://www.fastprep.io/system-design/global-service-metrics-monitoring-and-alerting) | [![Practice][p]](https://www.fastprep.io/system-design/global-service-metrics-monitoring-and-alerting) | 🔥 Aug 06, 2026 |
@@ -120,7 +123,6 @@
 | **Amperity** | [Design a Read-Once Secret Sharing Service](https://www.fastprep.io/system-design/read-once-secret-sharing) | [![Practice][p]](https://www.fastprep.io/system-design/read-once-secret-sharing) | 🆕 Jul 21, 2026 |
 | **Snowflake / Amperity** | [Design a Unified SaaS Analytics Platform](https://www.fastprep.io/system-design/unified-saas-analytics-platform) | [![Practice][p]](https://www.fastprep.io/system-design/unified-saas-analytics-platform) | 🆕 Jul 21, 2026 |
 | **Ramp** | [Design a Real-Time Payment Count Dashboard](https://www.fastprep.io/system-design/real-time-payment-count-dashboard) | [![Practice][p]](https://www.fastprep.io/system-design/real-time-payment-count-dashboard) | 🆕 Jul 20, 2026 |
-| **Unattributed** | [Design a Time Series Metrics Database](https://www.fastprep.io/system-design/time-series-metrics-database) | [![Practice][p]](https://www.fastprep.io/system-design/time-series-metrics-database) | 🆕 Jul 20, 2026 |
 | **Assort Health** | [Design a Conversational Flight Search and Booking Agent](https://www.fastprep.io/system-design/conversational-flight-search-and-booking-agent) | [![Practice][p]](https://www.fastprep.io/system-design/conversational-flight-search-and-booking-agent) | 🆕 Jul 20, 2026 |
 | **Apple** | [Design a Large JSON Transformation Service](https://www.fastprep.io/system-design/large-json-transformation-service) | [![Practice][p]](https://www.fastprep.io/system-design/large-json-transformation-service) | 🆕 Jul 18, 2026 |
 | **Pinterest** | [Design a Real-Time Category Leaderboard](https://www.fastprep.io/system-design/real-time-category-leaderboard) | [![Practice][p]](https://www.fastprep.io/system-design/real-time-category-leaderboard) | 🆕 Jul 18, 2026 |
