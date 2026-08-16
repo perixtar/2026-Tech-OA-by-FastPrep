@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**28 questions**
+**29 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -30,6 +30,7 @@
 | **Unattributed** | [Design and Implement a Pluggable Notification Rate Limiter](https://www.fastprep.io/low-level-design/pluggable-notification-rate-limiter) | [![Practice][p]](https://www.fastprep.io/low-level-design/pluggable-notification-rate-limiter) | 🆕 Jul 18, 2026 |
 | **Adobe** | [Design Infinite Scroll for Mutable Data](https://www.fastprep.io/low-level-design/adobe-mutable-infinite-scroll) | [![Practice][p]](https://www.fastprep.io/low-level-design/adobe-mutable-infinite-scroll) | 🆕 Jul 17, 2026 |
 | **Adobe** | [Design Network-Backed Search Suggestions](https://www.fastprep.io/low-level-design/adobe-network-search-suggestions) | [![Practice][p]](https://www.fastprep.io/low-level-design/adobe-network-search-suggestions) | 🆕 Jul 17, 2026 |
+| **Anduril** | [Design and Implement a Doubly Linked List](https://www.fastprep.io/low-level-design/doubly-linked-list-object-design) | [![Practice][p]](https://www.fastprep.io/low-level-design/doubly-linked-list-object-design) | May 12, 2026 |
 | **Postman** | [Design a Threaded Comment System with User Tags](https://www.fastprep.io/low-level-design/threaded-comment-system-with-user-tags) | [![Practice][p]](https://www.fastprep.io/low-level-design/threaded-comment-system-with-user-tags) | Jun 07, 2025 |
 | **Postman** | [Design an Annotated Comment Thread System](https://www.fastprep.io/low-level-design/annotated-comment-thread-system) | [![Practice][p]](https://www.fastprep.io/low-level-design/annotated-comment-thread-system) | Jun 07, 2025 |
 | **Postman** | [Design a Dating Application](https://www.fastprep.io/low-level-design/dating-application-object-model) | [![Practice][p]](https://www.fastprep.io/low-level-design/dating-application-object-model) | May 15, 2025 |
