@@ -1629,6 +1629,7 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 | **Flexport** | [Maximum Edges](https://www.fastprep.io/problems/flexport-get-maximum-edges) | Coding | [![Practice][p]](https://www.fastprep.io/problems/flexport-get-maximum-edges) | Jun 24, 2024 |
 | **WeWork** | [Meeting Room](https://www.fastprep.io/problems/wework-meeting-room) | Coding | [![Practice][p]](https://www.fastprep.io/problems/wework-meeting-room) | Jun 24, 2024 |
 | **WeWork** | [Shopping and Billing](https://www.fastprep.io/problems/wework-shopping-and-billing) | Coding | [![Practice][p]](https://www.fastprep.io/problems/wework-shopping-and-billing) | Jun 24, 2024 |
+| **Postman / Anduril** | [Design a URL Shortening Service](https://www.fastprep.io/system-design/url-shortening-service) | System design | [![Practice][p]](https://www.fastprep.io/system-design/url-shortening-service) | Jun 24, 2024 |
 | **Salesforce** | [Count Substrings](https://www.fastprep.io/problems/salesforce-count-substrings) | Coding | [![Practice][p]](https://www.fastprep.io/problems/salesforce-count-substrings) | Jun 20, 2024 |
 | **Salesforce** | [Count Min Operations to Reduce Dimensions](https://www.fastprep.io/problems/salesforce-count-minimum-operations-to-reduce-dimensions) | Coding | [![Practice][p]](https://www.fastprep.io/problems/salesforce-count-minimum-operations-to-reduce-dimensions) | Jun 20, 2024 |
 | **IBM** | [Min Chairs](https://www.fastprep.io/problems/ibm-min-chairs) | Coding | [![Practice][p]](https://www.fastprep.io/problems/ibm-min-chairs) | Jun 20, 2024 |
@@ -1663,7 +1664,6 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 | **Cisco** | [Flight Path Package Drop](https://www.fastprep.io/problems/cisco-maximum-drop-points-cover) | Coding | [![Practice][p]](https://www.fastprep.io/problems/cisco-maximum-drop-points-cover) | May 25, 2024 |
 | **Amazon** | [Process Execution](https://www.fastprep.io/problems/amazon-process-execution) | Coding | [![Practice][p]](https://www.fastprep.io/problems/amazon-process-execution) | May 23, 2024 |
 | **Postman** | [Encode and Decode a String Stream](https://www.fastprep.io/problems/postman-transform-string-stream) | Coding | [![Practice][p]](https://www.fastprep.io/problems/postman-transform-string-stream) | May 17, 2024 |
-| **Postman** | [Design a URL Shortening Service](https://www.fastprep.io/system-design/url-shortening-service) | System design | [![Practice][p]](https://www.fastprep.io/system-design/url-shortening-service) | May 17, 2024 |
 | **Amazon** | [Get Experience](https://www.fastprep.io/problems/amazon-get-exp) | Coding | [![Practice][p]](https://www.fastprep.io/problems/amazon-get-exp) | May 13, 2024 |
 | **Uber** | [Maximize XOR for Each Query](https://www.fastprep.io/problems/uber-maximum-xor-for-each-query) | Coding | [![Practice][p]](https://www.fastprep.io/problems/uber-maximum-xor-for-each-query) | May 13, 2024 |
 | **Microsoft** | [Find Min Num Moves](https://www.fastprep.io/problems/microsoft-find-min-num-moves) | Coding | [![Practice][p]](https://www.fastprep.io/problems/microsoft-find-min-num-moves) | May 13, 2024 |
