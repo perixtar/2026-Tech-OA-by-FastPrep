@@ -2,17 +2,22 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**153 questions**
+**155 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+| **Amazon / Meta** | [Design a Cloud File Storage System](https://www.fastprep.io/system-design/cloud-file-storage) | [![Practice][p]](https://www.fastprep.io/system-design/cloud-file-storage) | 🔥 Aug 15, 2026 |
+| **DoorDash** | [Food Review System](https://www.fastprep.io/system-design/food-review-system) | [![Practice][p]](https://www.fastprep.io/system-design/food-review-system) | 🔥 Aug 15, 2026 |
+| **Postman / Anduril** | [Design a URL Shortening Service](https://www.fastprep.io/system-design/url-shortening-service) | [![Practice][p]](https://www.fastprep.io/system-design/url-shortening-service) | 🔥 Aug 15, 2026 |
+| **Snowflake** | [Design Calendar Client State and Recurrence](https://www.fastprep.io/system-design/calendar-client-state-and-recurrence) | [![Practice][p]](https://www.fastprep.io/system-design/calendar-client-state-and-recurrence) | 🔥 Aug 15, 2026 |
 | **OpenAI** | [Design a Distributed Video Generation Platform](https://www.fastprep.io/system-design/distributed-video-generation-platform) | [![Practice][p]](https://www.fastprep.io/system-design/distributed-video-generation-platform) | 🔥 Aug 14, 2026 |
 | **Attentive** | [Design a Time Series Metrics Database](https://www.fastprep.io/system-design/time-series-metrics-database) | [![Practice][p]](https://www.fastprep.io/system-design/time-series-metrics-database) | 🔥 Aug 14, 2026 |
 | **Giga** | [Design a Browser-Automated Customer Support Agent](https://www.fastprep.io/system-design/browser-automated-customer-support-agent) | [![Practice][p]](https://www.fastprep.io/system-design/browser-automated-customer-support-agent) | 🔥 Aug 14, 2026 |
 | **OpenAI** | [Design In-Store Merchant Payment Reconciliation](https://www.fastprep.io/system-design/offline-merchant-payment-reconciliation) | [![Practice][p]](https://www.fastprep.io/system-design/offline-merchant-payment-reconciliation) | 🔥 Aug 14, 2026 |
 | **Rippling / Amazon** | [Design an Event Ingestion Platform](https://www.fastprep.io/system-design/durable-event-ingestion-platform) | [![Practice][p]](https://www.fastprep.io/system-design/durable-event-ingestion-platform) | 🔥 Aug 14, 2026 |
+| **Spotify** | [Design a Personalized Session Playlist Ranking System](https://www.fastprep.io/system-design/personalized-session-playlist-ranking) | [![Practice][p]](https://www.fastprep.io/system-design/personalized-session-playlist-ranking) | 🔥 Aug 14, 2026 |
 | **Netflix / Oracle / Google / Meta** | [Design a Personalized Recommendation System](https://www.fastprep.io/system-design/personalized-recommendation-system) | [![Practice][p]](https://www.fastprep.io/system-design/personalized-recommendation-system) | 🔥 Aug 13, 2026 |
 | **Anthropic** | [Design Peer-to-Peer Model Distribution](https://www.fastprep.io/system-design/peer-to-peer-model-distribution) | [![Practice][p]](https://www.fastprep.io/system-design/peer-to-peer-model-distribution) | 🔥 Aug 13, 2026 |
 | **OpenAI** | [Design a Distributed Crossword Solver](https://www.fastprep.io/system-design/distributed-crossword-solver-orchestration) | [![Practice][p]](https://www.fastprep.io/system-design/distributed-crossword-solver-orchestration) | 🔥 Aug 13, 2026 |
@@ -143,7 +148,6 @@
 | **Mercor** | [Design an External Career Data Analytics Platform](https://www.fastprep.io/system-design/external-career-data-analytics-platform) | [![Practice][p]](https://www.fastprep.io/system-design/external-career-data-analytics-platform) | Jun 15, 2026 |
 | **Amazon** | [Design an E-commerce Recommendation Event Pipeline](https://www.fastprep.io/system-design/ecommerce-recommendation-event-pipeline) | [![Practice][p]](https://www.fastprep.io/system-design/ecommerce-recommendation-event-pipeline) | Jun 05, 2026 |
 | **Amazon** | [Design an Amazon Locker System](https://www.fastprep.io/system-design/amazon-locker-system) | [![Practice][p]](https://www.fastprep.io/system-design/amazon-locker-system) | May 26, 2026 |
-| **Amazon** | [Design a Cloud File Storage System](https://www.fastprep.io/system-design/cloud-file-storage) | [![Practice][p]](https://www.fastprep.io/system-design/cloud-file-storage) | May 24, 2026 |
 | **Amazon / Postman** | [Design a Collaborative Document Editor](https://www.fastprep.io/system-design/collaborative-document-editor) | [![Practice][p]](https://www.fastprep.io/system-design/collaborative-document-editor) | May 22, 2026 |
 | **Postman** | [Design a Social Feed and Post Detail Experience](https://www.fastprep.io/system-design/social-feed-and-post-detail-experience) | [![Practice][p]](https://www.fastprep.io/system-design/social-feed-and-post-detail-experience) | May 21, 2026 |
 | **ByteDance** | [Design an Event Booking and Analytics Platform](https://www.fastprep.io/system-design/event-booking-and-analytics-platform) | [![Practice][p]](https://www.fastprep.io/system-design/event-booking-and-analytics-platform) | May 07, 2026 |
@@ -151,13 +155,11 @@
 | **Discord** | [Design a Video Call Analytics Platform](https://www.fastprep.io/system-design/video-call-analytics-platform) | [![Practice][p]](https://www.fastprep.io/system-design/video-call-analytics-platform) | Apr 26, 2026 |
 | **Amazon** | [Design a Fastag Toll Payment System](https://www.fastprep.io/system-design/fastag-toll-payment-system) | [![Practice][p]](https://www.fastprep.io/system-design/fastag-toll-payment-system) | Apr 25, 2026 |
 | **Cohere** | [Enterprise Research Assistant](https://www.fastprep.io/system-design/enterprise-research-assistant) | [![Practice][p]](https://www.fastprep.io/system-design/enterprise-research-assistant) | Apr 01, 2026 |
-| **DoorDash** | [Food Review System](https://www.fastprep.io/system-design/food-review-system) | [![Practice][p]](https://www.fastprep.io/system-design/food-review-system) | Apr 01, 2026 |
 | **infosys** | [Design Ride-Hailing Dispatch and Trip Lifecycle](https://www.fastprep.io/system-design/regional-ride-hailing-dispatch-system) | [![Practice][p]](https://www.fastprep.io/system-design/regional-ride-hailing-dispatch-system) | Jan 21, 2026 |
 | **Sierra** | [Design a Resumable Streaming AI Chat](https://www.fastprep.io/system-design/resumable-streaming-ai-chat) | [![Practice][p]](https://www.fastprep.io/system-design/resumable-streaming-ai-chat) | Nov 24, 2025 |
 | **Postman** | [Design a Calendar Event Collaboration System](https://www.fastprep.io/system-design/calendar-event-collaboration-system) | [![Practice][p]](https://www.fastprep.io/system-design/calendar-event-collaboration-system) | May 15, 2025 |
 | **Postman** | [Design a Collaborative Document Workspace Frontend](https://www.fastprep.io/system-design/frontend-collaborative-document-workspace) | [![Practice][p]](https://www.fastprep.io/system-design/frontend-collaborative-document-workspace) | Jan 17, 2025 |
 | **Postman** | [Design a Multi-Provider Weather Forecast Service](https://www.fastprep.io/system-design/multi-provider-weather-forecast-service) | [![Practice][p]](https://www.fastprep.io/system-design/multi-provider-weather-forecast-service) | Nov 29, 2024 |
 | **Pinterest** | [Design Merchant Product Catalog Ingestion](https://www.fastprep.io/system-design/merchant-product-catalog-ingestion) | [![Practice][p]](https://www.fastprep.io/system-design/merchant-product-catalog-ingestion) | Aug 21, 2024 |
-| **Postman / Anduril** | [Design a URL Shortening Service](https://www.fastprep.io/system-design/url-shortening-service) | [![Practice][p]](https://www.fastprep.io/system-design/url-shortening-service) | Jun 24, 2024 |
 | **Anduril** | [Design a Radar Sensor Observation Pipeline](https://www.fastprep.io/system-design/radar-sensor-observation-pipeline) | [![Practice][p]](https://www.fastprep.io/system-design/radar-sensor-observation-pipeline) | Jun 11, 2024 |
 | **Postman** | [Design an Authenticated Page Presence Counter](https://www.fastprep.io/system-design/authenticated-page-presence-counter) | [![Practice][p]](https://www.fastprep.io/system-design/authenticated-page-presence-counter) | Mar 31, 2020 |
