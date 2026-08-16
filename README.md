@@ -113,7 +113,7 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 <sub>Newest updates first &nbsp;·&nbsp; 🔥 added in the last 2 weeks &nbsp;·&nbsp; 🆕 in the last 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (1,735)](formats/coding.md) · [SQL (2)](formats/sql.md) · [System design (155)](formats/system-design.md) · [Low-level design (29)](formats/low-level-design.md) · [AI coding (20)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (1,735)](formats/coding.md) · [SQL (2)](formats/sql.md) · [System design (156)](formats/system-design.md) · [Low-level design (29)](formats/low-level-design.md) · [AI coding (20)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 <sub>System design, low-level design/OOD, and AI coding rows sync hourly from FastPrep's public, candidate-safe catalogs. <b>Updated</b> uses the latest reported sighting when available, otherwise the first public sync date. <b>Unattributed</b> means no source-backed employer was reported.</sub>
@@ -127,6 +127,7 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 | **DoorDash** | [Food Review System](https://www.fastprep.io/system-design/food-review-system) | System design | [![Practice][p]](https://www.fastprep.io/system-design/food-review-system) | 🔥 Aug 15, 2026 |
 | **Postman / Anduril** | [Design a URL Shortening Service](https://www.fastprep.io/system-design/url-shortening-service) | System design | [![Practice][p]](https://www.fastprep.io/system-design/url-shortening-service) | 🔥 Aug 15, 2026 |
 | **Snowflake** | [Design Calendar Client State and Recurrence](https://www.fastprep.io/system-design/calendar-client-state-and-recurrence) | System design | [![Practice][p]](https://www.fastprep.io/system-design/calendar-client-state-and-recurrence) | 🔥 Aug 15, 2026 |
+| **Salesforce** | [Design a Goal-Driven Tool-Using Agent](https://www.fastprep.io/system-design/goal-driven-tool-using-agent) | System design | [![Practice][p]](https://www.fastprep.io/system-design/goal-driven-tool-using-agent) | 🔥 Aug 15, 2026 |
 | **OpenAI** | [Design a Distributed Video Generation Platform](https://www.fastprep.io/system-design/distributed-video-generation-platform) | System design | [![Practice][p]](https://www.fastprep.io/system-design/distributed-video-generation-platform) | 🔥 Aug 14, 2026 |
 | **Attentive** | [Design a Time Series Metrics Database](https://www.fastprep.io/system-design/time-series-metrics-database) | System design | [![Practice][p]](https://www.fastprep.io/system-design/time-series-metrics-database) | 🔥 Aug 14, 2026 |
 | **Giga** | [Design a Browser-Automated Customer Support Agent](https://www.fastprep.io/system-design/browser-automated-customer-support-agent) | System design | [![Practice][p]](https://www.fastprep.io/system-design/browser-automated-customer-support-agent) | 🔥 Aug 14, 2026 |

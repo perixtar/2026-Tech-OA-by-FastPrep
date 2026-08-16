@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**155 questions**
+**156 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -12,6 +12,7 @@
 | **DoorDash** | [Food Review System](https://www.fastprep.io/system-design/food-review-system) | [![Practice][p]](https://www.fastprep.io/system-design/food-review-system) | 🔥 Aug 15, 2026 |
 | **Postman / Anduril** | [Design a URL Shortening Service](https://www.fastprep.io/system-design/url-shortening-service) | [![Practice][p]](https://www.fastprep.io/system-design/url-shortening-service) | 🔥 Aug 15, 2026 |
 | **Snowflake** | [Design Calendar Client State and Recurrence](https://www.fastprep.io/system-design/calendar-client-state-and-recurrence) | [![Practice][p]](https://www.fastprep.io/system-design/calendar-client-state-and-recurrence) | 🔥 Aug 15, 2026 |
+| **Salesforce** | [Design a Goal-Driven Tool-Using Agent](https://www.fastprep.io/system-design/goal-driven-tool-using-agent) | [![Practice][p]](https://www.fastprep.io/system-design/goal-driven-tool-using-agent) | 🔥 Aug 15, 2026 |
 | **OpenAI** | [Design a Distributed Video Generation Platform](https://www.fastprep.io/system-design/distributed-video-generation-platform) | [![Practice][p]](https://www.fastprep.io/system-design/distributed-video-generation-platform) | 🔥 Aug 14, 2026 |
 | **Attentive** | [Design a Time Series Metrics Database](https://www.fastprep.io/system-design/time-series-metrics-database) | [![Practice][p]](https://www.fastprep.io/system-design/time-series-metrics-database) | 🔥 Aug 14, 2026 |
 | **Giga** | [Design a Browser-Automated Customer Support Agent](https://www.fastprep.io/system-design/browser-automated-customer-support-agent) | [![Practice][p]](https://www.fastprep.io/system-design/browser-automated-customer-support-agent) | 🔥 Aug 14, 2026 |
