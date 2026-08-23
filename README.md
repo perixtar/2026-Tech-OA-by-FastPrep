@@ -113,7 +113,7 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 <sub>Newest updates first &nbsp;·&nbsp; 🔥 added in the last 2 weeks &nbsp;·&nbsp; 🆕 in the last 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (1,766)](formats/coding.md) · [SQL (2)](formats/sql.md) · [System design (158)](formats/system-design.md) · [Low-level design (29)](formats/low-level-design.md) · [AI coding (20)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (1,767)](formats/coding.md) · [SQL (2)](formats/sql.md) · [System design (158)](formats/system-design.md) · [Low-level design (29)](formats/low-level-design.md) · [AI coding (20)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 <sub>System design, low-level design/OOD, and AI coding rows sync hourly from FastPrep's public, candidate-safe catalogs. <b>Updated</b> uses the latest reported sighting when available, otherwise the first public sync date. <b>Unattributed</b> means no source-backed employer was reported.</sub>
@@ -268,6 +268,7 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 | **Amazon** | [Repair the Wallet Loan Marketplace](https://www.fastprep.io/project-coding/repair-wallet-loan-marketplace) | AI coding | [![Practice][p]](https://www.fastprep.io/project-coding/repair-wallet-loan-marketplace) | 🆕 Aug 03, 2026 |
 | **Amazon** | [Design a Playlist Source Mixer](https://www.fastprep.io/low-level-design/playlist-source-mixer) | Low-level design | [![Practice][p]](https://www.fastprep.io/low-level-design/playlist-source-mixer) | 🆕 Aug 03, 2026 |
 | **Gusto** | [Design a Restaurant Staff Scheduling System](https://www.fastprep.io/system-design/restaurant-scheduling-system) | System design | [![Practice][p]](https://www.fastprep.io/system-design/restaurant-scheduling-system) | 🆕 Aug 03, 2026 |
+| **HSBC** | [Remove Vowels from a String](https://www.fastprep.io/problems/hsbc-remove-vowels) | Coding | [![Practice][p]](https://www.fastprep.io/problems/hsbc-remove-vowels) | 🆕 Aug 03, 2026 |
 | **Infosys** | [Count Valid A-B-C Sequences Under a Modulo-Four Rule](https://www.fastprep.io/problems/infosys-count-valid-abc-sequences-mod-four) | Coding | [![Practice][p]](https://www.fastprep.io/problems/infosys-count-valid-abc-sequences-mod-four) | 🆕 Aug 02, 2026 |
 | **Infosys** | [Maximum Product of a Strictly Increasing Contiguous Subarray](https://www.fastprep.io/problems/infosys-maximum-product-increasing-subarray) | Coding | [![Practice][p]](https://www.fastprep.io/problems/infosys-maximum-product-increasing-subarray) | 🆕 Aug 02, 2026 |
 | **Infosys** | [Minimum Cost to Assign Candidates to Two Cities](https://www.fastprep.io/problems/infosys-two-city-candidate-assignment-cost) | Coding | [![Practice][p]](https://www.fastprep.io/problems/infosys-two-city-candidate-assignment-cost) | 🆕 Aug 02, 2026 |
@@ -520,7 +521,6 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 | **Unattributed** | [Design and Implement a Pluggable Notification Rate Limiter](https://www.fastprep.io/low-level-design/pluggable-notification-rate-limiter) | Low-level design | [![Practice][p]](https://www.fastprep.io/low-level-design/pluggable-notification-rate-limiter) | 🆕 Jul 18, 2026 |
 | **Goldman Sachs** | [Inherited Role Permissions](https://www.fastprep.io/problems/goldman-sachs-role-permissions) | Coding | [![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-role-permissions) | 🆕 Jul 17, 2026 |
 | **Goldman Sachs** | [Root of the Largest Tree](https://www.fastprep.io/problems/goldman-sachs-largest-tree-root) | Coding | [![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-largest-tree-root) | 🆕 Jul 17, 2026 |
-| **HSBC** | [Remove Vowels from a String](https://www.fastprep.io/problems/hsbc-remove-vowels) | Coding | [![Practice][p]](https://www.fastprep.io/problems/hsbc-remove-vowels) | 🆕 Jul 17, 2026 |
 | **Uber** | [Design a Driver Payout System](https://www.fastprep.io/system-design/uber-driver-payout) | System design | [![Practice][p]](https://www.fastprep.io/system-design/uber-driver-payout) | 🆕 Jul 17, 2026 |
 | **Microsoft** | [Design a Real-Time Multiplayer Game](https://www.fastprep.io/system-design/real-time-multiplayer-game) | System design | [![Practice][p]](https://www.fastprep.io/system-design/real-time-multiplayer-game) | 🆕 Jul 17, 2026 |
 | **Adobe** | [Design Infinite Scroll for Mutable Data](https://www.fastprep.io/low-level-design/adobe-mutable-infinite-scroll) | Low-level design | [![Practice][p]](https://www.fastprep.io/low-level-design/adobe-mutable-infinite-scroll) | 🆕 Jul 17, 2026 |
@@ -955,6 +955,7 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 | **Amazon** | [Minimum S3 Storage Cost](https://www.fastprep.io/problems/amazon-minimum-s3-storage-cost) | Coding | [![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-s3-storage-cost) | Dec 11, 2025 |
 | **Flipkart** | [Minimized Total Idle Time](https://www.fastprep.io/problems/flipkart-minimized-total-idle-time) | Coding | [![Practice][p]](https://www.fastprep.io/problems/flipkart-minimized-total-idle-time) | Dec 11, 2025 |
 | **Sierra** | [Design a Resumable Streaming AI Chat](https://www.fastprep.io/system-design/resumable-streaming-ai-chat) | System design | [![Practice][p]](https://www.fastprep.io/system-design/resumable-streaming-ai-chat) | Nov 24, 2025 |
+| **HSBC** | [Minimum Markers to Clear Line Segments](https://www.fastprep.io/problems/hsbc-minimum-markers-to-clear-line-segments) | Coding | [![Practice][p]](https://www.fastprep.io/problems/hsbc-minimum-markers-to-clear-line-segments) | Nov 19, 2025 |
 | **MathWorks** | [Balancing Teams](https://www.fastprep.io/problems/mathworks-balancing-teams) | Coding | [![Practice][p]](https://www.fastprep.io/problems/mathworks-balancing-teams) | Nov 16, 2025 |
 | **MathWorks** | [Largest Sub-Grid](https://www.fastprep.io/problems/mathworks-largest-sub-grid) | Coding | [![Practice][p]](https://www.fastprep.io/problems/mathworks-largest-sub-grid) | Nov 16, 2025 |
 | **Two Sigma** | [Calculate y/x using Patch](https://www.fastprep.io/problems/twosigma-calculate-y-over-x) | Coding | [![Practice][p]](https://www.fastprep.io/problems/twosigma-calculate-y-over-x) | Nov 09, 2025 |
