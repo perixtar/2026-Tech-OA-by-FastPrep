@@ -122,6 +122,7 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+| **Microsoft** | [Minimum Fuel Cost Between Cities](https://www.fastprep.io/problems/microsoft-minimum-fuel-cost) | Coding | [![Practice][p]](https://www.fastprep.io/problems/microsoft-minimum-fuel-cost) | 🔥 Aug 23, 2026 |
 | **Barclays** | [Allocate Workers for a Production Ratio](https://www.fastprep.io/problems/barclays-production-ratio-worker-allocation) | Coding | [![Practice][p]](https://www.fastprep.io/problems/barclays-production-ratio-worker-allocation) | 🔥 Aug 22, 2026 |
 | **Google** | [Directed Graph Reachability Queries](https://www.fastprep.io/problems/google-directed-graph-reachability-queries) | Coding | [![Practice][p]](https://www.fastprep.io/problems/google-directed-graph-reachability-queries) | 🔥 Aug 21, 2026 |
 | **Pinterest** | [Phone Spam Report Counter](https://www.fastprep.io/problems/pinterest-phone-spam-report-counter) | Coding | [![Practice][p]](https://www.fastprep.io/problems/pinterest-phone-spam-report-counter) | 🔥 Aug 21, 2026 |
