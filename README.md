@@ -113,7 +113,7 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 <sub>Newest updates first &nbsp;·&nbsp; 🔥 added in the last 2 weeks &nbsp;·&nbsp; 🆕 in the last 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (1,762)](formats/coding.md) · [SQL (2)](formats/sql.md) · [System design (158)](formats/system-design.md) · [Low-level design (29)](formats/low-level-design.md) · [AI coding (20)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (1,765)](formats/coding.md) · [SQL (2)](formats/sql.md) · [System design (158)](formats/system-design.md) · [Low-level design (29)](formats/low-level-design.md) · [AI coding (20)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 <sub>System design, low-level design/OOD, and AI coding rows sync hourly from FastPrep's public, candidate-safe catalogs. <b>Updated</b> uses the latest reported sighting when available, otherwise the first public sync date. <b>Unattributed</b> means no source-backed employer was reported.</sub>
@@ -122,6 +122,10 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+| **Airbnb** | [Progressive Banking System](https://www.fastprep.io/problems/airbnb-progressive-banking-system) | Coding | [![Practice][p]](https://www.fastprep.io/problems/airbnb-progressive-banking-system) | 🔥 Aug 23, 2026 |
+| **Citadel** | [Maximize Workday Earnings](https://www.fastprep.io/problems/citadel-maximize-workday-earnings) | Coding | [![Practice][p]](https://www.fastprep.io/problems/citadel-maximize-workday-earnings) | 🔥 Aug 23, 2026 |
+| **Citadel** | [Minimum Changes for Palindromic Blocks](https://www.fastprep.io/problems/citadel-minimum-changes-palindromic-blocks) | Coding | [![Practice][p]](https://www.fastprep.io/problems/citadel-minimum-changes-palindromic-blocks) | 🔥 Aug 23, 2026 |
+| **Google** | [Assign Locker](https://www.fastprep.io/problems/google-assign-locker) | Coding | [![Practice][p]](https://www.fastprep.io/problems/google-assign-locker) | 🔥 Aug 23, 2026 |
 | **Barclays** | [Allocate Workers for a Production Ratio](https://www.fastprep.io/problems/barclays-production-ratio-worker-allocation) | Coding | [![Practice][p]](https://www.fastprep.io/problems/barclays-production-ratio-worker-allocation) | 🔥 Aug 22, 2026 |
 | **Google** | [Directed Graph Reachability Queries](https://www.fastprep.io/problems/google-directed-graph-reachability-queries) | Coding | [![Practice][p]](https://www.fastprep.io/problems/google-directed-graph-reachability-queries) | 🔥 Aug 21, 2026 |
 | **Pinterest** | [Phone Spam Report Counter](https://www.fastprep.io/problems/pinterest-phone-spam-report-counter) | Coding | [![Practice][p]](https://www.fastprep.io/problems/pinterest-phone-spam-report-counter) | 🔥 Aug 21, 2026 |
@@ -1606,7 +1610,6 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 | **Amazon** | [Get Operations](https://www.fastprep.io/problems/amazon-get-operations) | Coding | [![Practice][p]](https://www.fastprep.io/problems/amazon-get-operations) | Aug 05, 2024 |
 | **Salesforce** | [Count Numbers with Unique Digits](https://www.fastprep.io/problems/salesforce-count-numbers-with-unique-digits) | Coding | [![Practice][p]](https://www.fastprep.io/problems/salesforce-count-numbers-with-unique-digits) | Aug 05, 2024 |
 | **Google** | [Find Max Heart Rate Difference](https://www.fastprep.io/problems/google-find-max-heart-rate-difference) | Coding | [![Practice][p]](https://www.fastprep.io/problems/google-find-max-heart-rate-difference) | Aug 05, 2024 |
-| **Google** | [Assign Locker](https://www.fastprep.io/problems/google-assign-locker) | Coding | [![Practice][p]](https://www.fastprep.io/problems/google-assign-locker) | Aug 05, 2024 |
 | **Google** | [Find Palindromes](https://www.fastprep.io/problems/google-find-palindromes) | Coding | [![Practice][p]](https://www.fastprep.io/problems/google-find-palindromes) | Aug 05, 2024 |
 | **Google** | [Binary Palindromic](https://www.fastprep.io/problems/google-minimum-operations-to-make-binary-palindromic) | Coding | [![Practice][p]](https://www.fastprep.io/problems/google-minimum-operations-to-make-binary-palindromic) | Aug 05, 2024 |
 | **Google** | [Max Num of Moves with Same Result Sum](https://www.fastprep.io/problems/google-maximum-number-of-moves-with-same-result-sum) | Coding | [![Practice][p]](https://www.fastprep.io/problems/google-maximum-number-of-moves-with-same-result-sum) | Aug 05, 2024 |
