@@ -113,7 +113,7 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 <sub>Newest updates first &nbsp;·&nbsp; 🔥 added in the last 2 weeks &nbsp;·&nbsp; 🆕 in the last 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (1,767)](formats/coding.md) · [SQL (2)](formats/sql.md) · [System design (158)](formats/system-design.md) · [Low-level design (29)](formats/low-level-design.md) · [AI coding (20)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (1,772)](formats/coding.md) · [SQL (2)](formats/sql.md) · [System design (158)](formats/system-design.md) · [Low-level design (29)](formats/low-level-design.md) · [AI coding (20)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 <sub>System design, low-level design/OOD, and AI coding rows sync hourly from FastPrep's public, candidate-safe catalogs. <b>Updated</b> uses the latest reported sighting when available, otherwise the first public sync date. <b>Unattributed</b> means no source-backed employer was reported.</sub>
@@ -123,6 +123,7 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
 | **Goldman Sachs** | [Maximum Ones After K Operations](https://www.fastprep.io/problems/goldman-sachs-maximum-ones-after-k-operations) | Coding | [![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-maximum-ones-after-k-operations) | 🔥 Aug 24, 2026 |
+| **Microsoft** | [Maximum Products by Budget](https://www.fastprep.io/problems/1.microsoft-maximum-products-by-budget) | Coding | [![Practice][p]](https://www.fastprep.io/problems/1.microsoft-maximum-products-by-budget) | 🔥 Aug 24, 2026 |
 | **Airbnb** | [Progressive Banking System](https://www.fastprep.io/problems/airbnb-progressive-banking-system) | Coding | [![Practice][p]](https://www.fastprep.io/problems/airbnb-progressive-banking-system) | 🔥 Aug 23, 2026 |
 | **Citadel** | [Maximize Workday Earnings](https://www.fastprep.io/problems/citadel-maximize-workday-earnings) | Coding | [![Practice][p]](https://www.fastprep.io/problems/citadel-maximize-workday-earnings) | 🔥 Aug 23, 2026 |
 | **Citadel** | [Minimum Changes for Palindromic Blocks](https://www.fastprep.io/problems/citadel-minimum-changes-palindromic-blocks) | Coding | [![Practice][p]](https://www.fastprep.io/problems/citadel-minimum-changes-palindromic-blocks) | 🔥 Aug 23, 2026 |
@@ -904,7 +905,6 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 | **Amazon** | [The Best Way To Pack](https://www.fastprep.io/problems/amazon-best-way-to-pack) | Coding | [![Practice][p]](https://www.fastprep.io/problems/amazon-best-way-to-pack) | Mar 23, 2026 |
 | **DRW** | [Simplified Tetris Engine](https://www.fastprep.io/problems/drw-simplified-tetris-engine) | Coding | [![Practice][p]](https://www.fastprep.io/problems/drw-simplified-tetris-engine) | Mar 23, 2026 |
 | **Headlands** | [Disaster Recovery](https://www.fastprep.io/problems/headlands-disaster-recovery) | Coding | [![Practice][p]](https://www.fastprep.io/problems/headlands-disaster-recovery) | Mar 21, 2026 |
-| **Microsoft** | [Maximum Products by Budget](https://www.fastprep.io/problems/microsoft-maximum-products-by-budget) | Coding | [![Practice][p]](https://www.fastprep.io/problems/microsoft-maximum-products-by-budget) | Mar 21, 2026 |
 | **Microsoft** | [Authentication System](https://www.fastprep.io/problems/microsoft-authentication-system) | Coding | [![Practice][p]](https://www.fastprep.io/problems/microsoft-authentication-system) | Mar 21, 2026 |
 | **Microsoft** | [Visible Profiles Count](https://www.fastprep.io/problems/microsoft-visible-profiles-count) | Coding | [![Practice][p]](https://www.fastprep.io/problems/microsoft-visible-profiles-count) | Mar 21, 2026 |
 | **Swiggy** | [First and Last Occurrence](https://www.fastprep.io/problems/swiggy-first-and-last-occurrence) | Coding | [![Practice][p]](https://www.fastprep.io/problems/swiggy-first-and-last-occurrence) | Mar 20, 2026 |
