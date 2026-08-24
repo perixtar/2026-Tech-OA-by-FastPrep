@@ -2075,6 +2075,7 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 | **Amazon** | [Count Num Ways](https://www.fastprep.io/problems/count-num-ways) | Coding | [![Practice][p]](https://www.fastprep.io/problems/count-num-ways) | Dec 06, 2023 |
 | **Amazon** | [Get Priorities After Execution](https://www.fastprep.io/problems/get-priorities-after-execution) | Coding | [![Practice][p]](https://www.fastprep.io/problems/get-priorities-after-execution) | Dec 06, 2023 |
 | **Amazon** | [Maximum Book Copies](https://www.fastprep.io/problems/1.max-book-copies) | Coding | [![Practice][p]](https://www.fastprep.io/problems/1.max-book-copies) | Dec 03, 2023 |
+| **SpaceX** | [Simplified Time-Based Key-Value Store](https://www.fastprep.io/problems/spacex-simplified-time-map) | Coding | [![Practice][p]](https://www.fastprep.io/problems/spacex-simplified-time-map) | Nov 02, 2023 |
 | **Amazon** | [Get Average Standing](https://www.fastprep.io/problems/get-average-standing) | Coding | [![Practice][p]](https://www.fastprep.io/problems/get-average-standing) | Sep 24, 2023 |
 | **Amazon** | [Minimum Time Spent](https://www.fastprep.io/problems/minimum-time-spent) | Coding | [![Practice][p]](https://www.fastprep.io/problems/minimum-time-spent) | Sep 24, 2023 |
 | **Amazon** | [Count Max Num Teams](https://www.fastprep.io/problems/count-max-num-teams) | Coding | [![Practice][p]](https://www.fastprep.io/problems/count-max-num-teams) | Sep 24, 2023 |
