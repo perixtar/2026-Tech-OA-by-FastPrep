@@ -122,6 +122,7 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+| **Goldman Sachs** | [Maximum Ones After K Operations](https://www.fastprep.io/problems/goldman-sachs-maximum-ones-after-k-operations) | Coding | [![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-maximum-ones-after-k-operations) | 🔥 Aug 24, 2026 |
 | **Microsoft** | [Maximum Products by Budget](https://www.fastprep.io/problems/1.microsoft-maximum-products-by-budget) | Coding | [![Practice][p]](https://www.fastprep.io/problems/1.microsoft-maximum-products-by-budget) | 🔥 Aug 24, 2026 |
 | **Airbnb** | [Progressive Banking System](https://www.fastprep.io/problems/airbnb-progressive-banking-system) | Coding | [![Practice][p]](https://www.fastprep.io/problems/airbnb-progressive-banking-system) | 🔥 Aug 23, 2026 |
 | **Citadel** | [Maximize Workday Earnings](https://www.fastprep.io/problems/citadel-maximize-workday-earnings) | Coding | [![Practice][p]](https://www.fastprep.io/problems/citadel-maximize-workday-earnings) | 🔥 Aug 23, 2026 |
