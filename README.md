@@ -122,8 +122,10 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+| **TikTok** | [Event ID Check Completion Times](https://www.fastprep.io/problems/tiktok-event-id-check-completion-times) | Coding | [![Practice][p]](https://www.fastprep.io/problems/tiktok-event-id-check-completion-times) | 🔥 Aug 26, 2026 |
 | **TikTok** | [Leftmost Memory Block Allocator (for mle also :)](https://www.fastprep.io/problems/tiktok-leftmost-memory-block-allocator) | Coding | [![Practice][p]](https://www.fastprep.io/problems/tiktok-leftmost-memory-block-allocator) | 🔥 Aug 26, 2026 |
 | **TikTok** | [Find Sum Pairs (for mle also :)](https://www.fastprep.io/problems/tiktok-find-sum-pairs) | Coding | [![Practice][p]](https://www.fastprep.io/problems/tiktok-find-sum-pairs) | 🔥 Aug 26, 2026 |
+| **TikTok** | [Reverse Letters in Pairs](https://www.fastprep.io/problems/tiktok-reverse-letters-in-pairs) | Coding | [![Practice][p]](https://www.fastprep.io/problems/tiktok-reverse-letters-in-pairs) | 🔥 Aug 26, 2026 |
 | **Goldman Sachs** | [Maximum Ones After K Operations](https://www.fastprep.io/problems/goldman-sachs-maximum-ones-after-k-operations) | Coding | [![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-maximum-ones-after-k-operations) | 🔥 Aug 24, 2026 |
 | **Microsoft** | [Maximum Products by Budget](https://www.fastprep.io/problems/1.microsoft-maximum-products-by-budget) | Coding | [![Practice][p]](https://www.fastprep.io/problems/1.microsoft-maximum-products-by-budget) | 🔥 Aug 24, 2026 |
 | **Airbnb** | [Progressive Banking System](https://www.fastprep.io/problems/airbnb-progressive-banking-system) | Coding | [![Practice][p]](https://www.fastprep.io/problems/airbnb-progressive-banking-system) | 🔥 Aug 23, 2026 |
@@ -253,7 +255,6 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 | **TikTok** | [Minimum Height Difference Between Distant Peaks](https://www.fastprep.io/problems/tiktok-minimum-height-difference-between-distant-peaks) | Coding | [![Practice][p]](https://www.fastprep.io/problems/tiktok-minimum-height-difference-between-distant-peaks) | 🆕 Aug 05, 2026 |
 | **TikTok** | [Minimum Operations for Stepwise Structures](https://www.fastprep.io/problems/tiktok-minimum-operations-for-stepwise-structures) | Coding | [![Practice][p]](https://www.fastprep.io/problems/tiktok-minimum-operations-for-stepwise-structures) | 🆕 Aug 05, 2026 |
 | **TikTok** | [Rating Level After Changes](https://www.fastprep.io/problems/tiktok-rating-level-after-changes) | Coding | [![Practice][p]](https://www.fastprep.io/problems/tiktok-rating-level-after-changes) | 🆕 Aug 05, 2026 |
-| **TikTok** | [Reverse Letters in Pairs](https://www.fastprep.io/problems/tiktok-reverse-letters-in-pairs) | Coding | [![Practice][p]](https://www.fastprep.io/problems/tiktok-reverse-letters-in-pairs) | 🆕 Aug 05, 2026 |
 | **TikTok** | [Space Station Shuttle Missions](https://www.fastprep.io/problems/tiktok-space-station-shuttle-missions) | Coding | [![Practice][p]](https://www.fastprep.io/problems/tiktok-space-station-shuttle-missions) | 🆕 Aug 05, 2026 |
 | **Oracle / Retell AI / Apple / Google** | [Design a Distributed Rate Limiter](https://www.fastprep.io/system-design/distributed-rate-limiter) | System design | [![Practice][p]](https://www.fastprep.io/system-design/distributed-rate-limiter) | 🆕 Aug 05, 2026 |
 | **Apple** | [Design a Multi-Device Photo Storage System](https://www.fastprep.io/system-design/multi-device-photo-storage) | System design | [![Practice][p]](https://www.fastprep.io/system-design/multi-device-photo-storage) | 🆕 Aug 05, 2026 |
