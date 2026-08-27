@@ -113,7 +113,7 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 <sub>Newest updates first &nbsp;·&nbsp; 🔥 added in the last 2 weeks &nbsp;·&nbsp; 🆕 in the last 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (1,782)](formats/coding.md) · [SQL (2)](formats/sql.md) · [System design (158)](formats/system-design.md) · [Low-level design (29)](formats/low-level-design.md) · [AI coding (20)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (1,783)](formats/coding.md) · [SQL (2)](formats/sql.md) · [System design (158)](formats/system-design.md) · [Low-level design (29)](formats/low-level-design.md) · [AI coding (20)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 <sub>System design, low-level design/OOD, and AI coding rows sync hourly from FastPrep's public, candidate-safe catalogs. <b>Updated</b> uses the latest reported sighting when available, otherwise the first public sync date. <b>Unattributed</b> means no source-backed employer was reported.</sub>
@@ -132,6 +132,7 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 | **TikTok** | [Count Even-Digit Numbers](https://www.fastprep.io/problems/tiktok-count-even-digit-numbers) | Coding | [![Practice][p]](https://www.fastprep.io/problems/tiktok-count-even-digit-numbers) | 🔥 Aug 25, 2026 |
 | **IBM** | [Plus Mult Array](https://www.fastprep.io/problems/ibm-plus-mult-array) | Coding | [![Practice][p]](https://www.fastprep.io/problems/ibm-plus-mult-array) | 🔥 Aug 25, 2026 |
 | **IBM** | [Get Maximum Amount](https://www.fastprep.io/problems/ibm-get-maximum-amount) | Coding | [![Practice][p]](https://www.fastprep.io/problems/ibm-get-maximum-amount) | 🔥 Aug 25, 2026 |
+| **IBM** | [Expiring Authentication Token Manager](https://www.fastprep.io/problems/ibm-expiring-authentication-token-manager) | Coding | [![Practice][p]](https://www.fastprep.io/problems/ibm-expiring-authentication-token-manager) | 🔥 Aug 24, 2026 |
 | **Goldman Sachs** | [Maximum Ones After K Operations](https://www.fastprep.io/problems/goldman-sachs-maximum-ones-after-k-operations) | Coding | [![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-maximum-ones-after-k-operations) | 🔥 Aug 24, 2026 |
 | **Microsoft** | [Maximum Products by Budget](https://www.fastprep.io/problems/1.microsoft-maximum-products-by-budget) | Coding | [![Practice][p]](https://www.fastprep.io/problems/1.microsoft-maximum-products-by-budget) | 🔥 Aug 24, 2026 |
 | **TikTok** | [Repeated Grouped Digit Sum](https://www.fastprep.io/problems/tiktok-repeated-grouped-digit-sum) | Coding | [![Practice][p]](https://www.fastprep.io/problems/tiktok-repeated-grouped-digit-sum) | 🔥 Aug 24, 2026 |
