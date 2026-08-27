@@ -113,7 +113,7 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 <sub>Newest updates first &nbsp;·&nbsp; 🔥 added in the last 2 weeks &nbsp;·&nbsp; 🆕 in the last 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (1,783)](formats/coding.md) · [SQL (2)](formats/sql.md) · [System design (158)](formats/system-design.md) · [Low-level design (29)](formats/low-level-design.md) · [AI coding (20)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (1,785)](formats/coding.md) · [SQL (2)](formats/sql.md) · [System design (158)](formats/system-design.md) · [Low-level design (29)](formats/low-level-design.md) · [AI coding (20)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 <sub>System design, low-level design/OOD, and AI coding rows sync hourly from FastPrep's public, candidate-safe catalogs. <b>Updated</b> uses the latest reported sighting when available, otherwise the first public sync date. <b>Unattributed</b> means no source-backed employer was reported.</sub>
@@ -238,6 +238,8 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 | **Spotify** | [Design a Weekly User Activity Prediction System](https://www.fastprep.io/system-design/weekly-user-activity-prediction) | System design | [![Practice][p]](https://www.fastprep.io/system-design/weekly-user-activity-prediction) | 🆕 Aug 10, 2026 |
 | **Anthropic** | [Design Production ML Serving Observability](https://www.fastprep.io/system-design/production-ml-serving-observability) | System design | [![Practice][p]](https://www.fastprep.io/system-design/production-ml-serving-observability) | 🆕 Aug 10, 2026 |
 | **Apple** | [Design an On-Prem Media Transfer for Cloud GPU Training](https://www.fastprep.io/system-design/on-prem-media-transfer-to-cloud-gpu-training) | System design | [![Practice][p]](https://www.fastprep.io/system-design/on-prem-media-transfer-to-cloud-gpu-training) | 🆕 Aug 09, 2026 |
+| **IBM** | [Maximize Consecutive XOR](https://www.fastprep.io/problems/ibm-maximize-consecutive-xor) | Coding | [![Practice][p]](https://www.fastprep.io/problems/ibm-maximize-consecutive-xor) | 🆕 Aug 09, 2026 |
+| **IBM** | [Count Digit Holes](https://www.fastprep.io/problems/ibm-count-digit-holes) | Coding | [![Practice][p]](https://www.fastprep.io/problems/ibm-count-digit-holes) | 🆕 Aug 09, 2026 |
 | **OpenAI** | [Payment Hold, Charge, and Settlement](https://www.fastprep.io/system-design/payment-hold-charge-settlement) | System design | [![Practice][p]](https://www.fastprep.io/system-design/payment-hold-charge-settlement) | 🆕 Aug 07, 2026 |
 | **Zoox** | [Design a Real-Time Fleet Location Display](https://www.fastprep.io/system-design/real-time-fleet-location-display) | System design | [![Practice][p]](https://www.fastprep.io/system-design/real-time-fleet-location-display) | 🆕 Aug 07, 2026 |
 | **Figma** | [Design Trending Design Files](https://www.fastprep.io/system-design/trending-design-files) | System design | [![Practice][p]](https://www.fastprep.io/system-design/trending-design-files) | 🆕 Aug 07, 2026 |
