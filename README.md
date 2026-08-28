@@ -124,6 +124,7 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 | :-- | :-- | :-- | :-: | :-- |
 | **Walmart** | [Minimum Stress Path](https://www.fastprep.io/problems/walmart-minimum-stress-path) | Coding | [![Practice][p]](https://www.fastprep.io/problems/walmart-minimum-stress-path) | 🔥 Aug 27, 2026 |
 | **Amazon** | [Minimum Merge Conflicts](https://www.fastprep.io/problems/amazon-minimum-merge-conflicts) | Coding | [![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-merge-conflicts) | 🔥 Aug 27, 2026 |
+| **Amazon** | [Calculate Beauty Values](https://www.fastprep.io/problems/amazon-calculate-beauty-values) | Coding | [![Practice][p]](https://www.fastprep.io/problems/amazon-calculate-beauty-values) | 🔥 Aug 27, 2026 |
 | **Maven Securities** | [Prime Factor Visitation](https://www.fastprep.io/problems/maven-securities-prime-factor-visitation) | Coding | [![Practice][p]](https://www.fastprep.io/problems/maven-securities-prime-factor-visitation) | 🔥 Aug 26, 2026 |
 | **Maven Securities** | [Resource Allocation](https://www.fastprep.io/problems/maven-securities-resource-allocation) | Coding | [![Practice][p]](https://www.fastprep.io/problems/maven-securities-resource-allocation) | 🔥 Aug 26, 2026 |
 | **TikTok** | [Event ID Check Completion Times](https://www.fastprep.io/problems/tiktok-event-id-check-completion-times) | Coding | [![Practice][p]](https://www.fastprep.io/problems/tiktok-event-id-check-completion-times) | 🔥 Aug 26, 2026 |
@@ -1533,7 +1534,6 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 | **Cisco** | [Find Words in Grid](https://www.fastprep.io/problems/cisco-find-words-in-grid) | Coding | [![Practice][p]](https://www.fastprep.io/problems/cisco-find-words-in-grid) | Aug 30, 2024 |
 | **Cisco** | [Find Last Call](https://www.fastprep.io/problems/cisco-find-last-cell) | Coding | [![Practice][p]](https://www.fastprep.io/problems/cisco-find-last-cell) | Aug 30, 2024 |
 | **Nutanix** | [Min Cost To Collect All Points](https://www.fastprep.io/problems/nutanix-min-cost-to-connect-all-points) | Coding | [![Practice][p]](https://www.fastprep.io/problems/nutanix-min-cost-to-connect-all-points) | Aug 30, 2024 |
-| **Amazon** | [Calculate Beauty Values](https://www.fastprep.io/problems/amazon-calculate-beauty-values) | Coding | [![Practice][p]](https://www.fastprep.io/problems/amazon-calculate-beauty-values) | Aug 28, 2024 |
 | **Amazon** | [Min Operations To Make Zeros](https://www.fastprep.io/problems/amazon-find-minimum-number-of-operations) | Coding | [![Practice][p]](https://www.fastprep.io/problems/amazon-find-minimum-number-of-operations) | Aug 28, 2024 |
 | **TikTok** | [Substrings Without Vowels](https://www.fastprep.io/problems/tiktok-number-of-substrings-without-vowels) | Coding | [![Practice][p]](https://www.fastprep.io/problems/tiktok-number-of-substrings-without-vowels) | Aug 28, 2024 |
 | **TikTok** | [Build URLs](https://www.fastprep.io/problems/tiktok-build-url) | Coding | [![Practice][p]](https://www.fastprep.io/problems/tiktok-build-url) | Aug 28, 2024 |
