@@ -123,6 +123,7 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
 | **Walmart** | [Minimum Stress Path](https://www.fastprep.io/problems/walmart-minimum-stress-path) | Coding | [![Practice][p]](https://www.fastprep.io/problems/walmart-minimum-stress-path) | 🔥 Aug 27, 2026 |
+| **Amazon** | [Minimum Merge Conflicts](https://www.fastprep.io/problems/amazon-minimum-merge-conflicts) | Coding | [![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-merge-conflicts) | 🔥 Aug 27, 2026 |
 | **Maven Securities** | [Prime Factor Visitation](https://www.fastprep.io/problems/maven-securities-prime-factor-visitation) | Coding | [![Practice][p]](https://www.fastprep.io/problems/maven-securities-prime-factor-visitation) | 🔥 Aug 26, 2026 |
 | **Maven Securities** | [Resource Allocation](https://www.fastprep.io/problems/maven-securities-resource-allocation) | Coding | [![Practice][p]](https://www.fastprep.io/problems/maven-securities-resource-allocation) | 🔥 Aug 26, 2026 |
 | **TikTok** | [Event ID Check Completion Times](https://www.fastprep.io/problems/tiktok-event-id-check-completion-times) | Coding | [![Practice][p]](https://www.fastprep.io/problems/tiktok-event-id-check-completion-times) | 🔥 Aug 26, 2026 |
