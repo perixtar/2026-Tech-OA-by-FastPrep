@@ -122,6 +122,7 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+| **Walmart** | [Minimum Stress Path](https://www.fastprep.io/problems/walmart-minimum-stress-path) | Coding | [![Practice][p]](https://www.fastprep.io/problems/walmart-minimum-stress-path) | 🔥 Aug 27, 2026 |
 | **Maven Securities** | [Prime Factor Visitation](https://www.fastprep.io/problems/maven-securities-prime-factor-visitation) | Coding | [![Practice][p]](https://www.fastprep.io/problems/maven-securities-prime-factor-visitation) | 🔥 Aug 26, 2026 |
 | **Maven Securities** | [Resource Allocation](https://www.fastprep.io/problems/maven-securities-resource-allocation) | Coding | [![Practice][p]](https://www.fastprep.io/problems/maven-securities-resource-allocation) | 🔥 Aug 26, 2026 |
 | **TikTok** | [Event ID Check Completion Times](https://www.fastprep.io/problems/tiktok-event-id-check-completion-times) | Coding | [![Practice][p]](https://www.fastprep.io/problems/tiktok-event-id-check-completion-times) | 🔥 Aug 26, 2026 |
@@ -517,7 +518,6 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 | **Akuna** | [Communications Handler](https://www.fastprep.io/problems/akuna-communications-handler) | Coding | [![Practice][p]](https://www.fastprep.io/problems/akuna-communications-handler) | 🆕 Jul 20, 2026 |
 | **Amazon** | [Basic Calculator](https://www.fastprep.io/problems/amazon-basic-calculator) | Coding | [![Practice][p]](https://www.fastprep.io/problems/amazon-basic-calculator) | 🆕 Jul 20, 2026 |
 | **Amazon** | [Distance Between Two Tree Nodes](https://www.fastprep.io/problems/amazon-distance-between-tree-nodes) | Coding | [![Practice][p]](https://www.fastprep.io/problems/amazon-distance-between-tree-nodes) | 🆕 Jul 20, 2026 |
-| **Walmart** | [Minimum Stress Path](https://www.fastprep.io/problems/walmart-minimum-stress-path) | Coding | [![Practice][p]](https://www.fastprep.io/problems/walmart-minimum-stress-path) | 🆕 Jul 20, 2026 |
 | **Capital One** | [Format a Newspaper Page](https://www.fastprep.io/problems/capital-one-format-newspaper-page) | Coding | [![Practice][p]](https://www.fastprep.io/problems/capital-one-format-newspaper-page) | 🆕 Jul 20, 2026 |
 | **Akuna** | [Maximum K-Star Sum](https://www.fastprep.io/problems/akuna-maximum-k-star-sum) | Coding | [![Practice][p]](https://www.fastprep.io/problems/akuna-maximum-k-star-sum) | 🆕 Jul 20, 2026 |
 | **Microsoft** | [Maximum Pipeline Throughput](https://www.fastprep.io/problems/microsoft-maximum-pipeline-throughput) | Coding | [![Practice][p]](https://www.fastprep.io/problems/microsoft-maximum-pipeline-throughput) | 🆕 Jul 20, 2026 |
