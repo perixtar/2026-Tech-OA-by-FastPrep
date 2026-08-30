@@ -113,7 +113,7 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 <sub>Newest updates first &nbsp;·&nbsp; 🔥 added in the last 2 weeks &nbsp;·&nbsp; 🆕 in the last 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (1,805)](formats/coding.md) · [SQL (2)](formats/sql.md) · [System design (237)](formats/system-design.md) · [Low-level design (47)](formats/low-level-design.md) · [AI coding (27)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (1,805)](formats/coding.md) · [SQL (3)](formats/sql.md) · [System design (237)](formats/system-design.md) · [Low-level design (47)](formats/low-level-design.md) · [AI coding (27)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 <sub>System design, low-level design/OOD, and AI coding rows sync hourly from FastPrep's public, candidate-safe catalogs. <b>Updated</b> uses the latest reported sighting when available, otherwise the first public sync date. <b>Unattributed</b> means no source-backed employer was reported.</sub>
@@ -134,7 +134,7 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 | **Capital One** | [Minimize Expression Value with Parentheses](https://www.fastprep.io/problems/capital-one-minimize-expression-value-with-parentheses) | Coding | [![Practice][p]](https://www.fastprep.io/problems/capital-one-minimize-expression-value-with-parentheses) | 🔥 Aug 29, 2026 |
 | **Capital One** | [Leftmost Memory Block Allocator](https://www.fastprep.io/problems/capital-one-leftmost-memory-block-allocator) | Coding | [![Practice][p]](https://www.fastprep.io/problems/capital-one-leftmost-memory-block-allocator) | 🔥 Aug 29, 2026 |
 | **Capital One** | [Optimal Lamp Coordinate](https://www.fastprep.io/problems/capital-one-optimal-lamp-coordinate) | Coding | [![Practice][p]](https://www.fastprep.io/problems/capital-one-optimal-lamp-coordinate) | 🔥 Aug 29, 2026 |
-| **Capital One** | [Rank Flights by Airline and Destination Frequency](https://www.fastprep.io/problems/capital-one-rank-flights-by-airline-and-destination) | Coding | [![Practice][p]](https://www.fastprep.io/problems/capital-one-rank-flights-by-airline-and-destination) | 🔥 Aug 29, 2026 |
+| **Capital One** | [Rank Flights by Airline and Destination Frequency](https://www.fastprep.io/problems/capital-one-rank-flights-by-airline-and-destination) | SQL | [![Practice][p]](https://www.fastprep.io/problems/capital-one-rank-flights-by-airline-and-destination) | 🔥 Aug 29, 2026 |
 | **Roblox** | [Event ID Check Completion Times](https://www.fastprep.io/problems/roblox-event-id-check-completion-times) | Coding | [![Practice][p]](https://www.fastprep.io/problems/roblox-event-id-check-completion-times) | 🔥 Aug 29, 2026 |
 | **Roblox** | [Count House Segments After Destruction](https://www.fastprep.io/problems/roblox-count-house-segments-after-destruction) | Coding | [![Practice][p]](https://www.fastprep.io/problems/roblox-count-house-segments-after-destruction) | 🔥 Aug 29, 2026 |
 | **Attentive / Oracle / Amperity** | [Design a Time Series Metrics Database](https://www.fastprep.io/system-design/time-series-metrics-database) | System design | [![Practice][p]](https://www.fastprep.io/system-design/time-series-metrics-database) | 🔥 Aug 29, 2026 |
