@@ -277,6 +277,39 @@ class SyncPracticeFormatsTest(unittest.TestCase):
         self.assertIn("Amazon, Meta, New Company.", updated)
         self.assertIn("… + 0 more companies in the table below ↓", updated)
 
+    def test_company_list_is_case_insensitive_comma_safe_and_idempotent(self) -> None:
+        content = "\n".join(
+            [
+                "… + 99 more companies in the table below ↓",
+                "<details>",
+                "<summary><b>🏢 Full company list (4+) — click to expand</b></summary>",
+                "<br/>",
+                "Amazon, Inc., Infosys, Nike.",
+                "</details>",
+                "",
+            ]
+        )
+        managed_rows = sync.build_managed_rows(
+            {
+                "system_design": [
+                    managed_item(
+                        "system_design",
+                        "design-shoes",
+                        "Design a Shoe Store",
+                        ["infosys", "Nike, Inc."],
+                        ["2026-07-28"],
+                    )
+                ]
+            }
+        )
+
+        updated = sync.sync_company_list(content, managed_rows)
+
+        self.assertIn("Full company list (3+)", updated)
+        self.assertIn("Amazon, Infosys, Nike&#44; Inc.", updated)
+        self.assertNotIn("infosys", updated)
+        self.assertEqual(sync.sync_company_list(updated, managed_rows), updated)
+
 
 if __name__ == "__main__":
     unittest.main()
