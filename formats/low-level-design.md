@@ -2,13 +2,14 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**48 questions**
+**49 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
 | **Uber** | [Design and Implement Ride Dispatch and Trip Lifecycle](https://www.fastprep.io/low-level-design/ride-hailing-dispatch-and-trip-lifecycle) | [![Practice][p]](https://www.fastprep.io/low-level-design/ride-hailing-dispatch-and-trip-lifecycle) | 🔥 Aug 29, 2026 |
+| **ClearTax** | [Design a Movie Ticket Booking System](https://www.fastprep.io/low-level-design/movie-ticket-booking-system) | [![Practice][p]](https://www.fastprep.io/low-level-design/movie-ticket-booking-system) | 🔥 Aug 29, 2026 |
 | **Amazon / Omnissa** | [Design an Extensible Multi-Channel Alerting Platform](https://www.fastprep.io/low-level-design/extensible-multi-channel-alerting-platform) | [![Practice][p]](https://www.fastprep.io/low-level-design/extensible-multi-channel-alerting-platform) | 🔥 Aug 28, 2026 |
 | **Oracle** | [Design and Implement an Active-Passive Key-Value Store](https://www.fastprep.io/low-level-design/active-passive-key-value-store) | [![Practice][p]](https://www.fastprep.io/low-level-design/active-passive-key-value-store) | 🔥 Aug 28, 2026 |
 | **Salesforce** | [Design an Elevator Control System](https://www.fastprep.io/low-level-design/elevator-dispatch-control-domain) | [![Practice][p]](https://www.fastprep.io/low-level-design/elevator-dispatch-control-domain) | 🔥 Aug 24, 2026 |

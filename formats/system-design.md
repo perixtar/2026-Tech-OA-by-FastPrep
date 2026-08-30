@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**241 questions**
+**242 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -12,6 +12,7 @@
 | **Google** | [Design a Massive Geospatial Data Visualization Platform](https://www.fastprep.io/system-design/massive-geospatial-data-visualization) | [![Practice][p]](https://www.fastprep.io/system-design/massive-geospatial-data-visualization) | 🔥 Aug 29, 2026 |
 | **Google** | [Design an Embeddable Streaming Chat Agent](https://www.fastprep.io/system-design/embeddable-streaming-chat-agent-interface) | [![Practice][p]](https://www.fastprep.io/system-design/embeddable-streaming-chat-agent-interface) | 🔥 Aug 29, 2026 |
 | **OpenAI** | [Power Plant Operations Platform](https://www.fastprep.io/system-design/power-plant-operations-platform) | [![Practice][p]](https://www.fastprep.io/system-design/power-plant-operations-platform) | 🔥 Aug 29, 2026 |
+| **ClearTax** | [Design a Railway Search and Booking Platform](https://www.fastprep.io/system-design/railway-search-and-booking-platform) | [![Practice][p]](https://www.fastprep.io/system-design/railway-search-and-booking-platform) | 🔥 Aug 29, 2026 |
 | **Snowflake / Amperity / Fivetran** | [Design a Unified SaaS Analytics Platform](https://www.fastprep.io/system-design/unified-saas-analytics-platform) | [![Practice][p]](https://www.fastprep.io/system-design/unified-saas-analytics-platform) | 🔥 Aug 28, 2026 |
 | **Nvidia** | [Autonomous-Driving Camera Perception Pipeline](https://www.fastprep.io/system-design/autonomous-driving-camera-perception-pipeline) | [![Practice][p]](https://www.fastprep.io/system-design/autonomous-driving-camera-perception-pipeline) | 🔥 Aug 28, 2026 |
 | **Agoda** | [Design a Flight Search and Booking Aggregator](https://www.fastprep.io/system-design/flight-search-booking-aggregation-platform) | [![Practice][p]](https://www.fastprep.io/system-design/flight-search-booking-aggregation-platform) | 🔥 Aug 28, 2026 |
