@@ -56,6 +56,7 @@ COMPANY_LIST_SUMMARY = re.compile(
     r"^<summary><b>🏢 Full company list \(\d+\+\) — click to expand</b></summary>$"
 )
 COMPANY_REMAINDER = re.compile(r"^… \+ \d+ more companies in the table below ↓$")
+COMPANY_LIST_ESCAPED_COMMA = "&#44;"
 README_MAX_BYTES = 500_000
 FIRE_DAYS = 14
 NEW_DAYS = 45
@@ -472,17 +473,36 @@ def sync_company_list(content: str, managed_rows: dict[str, ManagedCatalogRow]) 
     company_line = lines[list_index].strip()
     if not company_line.endswith("."):
         raise ValueError("full company list is malformed")
-    companies = {
-        company.strip() for company in company_line[:-1].split(",") if company.strip()
-    }
-    for row in managed_rows.values():
-        companies.update(row.companies)
+
+    companies_by_key: dict[str, str] = {}
+    for raw_company in company_line[:-1].split(","):
+        company = raw_company.strip().replace(COMPANY_LIST_ESCAPED_COMMA, ",")
+        if company:
+            companies_by_key.setdefault(company.casefold(), company)
+
+    managed_companies = [
+        company for row in managed_rows.values() for company in row.companies
+    ]
+    # Older output split names such as "Nike, Inc." into standalone list entries.
+    # Remove those generated fragments before adding the canonical catalog name.
+    for company in managed_companies:
+        if "," not in company:
+            continue
+        for fragment in company.split(","):
+            companies_by_key.pop(fragment.strip().casefold(), None)
+
+    for company in managed_companies:
+        companies_by_key.setdefault(company.casefold(), company)
+
+    companies = companies_by_key.values()
     ordered = sorted(companies, key=lambda company: (company.casefold(), company))
     lines[summary_index] = (
         f"<summary><b>🏢 Full company list ({len(ordered)}+) — "
         "click to expand</b></summary>"
     )
-    lines[list_index] = ", ".join(ordered) + "."
+    lines[list_index] = ", ".join(
+        company.replace(",", COMPANY_LIST_ESCAPED_COMMA) for company in ordered
+    ) + "."
     for index, line in enumerate(lines):
         if COMPANY_REMAINDER.match(line):
             lines[index] = (
