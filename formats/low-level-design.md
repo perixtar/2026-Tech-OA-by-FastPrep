@@ -2,12 +2,13 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**47 questions**
+**48 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+| **Uber** | [Design and Implement Ride Dispatch and Trip Lifecycle](https://www.fastprep.io/low-level-design/ride-hailing-dispatch-and-trip-lifecycle) | [![Practice][p]](https://www.fastprep.io/low-level-design/ride-hailing-dispatch-and-trip-lifecycle) | 🔥 Aug 29, 2026 |
 | **Amazon / Omnissa** | [Design an Extensible Multi-Channel Alerting Platform](https://www.fastprep.io/low-level-design/extensible-multi-channel-alerting-platform) | [![Practice][p]](https://www.fastprep.io/low-level-design/extensible-multi-channel-alerting-platform) | 🔥 Aug 28, 2026 |
 | **Oracle** | [Design and Implement an Active-Passive Key-Value Store](https://www.fastprep.io/low-level-design/active-passive-key-value-store) | [![Practice][p]](https://www.fastprep.io/low-level-design/active-passive-key-value-store) | 🔥 Aug 28, 2026 |
 | **Salesforce** | [Design an Elevator Control System](https://www.fastprep.io/low-level-design/elevator-dispatch-control-domain) | [![Practice][p]](https://www.fastprep.io/low-level-design/elevator-dispatch-control-domain) | 🔥 Aug 24, 2026 |
@@ -15,13 +16,12 @@
 | **Salesforce** | [Design a Connect Four Game](https://www.fastprep.io/low-level-design/connect-four-game-domain) | [![Practice][p]](https://www.fastprep.io/low-level-design/connect-four-game-domain) | 🔥 Aug 23, 2026 |
 | **Walmart** | [Design a Job Marketplace Domain](https://www.fastprep.io/low-level-design/job-marketplace-person-job-domain) | [![Practice][p]](https://www.fastprep.io/low-level-design/job-marketplace-person-job-domain) | 🔥 Aug 23, 2026 |
 | **Tekion** | [Design a Workflow Orchestrator Domain](https://www.fastprep.io/low-level-design/workflow-orchestration-domain) | [![Practice][p]](https://www.fastprep.io/low-level-design/workflow-orchestration-domain) | 🔥 Aug 23, 2026 |
-| **Uber** | [Design and Implement Ride Dispatch and Trip Lifecycle](https://www.fastprep.io/low-level-design/ride-hailing-dispatch-and-trip-lifecycle) | [![Practice][p]](https://www.fastprep.io/low-level-design/ride-hailing-dispatch-and-trip-lifecycle) | 🔥 Aug 22, 2026 |
 | **Netflix** | [Design a Parking Lot with Flexible Fees](https://www.fastprep.io/low-level-design/parking-lot-with-flexible-fees) | [![Practice][p]](https://www.fastprep.io/low-level-design/parking-lot-with-flexible-fees) | 🔥 Aug 21, 2026 |
 | **Uber Freight** | [Design an In-Memory File System](https://www.fastprep.io/low-level-design/in-memory-file-system) | [![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-file-system) | 🔥 Aug 21, 2026 |
 | **Micro1** | [Design an In-Memory Action Rate Limiter](https://www.fastprep.io/low-level-design/in-memory-action-rate-limiter) | [![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-action-rate-limiter) | 🔥 Aug 19, 2026 |
 | **Micro1** | [Design an In-Memory Read-Through Cache](https://www.fastprep.io/low-level-design/in-memory-read-through-cache) | [![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-read-through-cache) | 🔥 Aug 19, 2026 |
 | **Amazon** | [Design a Playlist Source Mixer](https://www.fastprep.io/low-level-design/playlist-source-mixer) | [![Practice][p]](https://www.fastprep.io/low-level-design/playlist-source-mixer) | 🔥 Aug 18, 2026 |
-| **Microsoft** | [Desktop Notification Center](https://www.fastprep.io/low-level-design/desktop-notification-center) | [![Practice][p]](https://www.fastprep.io/low-level-design/desktop-notification-center) | 🔥 Aug 15, 2026 |
+| **Microsoft** | [Desktop Notification Center](https://www.fastprep.io/low-level-design/desktop-notification-center) | [![Practice][p]](https://www.fastprep.io/low-level-design/desktop-notification-center) | 🆕 Aug 15, 2026 |
 | **Shopify** | [Design an Extensible Text Editor](https://www.fastprep.io/low-level-design/extensible-text-editor) | [![Practice][p]](https://www.fastprep.io/low-level-design/extensible-text-editor) | 🆕 Aug 12, 2026 |
 | **Amazon** | [Design a Multi-Stage Audio Buffer Pipeline](https://www.fastprep.io/low-level-design/multi-stage-audio-buffer-pipeline) | [![Practice][p]](https://www.fastprep.io/low-level-design/multi-stage-audio-buffer-pipeline) | 🆕 Aug 12, 2026 |
 | **Microsoft** | [Design a Library Circulation System](https://www.fastprep.io/low-level-design/library-circulation-management) | [![Practice][p]](https://www.fastprep.io/low-level-design/library-circulation-management) | 🆕 Aug 11, 2026 |
@@ -44,6 +44,7 @@
 | **Unattributed** | [Design and Implement a Pluggable Notification Rate Limiter](https://www.fastprep.io/low-level-design/pluggable-notification-rate-limiter) | [![Practice][p]](https://www.fastprep.io/low-level-design/pluggable-notification-rate-limiter) | 🆕 Jul 18, 2026 |
 | **Adobe** | [Design Network-Backed Search Suggestions](https://www.fastprep.io/low-level-design/adobe-network-search-suggestions) | [![Practice][p]](https://www.fastprep.io/low-level-design/adobe-network-search-suggestions) | 🆕 Jul 17, 2026 |
 | **Anduril** | [Design and Implement a Doubly Linked List](https://www.fastprep.io/low-level-design/doubly-linked-list-object-design) | [![Practice][p]](https://www.fastprep.io/low-level-design/doubly-linked-list-object-design) | May 12, 2026 |
+| **BitGo** | [Design and Implement an In-Memory Relational Database Engine](https://www.fastprep.io/low-level-design/in-memory-relational-database-engine) | [![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-relational-database-engine) | Nov 23, 2025 |
 | **SpaceX** | [Design Tagged Gift Shop Search](https://www.fastprep.io/low-level-design/gift-shop-tagged-search) | [![Practice][p]](https://www.fastprep.io/low-level-design/gift-shop-tagged-search) | Aug 22, 2025 |
 | **SpaceX** | [Warehouse Order Transit Tracking](https://www.fastprep.io/low-level-design/warehouse-order-transit-tracking) | [![Practice][p]](https://www.fastprep.io/low-level-design/warehouse-order-transit-tracking) | Aug 22, 2025 |
 | **Postman** | [Design a Threaded Comment System with User Tags](https://www.fastprep.io/low-level-design/threaded-comment-system-with-user-tags) | [![Practice][p]](https://www.fastprep.io/low-level-design/threaded-comment-system-with-user-tags) | Jun 07, 2025 |

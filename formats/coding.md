@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**1,805 questions**
+**1,807 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -22,7 +22,11 @@
 | **Capital One** | [Optimal Lamp Coordinate](https://www.fastprep.io/problems/capital-one-optimal-lamp-coordinate) | [![Practice][p]](https://www.fastprep.io/problems/capital-one-optimal-lamp-coordinate) | 🔥 Aug 29, 2026 |
 | **Roblox** | [Event ID Check Completion Times](https://www.fastprep.io/problems/roblox-event-id-check-completion-times) | [![Practice][p]](https://www.fastprep.io/problems/roblox-event-id-check-completion-times) | 🔥 Aug 29, 2026 |
 | **Roblox** | [Count House Segments After Destruction](https://www.fastprep.io/problems/roblox-count-house-segments-after-destruction) | [![Practice][p]](https://www.fastprep.io/problems/roblox-count-house-segments-after-destruction) | 🔥 Aug 29, 2026 |
+| **IBM** | [Plus Mult Array](https://www.fastprep.io/problems/ibm-plus-mult-array) | [![Practice][p]](https://www.fastprep.io/problems/ibm-plus-mult-array) | 🔥 Aug 29, 2026 |
+| **IBM** | [Get Maximum Amount](https://www.fastprep.io/problems/ibm-get-maximum-amount) | [![Practice][p]](https://www.fastprep.io/problems/ibm-get-maximum-amount) | 🔥 Aug 29, 2026 |
 | **Amazon** | [Minimum Grid Inconvenience](https://www.fastprep.io/problems/amazon-minimum-grid-inconvenience) | [![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-grid-inconvenience) | 🔥 Aug 28, 2026 |
+| **Goldman Sachs** | [Maximize Element Frequency](https://www.fastprep.io/problems/goldman-sachs-maximize-element-frequency) | [![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-maximize-element-frequency) | 🔥 Aug 28, 2026 |
+| **Goldman Sachs** | [Notification Deduplication Window](https://www.fastprep.io/problems/goldman-sachs-notification-deduplication) | [![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-notification-deduplication) | 🔥 Aug 28, 2026 |
 | **Walmart** | [Minimum Stress Path](https://www.fastprep.io/problems/walmart-minimum-stress-path) | [![Practice][p]](https://www.fastprep.io/problems/walmart-minimum-stress-path) | 🔥 Aug 27, 2026 |
 | **Amazon** | [Minimum Merge Conflicts](https://www.fastprep.io/problems/amazon-minimum-merge-conflicts) | [![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-merge-conflicts) | 🔥 Aug 27, 2026 |
 | **Amazon** | [Calculate Beauty Values](https://www.fastprep.io/problems/amazon-calculate-beauty-values) | [![Practice][p]](https://www.fastprep.io/problems/amazon-calculate-beauty-values) | 🔥 Aug 27, 2026 |
@@ -42,8 +46,6 @@
 | **ByteDance** | [Find Sum Pairs (for mle also :)](https://www.fastprep.io/problems/bytedance-find-sum-pairs) | [![Practice][p]](https://www.fastprep.io/problems/bytedance-find-sum-pairs) | 🔥 Aug 25, 2026 |
 | **TikTok** | [Sort Matrix Borders](https://www.fastprep.io/problems/tiktok-sort-matrix-borders) | [![Practice][p]](https://www.fastprep.io/problems/tiktok-sort-matrix-borders) | 🔥 Aug 25, 2026 |
 | **TikTok** | [Count Even-Digit Numbers](https://www.fastprep.io/problems/tiktok-count-even-digit-numbers) | [![Practice][p]](https://www.fastprep.io/problems/tiktok-count-even-digit-numbers) | 🔥 Aug 25, 2026 |
-| **IBM** | [Plus Mult Array](https://www.fastprep.io/problems/ibm-plus-mult-array) | [![Practice][p]](https://www.fastprep.io/problems/ibm-plus-mult-array) | 🔥 Aug 25, 2026 |
-| **IBM** | [Get Maximum Amount](https://www.fastprep.io/problems/ibm-get-maximum-amount) | [![Practice][p]](https://www.fastprep.io/problems/ibm-get-maximum-amount) | 🔥 Aug 25, 2026 |
 | **IBM** | [Expiring Authentication Token Manager](https://www.fastprep.io/problems/ibm-expiring-authentication-token-manager) | [![Practice][p]](https://www.fastprep.io/problems/ibm-expiring-authentication-token-manager) | 🔥 Aug 24, 2026 |
 | **Goldman Sachs** | [Maximum Ones After K Operations](https://www.fastprep.io/problems/goldman-sachs-maximum-ones-after-k-operations) | [![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-maximum-ones-after-k-operations) | 🔥 Aug 24, 2026 |
 | **Microsoft** | [Maximum Products by Budget](https://www.fastprep.io/problems/1.microsoft-maximum-products-by-budget) | [![Practice][p]](https://www.fastprep.io/problems/1.microsoft-maximum-products-by-budget) | 🔥 Aug 24, 2026 |
@@ -289,17 +291,17 @@
 | **Microsoft** | [Alphabetically Smallest Palindrome](https://www.fastprep.io/problems/microsoft-alphabetically-smallest-palindrome) | [![Practice][p]](https://www.fastprep.io/problems/microsoft-alphabetically-smallest-palindrome) | 🆕 Jul 16, 2026 |
 | **Microsoft** | [Maximum Reward Points](https://www.fastprep.io/problems/microsoft-get-maximum-reward-points) | [![Practice][p]](https://www.fastprep.io/problems/microsoft-get-maximum-reward-points) | 🆕 Jul 16, 2026 |
 | **Zomato / Eternal** | [Robot Warehouse Optimization](https://www.fastprep.io/problems/zomato-robot-warehouse-optimization) | [![Practice][p]](https://www.fastprep.io/problems/zomato-robot-warehouse-optimization) | 🆕 Jul 16, 2026 |
-| **Google** | [Count Good Numbers](https://www.fastprep.io/problems/google-count-good-numbers) | [![Practice][p]](https://www.fastprep.io/problems/google-count-good-numbers) | 🆕 Jul 15, 2026 |
-| **Google** | [Count Element Symbol Decompositions](https://www.fastprep.io/problems/google-count-element-symbol-decompositions) | [![Practice][p]](https://www.fastprep.io/problems/google-count-element-symbol-decompositions) | 🆕 Jul 15, 2026 |
-| **Google** | [Convert Snake Case to Camel Case](https://www.fastprep.io/problems/google-convert-snake-case-to-camel-case) | [![Practice][p]](https://www.fastprep.io/problems/google-convert-snake-case-to-camel-case) | 🆕 Jul 15, 2026 |
-| **Uber** | [Last Truck to Leave the Lane](https://www.fastprep.io/problems/uber-last-truck-to-leave-the-lane) | [![Practice][p]](https://www.fastprep.io/problems/uber-last-truck-to-leave-the-lane) | 🆕 Jul 15, 2026 |
-| **Akuna** | [Minimum Swaps](https://www.fastprep.io/problems/akuna-minimum-swaps) | [![Practice][p]](https://www.fastprep.io/problems/akuna-minimum-swaps) | 🆕 Jul 15, 2026 |
-| **Citadel** | [Minimum Changes for a Periodic Palindrome](https://www.fastprep.io/problems/citadel-minimum-changes-periodic-palindrome) | [![Practice][p]](https://www.fastprep.io/problems/citadel-minimum-changes-periodic-palindrome) | 🆕 Jul 15, 2026 |
-| **Citadel** | [Minimum Image Processing Cost](https://www.fastprep.io/problems/citadel-minimum-image-processing-cost) | [![Practice][p]](https://www.fastprep.io/problems/citadel-minimum-image-processing-cost) | 🆕 Jul 15, 2026 |
-| **IBM** | [Count Strictly Increasing Subsequences of Length 3](https://www.fastprep.io/problems/ibm-count-increasing-subsequences-length-three) | [![Practice][p]](https://www.fastprep.io/problems/ibm-count-increasing-subsequences-length-three) | 🆕 Jul 15, 2026 |
-| **Goldman Sachs** | [Alternating Parity Permutations](https://www.fastprep.io/problems/goldman-sachs-alternating-parity-permutations) | [![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-alternating-parity-permutations) | 🆕 Jul 15, 2026 |
-| **Arcesium** | [Ordered Payload Release](https://www.fastprep.io/problems/arcesium-ordered-payload-release) | [![Practice][p]](https://www.fastprep.io/problems/arcesium-ordered-payload-release) | 🆕 Jul 15, 2026 |
-| **ByteDance** | [Most Frequent Integer with Smaller Tie-Break](https://www.fastprep.io/problems/bytedance-most-frequent-integer-smaller-tie) | [![Practice][p]](https://www.fastprep.io/problems/bytedance-most-frequent-integer-smaller-tie) | 🆕 Jul 15, 2026 |
+| **Google** | [Count Good Numbers](https://www.fastprep.io/problems/google-count-good-numbers) | [![Practice][p]](https://www.fastprep.io/problems/google-count-good-numbers) | Jul 15, 2026 |
+| **Google** | [Count Element Symbol Decompositions](https://www.fastprep.io/problems/google-count-element-symbol-decompositions) | [![Practice][p]](https://www.fastprep.io/problems/google-count-element-symbol-decompositions) | Jul 15, 2026 |
+| **Google** | [Convert Snake Case to Camel Case](https://www.fastprep.io/problems/google-convert-snake-case-to-camel-case) | [![Practice][p]](https://www.fastprep.io/problems/google-convert-snake-case-to-camel-case) | Jul 15, 2026 |
+| **Uber** | [Last Truck to Leave the Lane](https://www.fastprep.io/problems/uber-last-truck-to-leave-the-lane) | [![Practice][p]](https://www.fastprep.io/problems/uber-last-truck-to-leave-the-lane) | Jul 15, 2026 |
+| **Akuna** | [Minimum Swaps](https://www.fastprep.io/problems/akuna-minimum-swaps) | [![Practice][p]](https://www.fastprep.io/problems/akuna-minimum-swaps) | Jul 15, 2026 |
+| **Citadel** | [Minimum Changes for a Periodic Palindrome](https://www.fastprep.io/problems/citadel-minimum-changes-periodic-palindrome) | [![Practice][p]](https://www.fastprep.io/problems/citadel-minimum-changes-periodic-palindrome) | Jul 15, 2026 |
+| **Citadel** | [Minimum Image Processing Cost](https://www.fastprep.io/problems/citadel-minimum-image-processing-cost) | [![Practice][p]](https://www.fastprep.io/problems/citadel-minimum-image-processing-cost) | Jul 15, 2026 |
+| **IBM** | [Count Strictly Increasing Subsequences of Length 3](https://www.fastprep.io/problems/ibm-count-increasing-subsequences-length-three) | [![Practice][p]](https://www.fastprep.io/problems/ibm-count-increasing-subsequences-length-three) | Jul 15, 2026 |
+| **Goldman Sachs** | [Alternating Parity Permutations](https://www.fastprep.io/problems/goldman-sachs-alternating-parity-permutations) | [![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-alternating-parity-permutations) | Jul 15, 2026 |
+| **Arcesium** | [Ordered Payload Release](https://www.fastprep.io/problems/arcesium-ordered-payload-release) | [![Practice][p]](https://www.fastprep.io/problems/arcesium-ordered-payload-release) | Jul 15, 2026 |
+| **ByteDance** | [Most Frequent Integer with Smaller Tie-Break](https://www.fastprep.io/problems/bytedance-most-frequent-integer-smaller-tie) | [![Practice][p]](https://www.fastprep.io/problems/bytedance-most-frequent-integer-smaller-tie) | Jul 15, 2026 |
 | **Uber** | [Chain of Command](https://www.fastprep.io/problems/uber-chain-of-command) | [![Practice][p]](https://www.fastprep.io/problems/uber-chain-of-command) | Jul 14, 2026 |
 | **New Relic** | [Product of Array Except Self](https://www.fastprep.io/problems/new-relic-product-of-array-except-self) | [![Practice][p]](https://www.fastprep.io/problems/new-relic-product-of-array-except-self) | Jul 13, 2026 |
 | **OpenAI** | [CIDR IPv4 Range Iterator](https://www.fastprep.io/problems/openai-cidr-ipv4-iterator) | [![Practice][p]](https://www.fastprep.io/problems/openai-cidr-ipv4-iterator) | Jul 12, 2026 |
