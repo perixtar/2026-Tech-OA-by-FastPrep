@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**1,807 questions**
+**1,808 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -461,6 +461,8 @@
 | **IBM** | [Maximum Requests in a Time Window](https://www.fastprep.io/problems/ibm-maximum-requests-window) | [![Practice][p]](https://www.fastprep.io/problems/ibm-maximum-requests-window) | Jul 03, 2026 |
 | **IBM** | [Minimum Number of Non-Empty Disjoint Segments](https://www.fastprep.io/problems/ibm-minimum-disjoint-segments) | [![Practice][p]](https://www.fastprep.io/problems/ibm-minimum-disjoint-segments) | Jul 03, 2026 |
 | **Unknown Company** | [String Challenge: Run-Length Encoding](https://www.fastprep.io/problems/coderbyte-string-challenge-run-length-encoding) | [![Practice][p]](https://www.fastprep.io/problems/coderbyte-string-challenge-run-length-encoding) | Jul 03, 2026 |
+| **Point72** | [Get Triplet Count](https://www.fastprep.io/problems/point72-get-triplet-count) | [![Practice][p]](https://www.fastprep.io/problems/point72-get-triplet-count) | Jul 02, 2026 |
+| **Point72** | [Server Selection](https://www.fastprep.io/problems/point72-server-selection) | [![Practice][p]](https://www.fastprep.io/problems/point72-server-selection) | Jul 02, 2026 |
 | **Amazon** | [Feasible Indices After Prefix/Suffix Reduction](https://www.fastprep.io/problems/amazon-feasible-indices-after-prefix-suffix-reduction) | [![Practice][p]](https://www.fastprep.io/problems/amazon-feasible-indices-after-prefix-suffix-reduction) | Jun 30, 2026 |
 | **Amazon** | [Secure Maximum Deliveries](https://www.fastprep.io/problems/amazon-secure-maximum-deliveries) | [![Practice][p]](https://www.fastprep.io/problems/amazon-secure-maximum-deliveries) | Jun 30, 2026 |
 | **Snowflake** | [Simple Array Rotation Game](https://www.fastprep.io/problems/snowflake-simple-array-rotation-game) | [![Practice][p]](https://www.fastprep.io/problems/snowflake-simple-array-rotation-game) | Jun 30, 2026 |
@@ -820,7 +822,6 @@
 | **Amazon** | [Next Perfect String](https://www.fastprep.io/problems/amazon-next-greater-perfect-string) | [![Practice][p]](https://www.fastprep.io/problems/amazon-next-greater-perfect-string) | Apr 13, 2025 |
 | **DTCC** | [Find Reciprocal](https://www.fastprep.io/problems/dtcc-find-reciprocal) | [![Practice][p]](https://www.fastprep.io/problems/dtcc-find-reciprocal) | Apr 13, 2025 |
 | **Amazon** | [Remove Characters in Frequency Order](https://www.fastprep.io/problems/amazon-remove-characters-in-frequency-order) | [![Practice][p]](https://www.fastprep.io/problems/amazon-remove-characters-in-frequency-order) | Apr 10, 2025 |
-| **Point72** | [Get Triplet Count](https://www.fastprep.io/problems/point72-get-triplet-count) | [![Practice][p]](https://www.fastprep.io/problems/point72-get-triplet-count) | Apr 10, 2025 |
 | **Microsoft** | [Min Cars to Remove](https://www.fastprep.io/problems/microsoft-minimum-cars-to-remove) | [![Practice][p]](https://www.fastprep.io/problems/microsoft-minimum-cars-to-remove) | Apr 10, 2025 |
 | **Amazon** | [Count Failed Executions](https://www.fastprep.io/problems/amazon-count-failed-executions) | [![Practice][p]](https://www.fastprep.io/problems/amazon-count-failed-executions) | Apr 08, 2025 |
 | **Amazon** | [Optimal Utilization](https://www.fastprep.io/problems/amazon-optimal-utilization) | [![Practice][p]](https://www.fastprep.io/problems/amazon-optimal-utilization) | Apr 05, 2025 |
