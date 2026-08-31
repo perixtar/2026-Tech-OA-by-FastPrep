@@ -113,7 +113,7 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 <sub>Newest updates first &nbsp;·&nbsp; 🔥 added in the last 2 weeks &nbsp;·&nbsp; 🆕 in the last 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (1,807)](formats/coding.md) · [SQL (3)](formats/sql.md) · [System design (257)](formats/system-design.md) · [Low-level design (53)](formats/low-level-design.md) · [AI coding (28)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (1,809)](formats/coding.md) · [SQL (3)](formats/sql.md) · [System design (257)](formats/system-design.md) · [Low-level design (53)](formats/low-level-design.md) · [AI coding (28)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 <sub>System design, low-level design/OOD, and AI coding rows sync hourly from FastPrep's public, candidate-safe catalogs. <b>Updated</b> uses the latest reported sighting when available, otherwise the first public sync date. <b>Unattributed</b> means no source-backed employer was reported.</sub>
@@ -135,6 +135,8 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 | **OpenAI** | [Design a Cloud Coding Workspace](https://www.fastprep.io/system-design/cloud-coding-workspace) | System design | [![Practice][p]](https://www.fastprep.io/system-design/cloud-coding-workspace) | 🔥 Aug 31, 2026 |
 | **Mercor** | [Design a Project-to-Contractor Matching Platform](https://www.fastprep.io/system-design/project-contractor-matching-platform) | System design | [![Practice][p]](https://www.fastprep.io/system-design/project-contractor-matching-platform) | 🔥 Aug 31, 2026 |
 | **OpenAI** | [Design a Multi-Channel Bot Notification Service](https://www.fastprep.io/low-level-design/multi-channel-bot-notification-service) | Low-level design | [![Practice][p]](https://www.fastprep.io/low-level-design/multi-channel-bot-notification-service) | 🔥 Aug 31, 2026 |
+| **Visa** | [Collect Branches for a Bird Nest](https://www.fastprep.io/problems/visa-collect-branches-for-nest) | Coding | [![Practice][p]](https://www.fastprep.io/problems/visa-collect-branches-for-nest) | 🔥 Aug 31, 2026 |
+| **Visa** | [Count Reverse-Digit Pairs](https://www.fastprep.io/problems/visa-count-reverse-digit-pairs) | Coding | [![Practice][p]](https://www.fastprep.io/problems/visa-count-reverse-digit-pairs) | 🔥 Aug 31, 2026 |
 | **Hadrian** | [Design a Live Relational Database Migration](https://www.fastprep.io/system-design/live-relational-database-migration) | System design | [![Practice][p]](https://www.fastprep.io/system-design/live-relational-database-migration) | 🔥 Aug 30, 2026 |
 | **Anthropic** | [Design a Gang-Scheduled GPU Inference Pool](https://www.fastprep.io/system-design/gang-scheduled-gpu-inference-pool) | System design | [![Practice][p]](https://www.fastprep.io/system-design/gang-scheduled-gpu-inference-pool) | 🔥 Aug 30, 2026 |
 | **Stripe** | [Design an Idempotent Ledger Service](https://www.fastprep.io/system-design/idempotent-ledger-service) | System design | [![Practice][p]](https://www.fastprep.io/system-design/idempotent-ledger-service) | 🔥 Aug 30, 2026 |
