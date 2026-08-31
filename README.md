@@ -113,7 +113,7 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 <sub>Newest updates first &nbsp;·&nbsp; 🔥 added in the last 2 weeks &nbsp;·&nbsp; 🆕 in the last 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (1,807)](formats/coding.md) · [SQL (3)](formats/sql.md) · [System design (250)](formats/system-design.md) · [Low-level design (51)](formats/low-level-design.md) · [AI coding (28)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (1,810)](formats/coding.md) · [SQL (3)](formats/sql.md) · [System design (250)](formats/system-design.md) · [Low-level design (51)](formats/low-level-design.md) · [AI coding (28)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 <sub>System design, low-level design/OOD, and AI coding rows sync hourly from FastPrep's public, candidate-safe catalogs. <b>Updated</b> uses the latest reported sighting when available, otherwise the first public sync date. <b>Unattributed</b> means no source-backed employer was reported.</sub>
@@ -122,6 +122,9 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+| **Rippling** | [Server Management](https://www.fastprep.io/problems/rippling-server-management) | Coding | [![Practice][p]](https://www.fastprep.io/problems/rippling-server-management) | 🔥 Aug 31, 2026 |
+| **Rippling** | [Costliest Chocolate](https://www.fastprep.io/problems/rippling-costliest-chocolate) | Coding | [![Practice][p]](https://www.fastprep.io/problems/rippling-costliest-chocolate) | 🔥 Aug 31, 2026 |
+| **Rippling** | [Consistent Logs](https://www.fastprep.io/problems/rippling-consistent-logs) | Coding | [![Practice][p]](https://www.fastprep.io/problems/rippling-consistent-logs) | 🔥 Aug 31, 2026 |
 | **Anthropic** | [Design a Gang-Scheduled GPU Inference Pool](https://www.fastprep.io/system-design/gang-scheduled-gpu-inference-pool) | System design | [![Practice][p]](https://www.fastprep.io/system-design/gang-scheduled-gpu-inference-pool) | 🔥 Aug 30, 2026 |
 | **Stripe** | [Design an Idempotent Ledger Service](https://www.fastprep.io/system-design/idempotent-ledger-service) | System design | [![Practice][p]](https://www.fastprep.io/system-design/idempotent-ledger-service) | 🔥 Aug 30, 2026 |
 | **OpenAI** | [Design a Device Demand-Response Control System](https://www.fastprep.io/system-design/device-demand-response-control-system) | System design | [![Practice][p]](https://www.fastprep.io/system-design/device-demand-response-control-system) | 🔥 Aug 30, 2026 |
