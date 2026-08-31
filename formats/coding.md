@@ -24,6 +24,7 @@
 | **Roblox** | [Count House Segments After Destruction](https://www.fastprep.io/problems/roblox-count-house-segments-after-destruction) | [![Practice][p]](https://www.fastprep.io/problems/roblox-count-house-segments-after-destruction) | 🔥 Aug 29, 2026 |
 | **IBM** | [Plus Mult Array](https://www.fastprep.io/problems/ibm-plus-mult-array) | [![Practice][p]](https://www.fastprep.io/problems/ibm-plus-mult-array) | 🔥 Aug 29, 2026 |
 | **IBM** | [Get Maximum Amount](https://www.fastprep.io/problems/ibm-get-maximum-amount) | [![Practice][p]](https://www.fastprep.io/problems/ibm-get-maximum-amount) | 🔥 Aug 29, 2026 |
+| **Goldman Sachs** | [Palindrome Counter](https://www.fastprep.io/problems/count-palindromes) | [![Practice][p]](https://www.fastprep.io/problems/count-palindromes) | 🔥 Aug 29, 2026 |
 | **Amazon** | [Minimum Grid Inconvenience](https://www.fastprep.io/problems/amazon-minimum-grid-inconvenience) | [![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-grid-inconvenience) | 🔥 Aug 28, 2026 |
 | **Goldman Sachs** | [Maximize Element Frequency](https://www.fastprep.io/problems/goldman-sachs-maximize-element-frequency) | [![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-maximize-element-frequency) | 🔥 Aug 28, 2026 |
 | **Goldman Sachs** | [Notification Deduplication Window](https://www.fastprep.io/problems/goldman-sachs-notification-deduplication) | [![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-notification-deduplication) | 🔥 Aug 28, 2026 |
@@ -1744,7 +1745,6 @@
 | **Goldman Sachs** | [Compare Strings](https://www.fastprep.io/problems/compare-strings) | [![Practice][p]](https://www.fastprep.io/problems/compare-strings) | Jan 09, 2024 |
 | **Goldman Sachs** | [Plus Mult Array](https://www.fastprep.io/problems/plus-mult-array) | [![Practice][p]](https://www.fastprep.io/problems/plus-mult-array) | Jan 09, 2024 |
 | **Goldman Sachs** | [Better Compression](https://www.fastprep.io/problems/better-compression) | [![Practice][p]](https://www.fastprep.io/problems/better-compression) | Jan 09, 2024 |
-| **Goldman Sachs** | [Count Palindromes](https://www.fastprep.io/problems/count-palindromes) | [![Practice][p]](https://www.fastprep.io/problems/count-palindromes) | Jan 09, 2024 |
 | **Goldman Sachs** | [Encircular](https://www.fastprep.io/problems/encircular) | [![Practice][p]](https://www.fastprep.io/problems/encircular) | Jan 09, 2024 |
 | **Goldman Sachs** | [Project Estimates](https://www.fastprep.io/problems/project-estimates) | [![Practice][p]](https://www.fastprep.io/problems/project-estimates) | Jan 09, 2024 |
 | **Goldman Sachs** | [Cutting Metal Surplux](https://www.fastprep.io/problems/cutting-metal-surplus) | [![Practice][p]](https://www.fastprep.io/problems/cutting-metal-surplus) | Jan 09, 2024 |
