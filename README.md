@@ -113,7 +113,7 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 <sub>Newest updates first &nbsp;·&nbsp; 🔥 added in the last 2 weeks &nbsp;·&nbsp; 🆕 in the last 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (1,807)](formats/coding.md) · [SQL (3)](formats/sql.md) · [System design (250)](formats/system-design.md) · [Low-level design (51)](formats/low-level-design.md) · [AI coding (27)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (1,807)](formats/coding.md) · [SQL (3)](formats/sql.md) · [System design (250)](formats/system-design.md) · [Low-level design (51)](formats/low-level-design.md) · [AI coding (28)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 <sub>System design, low-level design/OOD, and AI coding rows sync hourly from FastPrep's public, candidate-safe catalogs. <b>Updated</b> uses the latest reported sighting when available, otherwise the first public sync date. <b>Unattributed</b> means no source-backed employer was reported.</sub>
@@ -206,6 +206,7 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 | **Waymo** | [Design an Autonomous-Vehicle Cloud Command System](https://www.fastprep.io/system-design/autonomous-vehicle-cloud-command-system) | System design | [![Practice][p]](https://www.fastprep.io/system-design/autonomous-vehicle-cloud-command-system) | 🔥 Aug 25, 2026 |
 | **Harvey** | [Design Human-Governed File Review Agents](https://www.fastprep.io/system-design/human-governed-file-review-agents) | System design | [![Practice][p]](https://www.fastprep.io/system-design/human-governed-file-review-agents) | 🔥 Aug 25, 2026 |
 | **JPMorgan Chase / Google** | [Internal AI Assistant for Employees](https://www.fastprep.io/system-design/internal-ai-assistant-for-employees) | System design | [![Practice][p]](https://www.fastprep.io/system-design/internal-ai-assistant-for-employees) | 🔥 Aug 25, 2026 |
+| **Goldman Sachs** | [Repair Event Pre-Save Validation](https://www.fastprep.io/project-coding/goldman-sachs-event-presave-validation) | AI coding | [![Practice][p]](https://www.fastprep.io/project-coding/goldman-sachs-event-presave-validation) | 🔥 Aug 25, 2026 |
 | **IBM** | [Expiring Authentication Token Manager](https://www.fastprep.io/problems/ibm-expiring-authentication-token-manager) | Coding | [![Practice][p]](https://www.fastprep.io/problems/ibm-expiring-authentication-token-manager) | 🔥 Aug 24, 2026 |
 | **Goldman Sachs** | [Maximum Ones After K Operations](https://www.fastprep.io/problems/goldman-sachs-maximum-ones-after-k-operations) | Coding | [![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-maximum-ones-after-k-operations) | 🔥 Aug 24, 2026 |
 | **Microsoft** | [Maximum Products by Budget](https://www.fastprep.io/problems/1.microsoft-maximum-products-by-budget) | Coding | [![Practice][p]](https://www.fastprep.io/problems/1.microsoft-maximum-products-by-budget) | 🔥 Aug 24, 2026 |
