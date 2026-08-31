@@ -2,12 +2,16 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**1,807 questions**
+**1,811 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+| **Matroid** | [Count Good Tuples](https://www.fastprep.io/problems/matroid-count-good-tuples) | [![Practice][p]](https://www.fastprep.io/problems/matroid-count-good-tuples) | 🔥 Aug 30, 2026 |
+| **Matroid** | [Validate 3x3 Digit Windows](https://www.fastprep.io/problems/matroid-validate-3x3-digit-windows) | [![Practice][p]](https://www.fastprep.io/problems/matroid-validate-3x3-digit-windows) | 🔥 Aug 30, 2026 |
+| **Matroid** | [Diagonal Robot Path Sum](https://www.fastprep.io/problems/matroid-diagonal-robot-path-sum) | [![Practice][p]](https://www.fastprep.io/problems/matroid-diagonal-robot-path-sum) | 🔥 Aug 30, 2026 |
+| **Matroid** | [Count House Segments After Destruction](https://www.fastprep.io/problems/matroid-count-house-segments-after-destruction) | [![Practice][p]](https://www.fastprep.io/problems/matroid-count-house-segments-after-destruction) | 🔥 Aug 30, 2026 |
 | **DRW** | [Largest Number With Even Digit Frequencies](https://www.fastprep.io/problems/drw-largest-number-even-digit-frequencies) | [![Practice][p]](https://www.fastprep.io/problems/drw-largest-number-even-digit-frequencies) | 🔥 Aug 29, 2026 |
 | **DRW** | [Count Balanced Nodes in a Rooted Tree](https://www.fastprep.io/problems/drw-count-balanced-tree-nodes) | [![Practice][p]](https://www.fastprep.io/problems/drw-count-balanced-tree-nodes) | 🔥 Aug 29, 2026 |
 | **DRW** | [Shortest Path Around Rectangular Obstacles](https://www.fastprep.io/problems/drw-shortest-path-rectangular-obstacles) | [![Practice][p]](https://www.fastprep.io/problems/drw-shortest-path-rectangular-obstacles) | 🔥 Aug 29, 2026 |
