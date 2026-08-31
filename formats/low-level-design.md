@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**49 questions**
+**51 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -45,6 +45,8 @@
 | **Unattributed** | [Design and Implement a Pluggable Notification Rate Limiter](https://www.fastprep.io/low-level-design/pluggable-notification-rate-limiter) | [![Practice][p]](https://www.fastprep.io/low-level-design/pluggable-notification-rate-limiter) | 🆕 Jul 18, 2026 |
 | **Adobe** | [Design Network-Backed Search Suggestions](https://www.fastprep.io/low-level-design/adobe-network-search-suggestions) | [![Practice][p]](https://www.fastprep.io/low-level-design/adobe-network-search-suggestions) | 🆕 Jul 17, 2026 |
 | **Anduril** | [Design and Implement a Doubly Linked List](https://www.fastprep.io/low-level-design/doubly-linked-list-object-design) | [![Practice][p]](https://www.fastprep.io/low-level-design/doubly-linked-list-object-design) | May 12, 2026 |
+| **Razorpay** | [Design and Implement an ATM Machine](https://www.fastprep.io/low-level-design/atm-machine-domain) | [![Practice][p]](https://www.fastprep.io/low-level-design/atm-machine-domain) | Feb 02, 2026 |
+| **Workday** | [Design a Payments and Cards Domain](https://www.fastprep.io/low-level-design/payments-and-cards-domain) | [![Practice][p]](https://www.fastprep.io/low-level-design/payments-and-cards-domain) | Dec 18, 2025 |
 | **BitGo** | [Design and Implement an In-Memory Relational Database Engine](https://www.fastprep.io/low-level-design/in-memory-relational-database-engine) | [![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-relational-database-engine) | Nov 23, 2025 |
 | **SpaceX** | [Design Tagged Gift Shop Search](https://www.fastprep.io/low-level-design/gift-shop-tagged-search) | [![Practice][p]](https://www.fastprep.io/low-level-design/gift-shop-tagged-search) | Aug 22, 2025 |
 | **SpaceX** | [Warehouse Order Transit Tracking](https://www.fastprep.io/low-level-design/warehouse-order-transit-tracking) | [![Practice][p]](https://www.fastprep.io/low-level-design/warehouse-order-transit-tracking) | Aug 22, 2025 |
