@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**1,807 questions**
+**1,812 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -100,6 +100,8 @@
 | **Nuro** | [Reveal a Minesweeper Region](https://www.fastprep.io/problems/nuro-reveal-minesweeper-region) | [![Practice][p]](https://www.fastprep.io/problems/nuro-reveal-minesweeper-region) | 🔥 Aug 20, 2026 |
 | **IBM** | [Count Invalid Log Groups](https://www.fastprep.io/problems/ibm-count-invalid-log-groups) | [![Practice][p]](https://www.fastprep.io/problems/ibm-count-invalid-log-groups) | 🔥 Aug 18, 2026 |
 | **IBM** | [Count Paginated Medical Records in a Range](https://www.fastprep.io/problems/ibm-count-paginated-medical-records-in-range) | [![Practice][p]](https://www.fastprep.io/problems/ibm-count-paginated-medical-records-in-range) | 🔥 Aug 18, 2026 |
+| **IMC** | [Rock Jumping](https://www.fastprep.io/problems/imc-rock-jumping) | [![Practice][p]](https://www.fastprep.io/problems/imc-rock-jumping) | 🆕 Aug 13, 2026 |
+| **IMC** | [Stack Batch Removal](https://www.fastprep.io/problems/imc-stack-batch-removal) | [![Practice][p]](https://www.fastprep.io/problems/imc-stack-batch-removal) | 🆕 Aug 13, 2026 |
 | **IBM** | [Maximize Consecutive XOR](https://www.fastprep.io/problems/ibm-maximize-consecutive-xor) | [![Practice][p]](https://www.fastprep.io/problems/ibm-maximize-consecutive-xor) | 🆕 Aug 09, 2026 |
 | **IBM** | [Count Digit Holes](https://www.fastprep.io/problems/ibm-count-digit-holes) | [![Practice][p]](https://www.fastprep.io/problems/ibm-count-digit-holes) | 🆕 Aug 09, 2026 |
 | **TikTok** | [Distribution Center Package Allocation](https://www.fastprep.io/problems/tiktok-distribution-center-package-allocation) | [![Practice][p]](https://www.fastprep.io/problems/tiktok-distribution-center-package-allocation) | 🆕 Aug 05, 2026 |
@@ -246,8 +248,6 @@
 | **Visa** | [Signal Pings](https://www.fastprep.io/problems/visa-signal-pings) | [![Practice][p]](https://www.fastprep.io/problems/visa-signal-pings) | 🆕 Jul 23, 2026 |
 | **Visa** | [Sum of Index-Ordered Pair Differences](https://www.fastprep.io/problems/visa-sum-of-index-pair-differences) | [![Practice][p]](https://www.fastprep.io/problems/visa-sum-of-index-pair-differences) | 🆕 Jul 23, 2026 |
 | **Bloomberg** | [Word Break II](https://www.fastprep.io/problems/bloomberg-word-break-ii) | [![Practice][p]](https://www.fastprep.io/problems/bloomberg-word-break-ii) | 🆕 Jul 22, 2026 |
-| **IMC** | [Rock Jumping](https://www.fastprep.io/problems/imc-rock-jumping) | [![Practice][p]](https://www.fastprep.io/problems/imc-rock-jumping) | 🆕 Jul 22, 2026 |
-| **IMC** | [Stack Batch Removal](https://www.fastprep.io/problems/imc-stack-batch-removal) | [![Practice][p]](https://www.fastprep.io/problems/imc-stack-batch-removal) | 🆕 Jul 22, 2026 |
 | **Microsoft** | [Binary String Swap Time](https://www.fastprep.io/problems/microsoft-binary-string-swap-time) | [![Practice][p]](https://www.fastprep.io/problems/microsoft-binary-string-swap-time) | 🆕 Jul 22, 2026 |
 | **Microsoft** | [Minimum Effort Task Schedule](https://www.fastprep.io/problems/microsoft-minimum-effort-task-schedule) | [![Practice][p]](https://www.fastprep.io/problems/microsoft-minimum-effort-task-schedule) | 🆕 Jul 22, 2026 |
 | **Tekion** | [Longest Balanced Substring After One Swap](https://www.fastprep.io/problems/tekion-longest-balanced-substring-after-one-swap) | [![Practice][p]](https://www.fastprep.io/problems/tekion-longest-balanced-substring-after-one-swap) | 🆕 Jul 22, 2026 |
@@ -286,8 +286,8 @@
 | **Visa** | [Minimum Score of a Path Between Cities](https://www.fastprep.io/problems/visa-minimum-score-path-between-cities) | [![Practice][p]](https://www.fastprep.io/problems/visa-minimum-score-path-between-cities) | 🆕 Jul 18, 2026 |
 | **IDFC** | [Smallest Adjacent Concatenation](https://www.fastprep.io/problems/idfc-smallest-adjacent-concatenation) | [![Practice][p]](https://www.fastprep.io/problems/idfc-smallest-adjacent-concatenation) | 🆕 Jul 18, 2026 |
 | **IDFC** | [Minimum Cake Cuts](https://www.fastprep.io/problems/idfc-minimum-cake-cuts) | [![Practice][p]](https://www.fastprep.io/problems/idfc-minimum-cake-cuts) | 🆕 Jul 18, 2026 |
-| **Goldman Sachs** | [Inherited Role Permissions](https://www.fastprep.io/problems/goldman-sachs-role-permissions) | [![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-role-permissions) | Jul 17, 2026 |
-| **Goldman Sachs** | [Root of the Largest Tree](https://www.fastprep.io/problems/goldman-sachs-largest-tree-root) | [![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-largest-tree-root) | Jul 17, 2026 |
+| **Goldman Sachs** | [Inherited Role Permissions](https://www.fastprep.io/problems/goldman-sachs-role-permissions) | [![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-role-permissions) | 🆕 Jul 17, 2026 |
+| **Goldman Sachs** | [Root of the Largest Tree](https://www.fastprep.io/problems/goldman-sachs-largest-tree-root) | [![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-largest-tree-root) | 🆕 Jul 17, 2026 |
 | **Microsoft** | [Alphabetically Smallest Palindrome](https://www.fastprep.io/problems/microsoft-alphabetically-smallest-palindrome) | [![Practice][p]](https://www.fastprep.io/problems/microsoft-alphabetically-smallest-palindrome) | Jul 16, 2026 |
 | **Microsoft** | [Maximum Reward Points](https://www.fastprep.io/problems/microsoft-get-maximum-reward-points) | [![Practice][p]](https://www.fastprep.io/problems/microsoft-get-maximum-reward-points) | Jul 16, 2026 |
 | **Zomato / Eternal** | [Robot Warehouse Optimization](https://www.fastprep.io/problems/zomato-robot-warehouse-optimization) | [![Practice][p]](https://www.fastprep.io/problems/zomato-robot-warehouse-optimization) | Jul 16, 2026 |
@@ -1806,8 +1806,13 @@
 | **Arcesium** | [Reverse First K Characters in Every 2K Block](https://www.fastprep.io/problems/arcesium-reverse-first-k-every-2k-block) | [![Practice][p]](https://www.fastprep.io/problems/arcesium-reverse-first-k-every-2k-block) | Aug 05, 2023 |
 | **Arcesium** | [Detect a Cycle in Directed Hate Relationships](https://www.fastprep.io/problems/arcesium-detect-cycle-in-directed-hate-graph) | [![Practice][p]](https://www.fastprep.io/problems/arcesium-detect-cycle-in-directed-hate-graph) | Aug 05, 2023 |
 | **Arcesium** | [Robo Data Sharing Direction](https://www.fastprep.io/problems/arcesium-robo-data-sharing-direction) | [![Practice][p]](https://www.fastprep.io/problems/arcesium-robo-data-sharing-direction) | Jul 17, 2023 |
+| **IMC** | [Busy Intersection](https://www.fastprep.io/problems/imc-busy-intersection) | [![Practice][p]](https://www.fastprep.io/problems/imc-busy-intersection) | Mar 27, 2023 |
 | **Odoo** | [Maximum Profit from an Increasing Price Triplet](https://www.fastprep.io/problems/odoo-maximum-profit-increasing-triplet) | [![Practice][p]](https://www.fastprep.io/problems/odoo-maximum-profit-increasing-triplet) | Jan 24, 2023 |
+| **IMC** | [Reaching Points with Perfect-Square Obstacles](https://www.fastprep.io/problems/imc-perfect-square-forbidden-reaching-points) | [![Practice][p]](https://www.fastprep.io/problems/imc-perfect-square-forbidden-reaching-points) | Sep 07, 2022 |
+| **IMC** | [Adding Stack 2.0](https://www.fastprep.io/problems/imc-adding-stack-2-0) | [![Practice][p]](https://www.fastprep.io/problems/imc-adding-stack-2-0) | Sep 24, 2021 |
+| **IMC** | [Knight Minimum Moves with a Fixed Bishop](https://www.fastprep.io/problems/imc-knight-minimum-moves-fixed-bishop) | [![Practice][p]](https://www.fastprep.io/problems/imc-knight-minimum-moves-fixed-bishop) | Sep 24, 2021 |
 | **Arcesium** | [Capital Gains Tax from Trades](https://www.fastprep.io/problems/arcesium-capital-gains-tax-from-trades) | [![Practice][p]](https://www.fastprep.io/problems/arcesium-capital-gains-tax-from-trades) | Feb 23, 2021 |
+| **IMC** | [Hidden Artifacts](https://www.fastprep.io/problems/imc-hidden-artifacts) | [![Practice][p]](https://www.fastprep.io/problems/imc-hidden-artifacts) | Oct 20, 2020 |
 | **Postman** | [Configuration System](https://www.fastprep.io/problems/postman-configuration-system) | [![Practice][p]](https://www.fastprep.io/problems/postman-configuration-system) | Sep 23, 2020 |
 | **Postman** | [Large Responses](https://www.fastprep.io/problems/postman-large-responses) | [![Practice][p]](https://www.fastprep.io/problems/postman-large-responses) | Sep 23, 2020 |
 | **Postman** | [Minimum Swaps to Sort an Array](https://www.fastprep.io/problems/postman-minimum-swaps-to-sort) | [![Practice][p]](https://www.fastprep.io/problems/postman-minimum-swaps-to-sort) | Aug 27, 2020 |

@@ -113,7 +113,7 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 <sub>Newest updates first &nbsp;·&nbsp; 🔥 added in the last 2 weeks &nbsp;·&nbsp; 🆕 in the last 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (1,807)](formats/coding.md) · [SQL (3)](formats/sql.md) · [System design (250)](formats/system-design.md) · [Low-level design (51)](formats/low-level-design.md) · [AI coding (28)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (1,812)](formats/coding.md) · [SQL (5)](formats/sql.md) · [System design (250)](formats/system-design.md) · [Low-level design (51)](formats/low-level-design.md) · [AI coding (28)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 <sub>System design, low-level design/OOD, and AI coding rows sync hourly from FastPrep's public, candidate-safe catalogs. <b>Updated</b> uses the latest reported sighting when available, otherwise the first public sync date. <b>Unattributed</b> means no source-backed employer was reported.</sub>
@@ -352,6 +352,8 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 | **Meta** | [Design a Multimodal Public-Content Safety Platform](https://www.fastprep.io/system-design/multimodal-public-content-safety-platform) | System design | [![Practice][p]](https://www.fastprep.io/system-design/multimodal-public-content-safety-platform) | 🆕 Aug 13, 2026 |
 | **Databricks** | [Online Bookseller Platform](https://www.fastprep.io/system-design/online-bookseller-platform) | System design | [![Practice][p]](https://www.fastprep.io/system-design/online-bookseller-platform) | 🆕 Aug 13, 2026 |
 | **Agoda** | [Resilient Hotel Search Frontend](https://www.fastprep.io/system-design/resilient-hotel-search-frontend) | System design | [![Practice][p]](https://www.fastprep.io/system-design/resilient-hotel-search-frontend) | 🆕 Aug 13, 2026 |
+| **IMC** | [Rock Jumping](https://www.fastprep.io/problems/imc-rock-jumping) | Coding | [![Practice][p]](https://www.fastprep.io/problems/imc-rock-jumping) | 🆕 Aug 13, 2026 |
+| **IMC** | [Stack Batch Removal](https://www.fastprep.io/problems/imc-stack-batch-removal) | Coding | [![Practice][p]](https://www.fastprep.io/problems/imc-stack-batch-removal) | 🆕 Aug 13, 2026 |
 | **Anthropic** | [Inference Engine (Fellow Program :D](https://www.fastprep.io/project-coding/anthropic-inference-engine-scheduler) | AI coding | [![Practice][p]](https://www.fastprep.io/project-coding/anthropic-inference-engine-scheduler) | 🆕 Aug 12, 2026 |
 | **Anthropic** | [Debug Extremely Randomized Trees (Fellow Program :)](https://www.fastprep.io/project-coding/anthropic-extremely-randomized-trees) | AI coding | [![Practice][p]](https://www.fastprep.io/project-coding/anthropic-extremely-randomized-trees) | 🆕 Aug 12, 2026 |
 | **OpenAI / The D. E. Shaw Group / Zoox** | [Design an Online Payment Processing System](https://www.fastprep.io/system-design/online-payment-processing-system) | System design | [![Practice][p]](https://www.fastprep.io/system-design/online-payment-processing-system) | 🆕 Aug 12, 2026 |
@@ -615,8 +617,6 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 | **Roblox** | [Design a Like/Unlike Service](https://www.fastprep.io/system-design/like-unlike-service) | System design | [![Practice][p]](https://www.fastprep.io/system-design/like-unlike-service) | 🆕 Jul 23, 2026 |
 | **Cursor** | [Design a Versioned IDE Settings Sync System](https://www.fastprep.io/system-design/versioned-ide-settings-sync) | System design | [![Practice][p]](https://www.fastprep.io/system-design/versioned-ide-settings-sync) | 🆕 Jul 23, 2026 |
 | **Bloomberg** | [Word Break II](https://www.fastprep.io/problems/bloomberg-word-break-ii) | Coding | [![Practice][p]](https://www.fastprep.io/problems/bloomberg-word-break-ii) | 🆕 Jul 22, 2026 |
-| **IMC** | [Rock Jumping](https://www.fastprep.io/problems/imc-rock-jumping) | Coding | [![Practice][p]](https://www.fastprep.io/problems/imc-rock-jumping) | 🆕 Jul 22, 2026 |
-| **IMC** | [Stack Batch Removal](https://www.fastprep.io/problems/imc-stack-batch-removal) | Coding | [![Practice][p]](https://www.fastprep.io/problems/imc-stack-batch-removal) | 🆕 Jul 22, 2026 |
 | **Microsoft** | [Binary String Swap Time](https://www.fastprep.io/problems/microsoft-binary-string-swap-time) | Coding | [![Practice][p]](https://www.fastprep.io/problems/microsoft-binary-string-swap-time) | 🆕 Jul 22, 2026 |
 | **Microsoft** | [Minimum Effort Task Schedule](https://www.fastprep.io/problems/microsoft-minimum-effort-task-schedule) | Coding | [![Practice][p]](https://www.fastprep.io/problems/microsoft-minimum-effort-task-schedule) | 🆕 Jul 22, 2026 |
 | **Tekion** | [Longest Balanced Substring After One Swap](https://www.fastprep.io/problems/tekion-longest-balanced-substring-after-one-swap) | Coding | [![Practice][p]](https://www.fastprep.io/problems/tekion-longest-balanced-substring-after-one-swap) | 🆕 Jul 22, 2026 |
