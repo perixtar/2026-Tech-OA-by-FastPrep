@@ -113,7 +113,7 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 <sub>Newest updates first &nbsp;·&nbsp; 🔥 added in the last 2 weeks &nbsp;·&nbsp; 🆕 in the last 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (1,807)](formats/coding.md) · [SQL (3)](formats/sql.md) · [System design (250)](formats/system-design.md) · [Low-level design (51)](formats/low-level-design.md) · [AI coding (28)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (1,807)](formats/coding.md) · [SQL (3)](formats/sql.md) · [System design (250)](formats/system-design.md) · [Low-level design (52)](formats/low-level-design.md) · [AI coding (28)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 <sub>System design, low-level design/OOD, and AI coding rows sync hourly from FastPrep's public, candidate-safe catalogs. <b>Updated</b> uses the latest reported sighting when available, otherwise the first public sync date. <b>Unattributed</b> means no source-backed employer was reported.</sub>
@@ -893,6 +893,7 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 | **Microsoft** | [Minimum Round Trip Lengths](https://www.fastprep.io/problems/microsoft-minimum-round-trip-lengths) | Coding | [![Practice][p]](https://www.fastprep.io/problems/microsoft-minimum-round-trip-lengths) | Jun 24, 2026 |
 | **HSBC** | [Find ID of Soldier](https://www.fastprep.io/problems/hsbc-find-id-of-soldier) | Coding | [![Practice][p]](https://www.fastprep.io/problems/hsbc-find-id-of-soldier) | Jun 21, 2026 |
 | **HSBC** | [Find Most Frequently Purchased Products](https://www.fastprep.io/problems/hsbc-find-most-frequently-purchased-products) | Coding | [![Practice][p]](https://www.fastprep.io/problems/hsbc-find-most-frequently-purchased-products) | Jun 21, 2026 |
+| **Goldman Sachs** | [Design a Brokerage Order Processing Domain](https://www.fastprep.io/low-level-design/brokerage-order-processing-domain) | Low-level design | [![Practice][p]](https://www.fastprep.io/low-level-design/brokerage-order-processing-domain) | Jun 21, 2026 |
 | **Amazon** | [Sort Bug Report Frequencies](https://www.fastprep.io/problems/amazon-sort-bug-report-frequencies) | Coding | [![Practice][p]](https://www.fastprep.io/problems/amazon-sort-bug-report-frequencies) | Jun 19, 2026 |
 | **Amazon** | [Maximum Equal Parts for Prefixes](https://www.fastprep.io/problems/amazon-maximum-equal-parts-for-prefixes) | Coding | [![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-equal-parts-for-prefixes) | Jun 19, 2026 |
 | **Meesho** | [Efficient Deployments](https://www.fastprep.io/problems/meesho-efficient-deployments) | Coding | [![Practice][p]](https://www.fastprep.io/problems/meesho-efficient-deployments) | Jun 18, 2026 |
