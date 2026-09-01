@@ -8,6 +8,7 @@
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+| **Uber Freight** | [Design an In-Memory File System](https://www.fastprep.io/low-level-design/in-memory-file-system) | [![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-file-system) | 🔥 Aug 31, 2026 |
 | **Uber** | [Design and Implement Ride Dispatch and Trip Lifecycle](https://www.fastprep.io/low-level-design/ride-hailing-dispatch-and-trip-lifecycle) | [![Practice][p]](https://www.fastprep.io/low-level-design/ride-hailing-dispatch-and-trip-lifecycle) | 🔥 Aug 29, 2026 |
 | **ClearTax** | [Design a Movie Ticket Booking System](https://www.fastprep.io/low-level-design/movie-ticket-booking-system) | [![Practice][p]](https://www.fastprep.io/low-level-design/movie-ticket-booking-system) | 🔥 Aug 29, 2026 |
 | **Amazon / Omnissa** | [Design an Extensible Multi-Channel Alerting Platform](https://www.fastprep.io/low-level-design/extensible-multi-channel-alerting-platform) | [![Practice][p]](https://www.fastprep.io/low-level-design/extensible-multi-channel-alerting-platform) | 🔥 Aug 28, 2026 |
@@ -18,7 +19,6 @@
 | **Walmart** | [Design a Job Marketplace Domain](https://www.fastprep.io/low-level-design/job-marketplace-person-job-domain) | [![Practice][p]](https://www.fastprep.io/low-level-design/job-marketplace-person-job-domain) | 🔥 Aug 23, 2026 |
 | **Tekion** | [Design a Workflow Orchestrator Domain](https://www.fastprep.io/low-level-design/workflow-orchestration-domain) | [![Practice][p]](https://www.fastprep.io/low-level-design/workflow-orchestration-domain) | 🔥 Aug 23, 2026 |
 | **Netflix** | [Design a Parking Lot with Flexible Fees](https://www.fastprep.io/low-level-design/parking-lot-with-flexible-fees) | [![Practice][p]](https://www.fastprep.io/low-level-design/parking-lot-with-flexible-fees) | 🔥 Aug 21, 2026 |
-| **Uber Freight** | [Design an In-Memory File System](https://www.fastprep.io/low-level-design/in-memory-file-system) | [![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-file-system) | 🔥 Aug 21, 2026 |
 | **Micro1** | [Design an In-Memory Action Rate Limiter](https://www.fastprep.io/low-level-design/in-memory-action-rate-limiter) | [![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-action-rate-limiter) | 🔥 Aug 19, 2026 |
 | **Micro1** | [Design an In-Memory Read-Through Cache](https://www.fastprep.io/low-level-design/in-memory-read-through-cache) | [![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-read-through-cache) | 🔥 Aug 19, 2026 |
 | **Amazon** | [Design a Playlist Source Mixer](https://www.fastprep.io/low-level-design/playlist-source-mixer) | [![Practice][p]](https://www.fastprep.io/low-level-design/playlist-source-mixer) | 🔥 Aug 18, 2026 |
