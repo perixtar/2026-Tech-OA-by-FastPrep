@@ -118,6 +118,8 @@
 | **TikTok** | [Linear Warehouse Drone Delivery](https://www.fastprep.io/problems/tiktok-linear-warehouse-drone-delivery) | [![Practice][p]](https://www.fastprep.io/problems/tiktok-linear-warehouse-drone-delivery) | 🆕 Aug 04, 2026 |
 | **Capital One** | [Obstacle Placement Queries](https://www.fastprep.io/problems/capital-one-obstacle-placement-queries) | [![Practice][p]](https://www.fastprep.io/problems/capital-one-obstacle-placement-queries) | 🆕 Aug 04, 2026 |
 | **TikTok** | [Product Minus Sum of Digits](https://www.fastprep.io/problems/tiktok-product-minus-sum-of-digits) | [![Practice][p]](https://www.fastprep.io/problems/tiktok-product-minus-sum-of-digits) | 🆕 Aug 04, 2026 |
+| **IMC** | [Chain of Command](https://www.fastprep.io/problems/imc-chain-of-command) | [![Practice][p]](https://www.fastprep.io/problems/imc-chain-of-command) | Aug 04, 2026 |
+| **IMC** | [Choose Containers](https://www.fastprep.io/problems/imc-choose-containers) | [![Practice][p]](https://www.fastprep.io/problems/imc-choose-containers) | Aug 04, 2026 |
 | **HSBC** | [Minimum Satellite Data Transfer Iterations](https://www.fastprep.io/problems/hsbc-minimum-satellite-transfer-iterations) | [![Practice][p]](https://www.fastprep.io/problems/hsbc-minimum-satellite-transfer-iterations) | 🆕 Aug 03, 2026 |
 | **HSBC** | [Organization Reputation After Employee Departures](https://www.fastprep.io/problems/hsbc-organization-reputation-after-departures) | [![Practice][p]](https://www.fastprep.io/problems/hsbc-organization-reputation-after-departures) | 🆕 Aug 03, 2026 |
 | **HSBC** | [Remove Vowels from a String](https://www.fastprep.io/problems/hsbc-remove-vowels) | [![Practice][p]](https://www.fastprep.io/problems/hsbc-remove-vowels) | 🆕 Aug 03, 2026 |
@@ -404,8 +406,6 @@
 | **Optiver** | [Construct Binary Tree S-Expression](https://www.fastprep.io/problems/optiver-construct-binary-tree-s-expression) | [![Practice][p]](https://www.fastprep.io/problems/optiver-construct-binary-tree-s-expression) | Jul 10, 2026 |
 | **TCS** | [Array Rank Transform](https://www.fastprep.io/problems/tcs-array-rank-transform) | [![Practice][p]](https://www.fastprep.io/problems/tcs-array-rank-transform) | Jul 10, 2026 |
 | **Codeium** | [Biggest Connected Component](https://www.fastprep.io/problems/codeium-biggest-connected-component) | [![Practice][p]](https://www.fastprep.io/problems/codeium-biggest-connected-component) | Jul 10, 2026 |
-| **IMC** | [Chain of Command](https://www.fastprep.io/problems/imc-chain-of-command) | [![Practice][p]](https://www.fastprep.io/problems/imc-chain-of-command) | Jul 10, 2026 |
-| **IMC** | [Choose Containers](https://www.fastprep.io/problems/imc-choose-containers) | [![Practice][p]](https://www.fastprep.io/problems/imc-choose-containers) | Jul 10, 2026 |
 | **Flexport** | [Choose the Next Hidden-Word Guess](https://www.fastprep.io/problems/flexport-next-word-guess) | [![Practice][p]](https://www.fastprep.io/problems/flexport-next-word-guess) | Jul 10, 2026 |
 | **Apple** | [Phone Directory](https://www.fastprep.io/problems/apple-phone-directory) | [![Practice][p]](https://www.fastprep.io/problems/apple-phone-directory) | Jul 10, 2026 |
 | **Okta** | [CD Rental System](https://www.fastprep.io/problems/okta-cd-rental-system) | [![Practice][p]](https://www.fastprep.io/problems/okta-cd-rental-system) | Jul 10, 2026 |
