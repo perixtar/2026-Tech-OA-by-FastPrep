@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**253 questions**
+**255 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -11,6 +11,8 @@
 | **Postman / Anduril / DigitalOcean / Oracle / Adobe / Uber Freight / Grab / Goldman Sachs** | [Design a URL Shortening Service](https://www.fastprep.io/system-design/url-shortening-service) | [![Practice][p]](https://www.fastprep.io/system-design/url-shortening-service) | 🔥 Aug 31, 2026 |
 | **Salesforce / Replit / Sarvam AI / Microsoft / Gojek / Goldman Sachs** | [Design an Event-Driven Notification System](https://www.fastprep.io/system-design/event-driven-notification-system) | [![Practice][p]](https://www.fastprep.io/system-design/event-driven-notification-system) | 🔥 Aug 31, 2026 |
 | **Snowflake** | [Design an Interactive SQL Notebook](https://www.fastprep.io/system-design/interactive-sql-notebook) | [![Practice][p]](https://www.fastprep.io/system-design/interactive-sql-notebook) | 🔥 Aug 31, 2026 |
+| **Hadrian** | [Design a Live Relational Database Migration](https://www.fastprep.io/system-design/live-relational-database-migration) | [![Practice][p]](https://www.fastprep.io/system-design/live-relational-database-migration) | 🔥 Aug 31, 2026 |
+| **Nubank** | [Design an Online Coding Competition Platform](https://www.fastprep.io/system-design/online-coding-competition-platform) | [![Practice][p]](https://www.fastprep.io/system-design/online-coding-competition-platform) | 🔥 Aug 31, 2026 |
 | **Anthropic** | [Design a Gang-Scheduled GPU Inference Pool](https://www.fastprep.io/system-design/gang-scheduled-gpu-inference-pool) | [![Practice][p]](https://www.fastprep.io/system-design/gang-scheduled-gpu-inference-pool) | 🔥 Aug 30, 2026 |
 | **Stripe** | [Design an Idempotent Ledger Service](https://www.fastprep.io/system-design/idempotent-ledger-service) | [![Practice][p]](https://www.fastprep.io/system-design/idempotent-ledger-service) | 🔥 Aug 30, 2026 |
 | **OpenAI** | [Design a Device Demand-Response Control System](https://www.fastprep.io/system-design/device-demand-response-control-system) | [![Practice][p]](https://www.fastprep.io/system-design/device-demand-response-control-system) | 🔥 Aug 30, 2026 |
