@@ -2,12 +2,22 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**1,807 questions**
+**1,815 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+| **Scale AI** | [Four-Player Trick-Taking Card Game Simulation](https://www.fastprep.io/problems/four-player-trick-taking-card-game-simulation) | [![Practice][p]](https://www.fastprep.io/problems/four-player-trick-taking-card-game-simulation) | 🔥 Aug 31, 2026 |
+| **Snowflake** | [Design In-Memory File System](https://www.fastprep.io/problems/snowflake-design-in-memory-file-system) | [![Practice][p]](https://www.fastprep.io/problems/snowflake-design-in-memory-file-system) | 🔥 Aug 31, 2026 |
+| **MongoDB** | [Recursive Nested JSON Key Search](https://www.fastprep.io/problems/mongodb-recursive-nested-object-key-search) | [![Practice][p]](https://www.fastprep.io/problems/mongodb-recursive-nested-object-key-search) | 🔥 Aug 31, 2026 |
+| **Salesforce** | [Path Sum](https://www.fastprep.io/problems/salesforce-path-sum) | [![Practice][p]](https://www.fastprep.io/problems/salesforce-path-sum) | 🔥 Aug 31, 2026 |
+| **Uber Freight** | [Maximize Compatible Car Riders](https://www.fastprep.io/problems/uber-freight-maximize-compatible-car-riders) | [![Practice][p]](https://www.fastprep.io/problems/uber-freight-maximize-compatible-car-riders) | 🔥 Aug 31, 2026 |
+| **Google** | [Earliest Time of Full Connection](https://www.fastprep.io/problems/google-earliest-full-connection) | [![Practice][p]](https://www.fastprep.io/problems/google-earliest-full-connection) | 🔥 Aug 31, 2026 |
+| **Google** | [Parent-Child Deletion Order](https://www.fastprep.io/problems/google-parent-child-deletion-order) | [![Practice][p]](https://www.fastprep.io/problems/google-parent-child-deletion-order) | 🔥 Aug 31, 2026 |
+| **Salesforce** | [Diameter of an Acyclic Undirected Graph](https://www.fastprep.io/problems/salesforce-tree-diameter) | [![Practice][p]](https://www.fastprep.io/problems/salesforce-tree-diameter) | 🔥 Aug 31, 2026 |
+| **Hadrian** | [Process Graph Rule Validation](https://www.fastprep.io/problems/hadrian-process-graph-rule-validation) | [![Practice][p]](https://www.fastprep.io/problems/hadrian-process-graph-rule-validation) | 🔥 Aug 30, 2026 |
+| **Rippling** | [Stateful Log Transform and Search](https://www.fastprep.io/problems/rippling-stateful-log-transform-and-search) | [![Practice][p]](https://www.fastprep.io/problems/rippling-stateful-log-transform-and-search) | 🔥 Aug 30, 2026 |
 | **DRW** | [Largest Number With Even Digit Frequencies](https://www.fastprep.io/problems/drw-largest-number-even-digit-frequencies) | [![Practice][p]](https://www.fastprep.io/problems/drw-largest-number-even-digit-frequencies) | 🔥 Aug 29, 2026 |
 | **DRW** | [Count Balanced Nodes in a Rooted Tree](https://www.fastprep.io/problems/drw-count-balanced-tree-nodes) | [![Practice][p]](https://www.fastprep.io/problems/drw-count-balanced-tree-nodes) | 🔥 Aug 29, 2026 |
 | **DRW** | [Shortest Path Around Rectangular Obstacles](https://www.fastprep.io/problems/drw-shortest-path-rectangular-obstacles) | [![Practice][p]](https://www.fastprep.io/problems/drw-shortest-path-rectangular-obstacles) | 🔥 Aug 29, 2026 |
@@ -149,7 +159,6 @@
 | **Reddit** | [Chatter Message Window](https://www.fastprep.io/problems/reddit-chatter-message-window) | [![Practice][p]](https://www.fastprep.io/problems/reddit-chatter-message-window) | 🆕 Jul 29, 2026 |
 | **Amazon** | [Count the Number of Complete Components](https://www.fastprep.io/problems/amazon-count-complete-components) | [![Practice][p]](https://www.fastprep.io/problems/amazon-count-complete-components) | 🆕 Jul 29, 2026 |
 | **Amazon** | [Cousins in Binary Tree II](https://www.fastprep.io/problems/amazon-cousins-in-binary-tree-ii) | [![Practice][p]](https://www.fastprep.io/problems/amazon-cousins-in-binary-tree-ii) | 🆕 Jul 29, 2026 |
-| **Salesforce** | [Diameter of an Acyclic Undirected Graph](https://www.fastprep.io/problems/salesforce-tree-diameter) | [![Practice][p]](https://www.fastprep.io/problems/salesforce-tree-diameter) | 🆕 Jul 29, 2026 |
 | **Squarepoint** | [Evaluating Circuit Expressions](https://www.fastprep.io/problems/squarepoint-evaluating-circuit-expressions) | [![Practice][p]](https://www.fastprep.io/problems/squarepoint-evaluating-circuit-expressions) | 🆕 Jul 29, 2026 |
 | **Rippling** | [Filter and Sort Scheduled Tasks](https://www.fastprep.io/problems/rippling-filter-and-sort-scheduled-tasks) | [![Practice][p]](https://www.fastprep.io/problems/rippling-filter-and-sort-scheduled-tasks) | 🆕 Jul 29, 2026 |
 | **Google** | [Longest Subarray with Sum at Most K](https://www.fastprep.io/problems/google-longest-subarray-sum-at-most-k) | [![Practice][p]](https://www.fastprep.io/problems/google-longest-subarray-sum-at-most-k) | 🆕 Jul 29, 2026 |
@@ -160,7 +169,6 @@
 | **Instacart** | [Product Total With the Cheapest Promotion](https://www.fastprep.io/problems/instacart-product-total-with-cheapest-promotion) | [![Practice][p]](https://www.fastprep.io/problems/instacart-product-total-with-cheapest-promotion) | 🆕 Jul 29, 2026 |
 | **Airbnb** | [Recipe Management System](https://www.fastprep.io/problems/airbnb-recipe-management-system) | [![Practice][p]](https://www.fastprep.io/problems/airbnb-recipe-management-system) | 🆕 Jul 29, 2026 |
 | **Instacart** | [Sort Products by Aisle With Frozen Items Last](https://www.fastprep.io/problems/instacart-sort-products-by-aisle-with-frozen-last) | [![Practice][p]](https://www.fastprep.io/problems/instacart-sort-products-by-aisle-with-frozen-last) | 🆕 Jul 29, 2026 |
-| **Rippling** | [Stateful Log Transform and Search](https://www.fastprep.io/problems/rippling-stateful-log-transform-and-search) | [![Practice][p]](https://www.fastprep.io/problems/rippling-stateful-log-transform-and-search) | 🆕 Jul 29, 2026 |
 | **Amazon** | [Vertical Order Traversal of a Binary Tree](https://www.fastprep.io/problems/amazon-vertical-order-traversal-of-binary-tree) | [![Practice][p]](https://www.fastprep.io/problems/amazon-vertical-order-traversal-of-binary-tree) | 🆕 Jul 29, 2026 |
 | **Harness** | [Streaming Ingredient Dishes](https://www.fastprep.io/problems/harness-streaming-ingredient-dishes) | [![Practice][p]](https://www.fastprep.io/problems/harness-streaming-ingredient-dishes) | 🆕 Jul 28, 2026 |
 | **Oracle** | [Add One to a Number Represented as Digits](https://www.fastprep.io/problems/oracle-plus-one-digits) | [![Practice][p]](https://www.fastprep.io/problems/oracle-plus-one-digits) | 🆕 Jul 28, 2026 |
