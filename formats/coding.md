@@ -27,6 +27,7 @@
 | **Amazon** | [Minimum Grid Inconvenience](https://www.fastprep.io/problems/amazon-minimum-grid-inconvenience) | [![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-grid-inconvenience) | 🔥 Aug 28, 2026 |
 | **Goldman Sachs** | [Maximize Element Frequency](https://www.fastprep.io/problems/goldman-sachs-maximize-element-frequency) | [![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-maximize-element-frequency) | 🔥 Aug 28, 2026 |
 | **Goldman Sachs** | [Notification Deduplication Window](https://www.fastprep.io/problems/goldman-sachs-notification-deduplication) | [![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-notification-deduplication) | 🔥 Aug 28, 2026 |
+| **IMC** | [Grid Paths with Override Passes](https://www.fastprep.io/problems/imc-grid-paths-with-override-passes) | [![Practice][p]](https://www.fastprep.io/problems/imc-grid-paths-with-override-passes) | 🔥 Aug 28, 2026 |
 | **Walmart** | [Minimum Stress Path](https://www.fastprep.io/problems/walmart-minimum-stress-path) | [![Practice][p]](https://www.fastprep.io/problems/walmart-minimum-stress-path) | 🔥 Aug 27, 2026 |
 | **Amazon** | [Minimum Merge Conflicts](https://www.fastprep.io/problems/amazon-minimum-merge-conflicts) | [![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-merge-conflicts) | 🔥 Aug 27, 2026 |
 | **Amazon** | [Calculate Beauty Values](https://www.fastprep.io/problems/amazon-calculate-beauty-values) | [![Practice][p]](https://www.fastprep.io/problems/amazon-calculate-beauty-values) | 🔥 Aug 27, 2026 |
@@ -102,7 +103,6 @@
 | **IBM** | [Count Paginated Medical Records in a Range](https://www.fastprep.io/problems/ibm-count-paginated-medical-records-in-range) | [![Practice][p]](https://www.fastprep.io/problems/ibm-count-paginated-medical-records-in-range) | 🔥 Aug 18, 2026 |
 | **IMC** | [Rock Jumping](https://www.fastprep.io/problems/imc-rock-jumping) | [![Practice][p]](https://www.fastprep.io/problems/imc-rock-jumping) | 🆕 Aug 13, 2026 |
 | **IMC** | [Stack Batch Removal](https://www.fastprep.io/problems/imc-stack-batch-removal) | [![Practice][p]](https://www.fastprep.io/problems/imc-stack-batch-removal) | 🆕 Aug 13, 2026 |
-| **IMC** | [Grid Paths with Override Passes](https://www.fastprep.io/problems/imc-grid-paths-with-override-passes) | [![Practice][p]](https://www.fastprep.io/problems/imc-grid-paths-with-override-passes) | 🆕 Aug 10, 2026 |
 | **IBM** | [Maximize Consecutive XOR](https://www.fastprep.io/problems/ibm-maximize-consecutive-xor) | [![Practice][p]](https://www.fastprep.io/problems/ibm-maximize-consecutive-xor) | 🆕 Aug 09, 2026 |
 | **IBM** | [Count Digit Holes](https://www.fastprep.io/problems/ibm-count-digit-holes) | [![Practice][p]](https://www.fastprep.io/problems/ibm-count-digit-holes) | 🆕 Aug 09, 2026 |
 | **TikTok** | [Distribution Center Package Allocation](https://www.fastprep.io/problems/tiktok-distribution-center-package-allocation) | [![Practice][p]](https://www.fastprep.io/problems/tiktok-distribution-center-package-allocation) | 🆕 Aug 05, 2026 |
