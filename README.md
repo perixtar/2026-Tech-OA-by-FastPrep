@@ -113,7 +113,7 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 <sub>Newest updates first &nbsp;·&nbsp; 🔥 added in the last 2 weeks &nbsp;·&nbsp; 🆕 in the last 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (1,734)](formats/coding.md) · [SQL (4)](formats/sql.md) · [System design (257)](formats/system-design.md) · [Low-level design (53)](formats/low-level-design.md) · [AI coding (28)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (1,734)](formats/coding.md) · [SQL (6)](formats/sql.md) · [System design (257)](formats/system-design.md) · [Low-level design (53)](formats/low-level-design.md) · [AI coding (28)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 <sub>System design, low-level design/OOD, and AI coding rows sync hourly from FastPrep's public, candidate-safe catalogs. <b>Updated</b> uses the latest reported sighting when available, otherwise the first public sync date. <b>Unattributed</b> means no source-backed employer was reported.</sub>
@@ -157,6 +157,8 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 | **Matroid** | [Validate 3x3 Digit Windows](https://www.fastprep.io/problems/matroid-validate-3x3-digit-windows) | Coding | [![Practice][p]](https://www.fastprep.io/problems/matroid-validate-3x3-digit-windows) | 🔥 Aug 30, 2026 |
 | **Matroid** | [Diagonal Robot Path Sum](https://www.fastprep.io/problems/matroid-diagonal-robot-path-sum) | Coding | [![Practice][p]](https://www.fastprep.io/problems/matroid-diagonal-robot-path-sum) | 🔥 Aug 30, 2026 |
 | **Matroid** | [Count House Segments After Destruction](https://www.fastprep.io/problems/matroid-count-house-segments-after-destruction) | Coding | [![Practice][p]](https://www.fastprep.io/problems/matroid-count-house-segments-after-destruction) | 🔥 Aug 30, 2026 |
+| **Wolverine Trading** | [Market Share Ticker with Imbalance](https://www.fastprep.io/problems/wolverine-trading-market-share-and-imbalance) | SQL | [![Practice][p]](https://www.fastprep.io/problems/wolverine-trading-market-share-and-imbalance) | 🔥 Aug 30, 2026 |
+| **Wolverine Trading** | [Hedges Outperforming Their Trades](https://www.fastprep.io/problems/wolverine-trading-hedges-outperforming-trades) | SQL | [![Practice][p]](https://www.fastprep.io/problems/wolverine-trading-hedges-outperforming-trades) | 🔥 Aug 30, 2026 |
 | **DRW** | [Largest Number With Even Digit Frequencies](https://www.fastprep.io/problems/drw-largest-number-even-digit-frequencies) | Coding | [![Practice][p]](https://www.fastprep.io/problems/drw-largest-number-even-digit-frequencies) | 🔥 Aug 29, 2026 |
 | **DRW** | [Count Balanced Nodes in a Rooted Tree](https://www.fastprep.io/problems/drw-count-balanced-tree-nodes) | Coding | [![Practice][p]](https://www.fastprep.io/problems/drw-count-balanced-tree-nodes) | 🔥 Aug 29, 2026 |
 | **DRW** | [Shortest Path Around Rectangular Obstacles](https://www.fastprep.io/problems/drw-shortest-path-rectangular-obstacles) | Coding | [![Practice][p]](https://www.fastprep.io/problems/drw-shortest-path-rectangular-obstacles) | 🔥 Aug 29, 2026 |
