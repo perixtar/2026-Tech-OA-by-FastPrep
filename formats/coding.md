@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**1,811 questions**
+**1,814 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -13,6 +13,9 @@
 | **Akuna Capital** | [Minimum Swaps](https://www.fastprep.io/problems/akuna-minimum-swaps) | [![Practice][p]](https://www.fastprep.io/problems/akuna-minimum-swaps) | 🔥 Aug 31, 2026 |
 | **Akuna Capital** | [Vowel Substring Game](https://www.fastprep.io/problems/akuna-vowel-substring-game) | [![Practice][p]](https://www.fastprep.io/problems/akuna-vowel-substring-game) | 🔥 Aug 31, 2026 |
 | **Akuna Capital** | [Minimum Absolute Difference Pairs](https://www.fastprep.io/problems/akuna-minimum-absolute-difference-pairs) | [![Practice][p]](https://www.fastprep.io/problems/akuna-minimum-absolute-difference-pairs) | 🔥 Aug 31, 2026 |
+| **Rippling** | [Server Management](https://www.fastprep.io/problems/rippling-server-management) | [![Practice][p]](https://www.fastprep.io/problems/rippling-server-management) | 🔥 Aug 31, 2026 |
+| **Rippling** | [Costliest Chocolate](https://www.fastprep.io/problems/rippling-costliest-chocolate) | [![Practice][p]](https://www.fastprep.io/problems/rippling-costliest-chocolate) | 🔥 Aug 31, 2026 |
+| **Rippling** | [Consistent Logs](https://www.fastprep.io/problems/rippling-consistent-logs) | [![Practice][p]](https://www.fastprep.io/problems/rippling-consistent-logs) | 🔥 Aug 31, 2026 |
 | **DRW** | [Largest Number With Even Digit Frequencies](https://www.fastprep.io/problems/drw-largest-number-even-digit-frequencies) | [![Practice][p]](https://www.fastprep.io/problems/drw-largest-number-even-digit-frequencies) | 🔥 Aug 29, 2026 |
 | **DRW** | [Count Balanced Nodes in a Rooted Tree](https://www.fastprep.io/problems/drw-count-balanced-tree-nodes) | [![Practice][p]](https://www.fastprep.io/problems/drw-count-balanced-tree-nodes) | 🔥 Aug 29, 2026 |
 | **DRW** | [Shortest Path Around Rectangular Obstacles](https://www.fastprep.io/problems/drw-shortest-path-rectangular-obstacles) | [![Practice][p]](https://www.fastprep.io/problems/drw-shortest-path-rectangular-obstacles) | 🔥 Aug 29, 2026 |
