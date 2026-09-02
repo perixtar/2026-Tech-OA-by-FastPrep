@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**1,768 questions**
+**1,770 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -1400,6 +1400,8 @@
 | **Microsoft** | [Skycraper](https://www.fastprep.io/problems/microsoft-skyscraper) | [![Practice][p]](https://www.fastprep.io/problems/microsoft-skyscraper) | Jun 15, 2024 |
 | **Microsoft** | [Min Num Cells](https://www.fastprep.io/problems/microsoft-min-num-letters) | [![Practice][p]](https://www.fastprep.io/problems/microsoft-min-num-letters) | Jun 15, 2024 |
 | **Microsoft** | [Maximum Cells](https://www.fastprep.io/problems/microsoft-maximum-cells) | [![Practice][p]](https://www.fastprep.io/problems/microsoft-maximum-cells) | Jun 15, 2024 |
+| **Fivetran** | [Unique Near-Equal Target-Sum Pairs](https://www.fastprep.io/problems/fivetran-unique-near-equal-target-sum-pairs) | [![Practice][p]](https://www.fastprep.io/problems/fivetran-unique-near-equal-target-sum-pairs) | Jun 13, 2024 |
+| **Fivetran** | [Connected Groups](https://www.fastprep.io/problems/fivetran-connected-groups) | [![Practice][p]](https://www.fastprep.io/problems/fivetran-connected-groups) | Jun 13, 2024 |
 | **Amazon** | [Maximize Subtree Product](https://www.fastprep.io/problems/amazon-maximize-subtree-product) | [![Practice][p]](https://www.fastprep.io/problems/amazon-maximize-subtree-product) | Jun 10, 2024 |
 | **Amazon** | [Bring Servers Down](https://www.fastprep.io/problems/amazon-bring-servers-down) | [![Practice][p]](https://www.fastprep.io/problems/amazon-bring-servers-down) | Jun 10, 2024 |
 | **Snowflake** | [Search Strings](https://www.fastprep.io/problems/snowflake-get-maximum-removals) | [![Practice][p]](https://www.fastprep.io/problems/snowflake-get-maximum-removals) | Jun 10, 2024 |
