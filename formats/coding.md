@@ -2,12 +2,14 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**1,807 questions**
+**1,809 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+| **Visa** | [Collect Branches for a Bird Nest](https://www.fastprep.io/problems/visa-collect-branches-for-nest) | [![Practice][p]](https://www.fastprep.io/problems/visa-collect-branches-for-nest) | 🔥 Aug 31, 2026 |
+| **Visa** | [Count Reverse-Digit Pairs](https://www.fastprep.io/problems/visa-count-reverse-digit-pairs) | [![Practice][p]](https://www.fastprep.io/problems/visa-count-reverse-digit-pairs) | 🔥 Aug 31, 2026 |
 | **DRW** | [Largest Number With Even Digit Frequencies](https://www.fastprep.io/problems/drw-largest-number-even-digit-frequencies) | [![Practice][p]](https://www.fastprep.io/problems/drw-largest-number-even-digit-frequencies) | 🔥 Aug 29, 2026 |
 | **DRW** | [Count Balanced Nodes in a Rooted Tree](https://www.fastprep.io/problems/drw-count-balanced-tree-nodes) | [![Practice][p]](https://www.fastprep.io/problems/drw-count-balanced-tree-nodes) | 🔥 Aug 29, 2026 |
 | **DRW** | [Shortest Path Around Rectangular Obstacles](https://www.fastprep.io/problems/drw-shortest-path-rectangular-obstacles) | [![Practice][p]](https://www.fastprep.io/problems/drw-shortest-path-rectangular-obstacles) | 🔥 Aug 29, 2026 |
