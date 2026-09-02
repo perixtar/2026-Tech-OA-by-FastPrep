@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**6 questions**
+**8 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -14,3 +14,5 @@
 | **Amazon** | [Customer Package Delivery Report](https://www.fastprep.io/problems/amazon-customer-package-delivery-report) | [![Practice][p]](https://www.fastprep.io/problems/amazon-customer-package-delivery-report) | Jul 16, 2026 |
 | **Point72** | [Internet Service Provider Monthly Report](https://www.fastprep.io/problems/point72-internet-service-provider-monthly-report) | [![Practice][p]](https://www.fastprep.io/problems/point72-internet-service-provider-monthly-report) | Jul 02, 2026 |
 | **Odoo** | [Employees Joined per Month](https://www.fastprep.io/problems/odoo-employees-joined-per-month) | [![Practice][p]](https://www.fastprep.io/problems/odoo-employees-joined-per-month) | Sep 17, 2024 |
+| **IMC** | [Account Balance Over Threshold](https://www.fastprep.io/problems/imc-account-balance-over-threshold) | [![Practice][p]](https://www.fastprep.io/problems/imc-account-balance-over-threshold) | Sep 12, 2020 |
+| **IMC** | [Transaction Balance Over Threshold](https://www.fastprep.io/problems/imc-transaction-balance-over-threshold) | [![Practice][p]](https://www.fastprep.io/problems/imc-transaction-balance-over-threshold) | Sep 12, 2020 |

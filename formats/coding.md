@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**1,734 questions**
+**1,741 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -40,6 +40,7 @@
 | **Amazon** | [Minimum Grid Inconvenience](https://www.fastprep.io/problems/amazon-minimum-grid-inconvenience) | [![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-grid-inconvenience) | 🔥 Aug 28, 2026 |
 | **Goldman Sachs** | [Maximize Element Frequency](https://www.fastprep.io/problems/goldman-sachs-maximize-element-frequency) | [![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-maximize-element-frequency) | 🔥 Aug 28, 2026 |
 | **Goldman Sachs** | [Notification Deduplication Window](https://www.fastprep.io/problems/goldman-sachs-notification-deduplication) | [![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-notification-deduplication) | 🔥 Aug 28, 2026 |
+| **IMC** | [Grid Paths with Override Passes](https://www.fastprep.io/problems/imc-grid-paths-with-override-passes) | [![Practice][p]](https://www.fastprep.io/problems/imc-grid-paths-with-override-passes) | 🔥 Aug 28, 2026 |
 | **Walmart** | [Minimum Stress Path](https://www.fastprep.io/problems/walmart-minimum-stress-path) | [![Practice][p]](https://www.fastprep.io/problems/walmart-minimum-stress-path) | 🔥 Aug 27, 2026 |
 | **Amazon** | [Minimum Merge Conflicts](https://www.fastprep.io/problems/amazon-minimum-merge-conflicts) | [![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-merge-conflicts) | 🔥 Aug 27, 2026 |
 | **Amazon** | [Calculate Beauty Values](https://www.fastprep.io/problems/amazon-calculate-beauty-values) | [![Practice][p]](https://www.fastprep.io/problems/amazon-calculate-beauty-values) | 🔥 Aug 27, 2026 |
@@ -112,6 +113,8 @@
 | **Nuro** | [Reveal a Minesweeper Region](https://www.fastprep.io/problems/nuro-reveal-minesweeper-region) | [![Practice][p]](https://www.fastprep.io/problems/nuro-reveal-minesweeper-region) | 🔥 Aug 20, 2026 |
 | **IBM** | [Count Invalid Log Groups](https://www.fastprep.io/problems/ibm-count-invalid-log-groups) | [![Practice][p]](https://www.fastprep.io/problems/ibm-count-invalid-log-groups) | 🆕 Aug 18, 2026 |
 | **IBM** | [Count Paginated Medical Records in a Range](https://www.fastprep.io/problems/ibm-count-paginated-medical-records-in-range) | [![Practice][p]](https://www.fastprep.io/problems/ibm-count-paginated-medical-records-in-range) | 🆕 Aug 18, 2026 |
+| **IMC** | [Rock Jumping](https://www.fastprep.io/problems/imc-rock-jumping) | [![Practice][p]](https://www.fastprep.io/problems/imc-rock-jumping) | 🆕 Aug 13, 2026 |
+| **IMC** | [Stack Batch Removal](https://www.fastprep.io/problems/imc-stack-batch-removal) | [![Practice][p]](https://www.fastprep.io/problems/imc-stack-batch-removal) | 🆕 Aug 13, 2026 |
 | **IBM** | [Maximize Consecutive XOR](https://www.fastprep.io/problems/ibm-maximize-consecutive-xor) | [![Practice][p]](https://www.fastprep.io/problems/ibm-maximize-consecutive-xor) | 🆕 Aug 09, 2026 |
 | **IBM** | [Count Digit Holes](https://www.fastprep.io/problems/ibm-count-digit-holes) | [![Practice][p]](https://www.fastprep.io/problems/ibm-count-digit-holes) | 🆕 Aug 09, 2026 |
 | **TikTok** | [Distribution Center Package Allocation](https://www.fastprep.io/problems/tiktok-distribution-center-package-allocation) | [![Practice][p]](https://www.fastprep.io/problems/tiktok-distribution-center-package-allocation) | 🆕 Aug 05, 2026 |
@@ -124,10 +127,13 @@
 | **TikTok** | [Minimum Operations for Stepwise Structures](https://www.fastprep.io/problems/tiktok-minimum-operations-for-stepwise-structures) | [![Practice][p]](https://www.fastprep.io/problems/tiktok-minimum-operations-for-stepwise-structures) | 🆕 Aug 05, 2026 |
 | **TikTok** | [Rating Level After Changes](https://www.fastprep.io/problems/tiktok-rating-level-after-changes) | [![Practice][p]](https://www.fastprep.io/problems/tiktok-rating-level-after-changes) | 🆕 Aug 05, 2026 |
 | **TikTok** | [Space Station Shuttle Missions](https://www.fastprep.io/problems/tiktok-space-station-shuttle-missions) | [![Practice][p]](https://www.fastprep.io/problems/tiktok-space-station-shuttle-missions) | 🆕 Aug 05, 2026 |
+| **IMC** | [Weighted LFU Cache](https://www.fastprep.io/problems/imc-weighted-lfu-cache) | [![Practice][p]](https://www.fastprep.io/problems/imc-weighted-lfu-cache) | 🆕 Aug 05, 2026 |
 | **TikTok** | [Count Case-Insensitive Triplets](https://www.fastprep.io/problems/tiktok-count-case-insensitive-triplets) | [![Practice][p]](https://www.fastprep.io/problems/tiktok-count-case-insensitive-triplets) | 🆕 Aug 04, 2026 |
 | **TikTok** | [Linear Warehouse Drone Delivery](https://www.fastprep.io/problems/tiktok-linear-warehouse-drone-delivery) | [![Practice][p]](https://www.fastprep.io/problems/tiktok-linear-warehouse-drone-delivery) | 🆕 Aug 04, 2026 |
 | **Capital One** | [Obstacle Placement Queries](https://www.fastprep.io/problems/capital-one-obstacle-placement-queries) | [![Practice][p]](https://www.fastprep.io/problems/capital-one-obstacle-placement-queries) | 🆕 Aug 04, 2026 |
 | **TikTok** | [Product Minus Sum of Digits](https://www.fastprep.io/problems/tiktok-product-minus-sum-of-digits) | [![Practice][p]](https://www.fastprep.io/problems/tiktok-product-minus-sum-of-digits) | 🆕 Aug 04, 2026 |
+| **IMC** | [Chain of Command](https://www.fastprep.io/problems/imc-chain-of-command) | [![Practice][p]](https://www.fastprep.io/problems/imc-chain-of-command) | 🆕 Aug 04, 2026 |
+| **IMC** | [Choose Containers](https://www.fastprep.io/problems/imc-choose-containers) | [![Practice][p]](https://www.fastprep.io/problems/imc-choose-containers) | 🆕 Aug 04, 2026 |
 | **HSBC** | [Minimum Satellite Data Transfer Iterations](https://www.fastprep.io/problems/hsbc-minimum-satellite-transfer-iterations) | [![Practice][p]](https://www.fastprep.io/problems/hsbc-minimum-satellite-transfer-iterations) | 🆕 Aug 03, 2026 |
 | **HSBC** | [Organization Reputation After Employee Departures](https://www.fastprep.io/problems/hsbc-organization-reputation-after-departures) | [![Practice][p]](https://www.fastprep.io/problems/hsbc-organization-reputation-after-departures) | 🆕 Aug 03, 2026 |
 | **HSBC** | [Remove Vowels from a String](https://www.fastprep.io/problems/hsbc-remove-vowels) | [![Practice][p]](https://www.fastprep.io/problems/hsbc-remove-vowels) | 🆕 Aug 03, 2026 |
@@ -258,8 +264,6 @@
 | **Visa** | [Signal Pings](https://www.fastprep.io/problems/visa-signal-pings) | [![Practice][p]](https://www.fastprep.io/problems/visa-signal-pings) | 🆕 Jul 23, 2026 |
 | **Visa** | [Sum of Index-Ordered Pair Differences](https://www.fastprep.io/problems/visa-sum-of-index-pair-differences) | [![Practice][p]](https://www.fastprep.io/problems/visa-sum-of-index-pair-differences) | 🆕 Jul 23, 2026 |
 | **Bloomberg** | [Word Break II](https://www.fastprep.io/problems/bloomberg-word-break-ii) | [![Practice][p]](https://www.fastprep.io/problems/bloomberg-word-break-ii) | 🆕 Jul 22, 2026 |
-| **IMC** | [Rock Jumping](https://www.fastprep.io/problems/imc-rock-jumping) | [![Practice][p]](https://www.fastprep.io/problems/imc-rock-jumping) | 🆕 Jul 22, 2026 |
-| **IMC** | [Stack Batch Removal](https://www.fastprep.io/problems/imc-stack-batch-removal) | [![Practice][p]](https://www.fastprep.io/problems/imc-stack-batch-removal) | 🆕 Jul 22, 2026 |
 | **Microsoft** | [Binary String Swap Time](https://www.fastprep.io/problems/microsoft-binary-string-swap-time) | [![Practice][p]](https://www.fastprep.io/problems/microsoft-binary-string-swap-time) | 🆕 Jul 22, 2026 |
 | **Microsoft** | [Minimum Effort Task Schedule](https://www.fastprep.io/problems/microsoft-minimum-effort-task-schedule) | [![Practice][p]](https://www.fastprep.io/problems/microsoft-minimum-effort-task-schedule) | 🆕 Jul 22, 2026 |
 | **Tekion** | [Longest Balanced Substring After One Swap](https://www.fastprep.io/problems/tekion-longest-balanced-substring-after-one-swap) | [![Practice][p]](https://www.fastprep.io/problems/tekion-longest-balanced-substring-after-one-swap) | 🆕 Jul 22, 2026 |
@@ -413,8 +417,6 @@
 | **Optiver** | [Construct Binary Tree S-Expression](https://www.fastprep.io/problems/optiver-construct-binary-tree-s-expression) | [![Practice][p]](https://www.fastprep.io/problems/optiver-construct-binary-tree-s-expression) | Jul 10, 2026 |
 | **TCS** | [Array Rank Transform](https://www.fastprep.io/problems/tcs-array-rank-transform) | [![Practice][p]](https://www.fastprep.io/problems/tcs-array-rank-transform) | Jul 10, 2026 |
 | **Codeium** | [Biggest Connected Component](https://www.fastprep.io/problems/codeium-biggest-connected-component) | [![Practice][p]](https://www.fastprep.io/problems/codeium-biggest-connected-component) | Jul 10, 2026 |
-| **IMC** | [Chain of Command](https://www.fastprep.io/problems/imc-chain-of-command) | [![Practice][p]](https://www.fastprep.io/problems/imc-chain-of-command) | Jul 10, 2026 |
-| **IMC** | [Choose Containers](https://www.fastprep.io/problems/imc-choose-containers) | [![Practice][p]](https://www.fastprep.io/problems/imc-choose-containers) | Jul 10, 2026 |
 | **Flexport** | [Choose the Next Hidden-Word Guess](https://www.fastprep.io/problems/flexport-next-word-guess) | [![Practice][p]](https://www.fastprep.io/problems/flexport-next-word-guess) | Jul 10, 2026 |
 | **Apple** | [Phone Directory](https://www.fastprep.io/problems/apple-phone-directory) | [![Practice][p]](https://www.fastprep.io/problems/apple-phone-directory) | Jul 10, 2026 |
 | **Okta** | [CD Rental System](https://www.fastprep.io/problems/okta-cd-rental-system) | [![Practice][p]](https://www.fastprep.io/problems/okta-cd-rental-system) | Jul 10, 2026 |
@@ -1733,8 +1735,13 @@
 | **Arcesium** | [Reverse First K Characters in Every 2K Block](https://www.fastprep.io/problems/arcesium-reverse-first-k-every-2k-block) | [![Practice][p]](https://www.fastprep.io/problems/arcesium-reverse-first-k-every-2k-block) | Aug 05, 2023 |
 | **Arcesium** | [Detect a Cycle in Directed Hate Relationships](https://www.fastprep.io/problems/arcesium-detect-cycle-in-directed-hate-graph) | [![Practice][p]](https://www.fastprep.io/problems/arcesium-detect-cycle-in-directed-hate-graph) | Aug 05, 2023 |
 | **Arcesium** | [Robo Data Sharing Direction](https://www.fastprep.io/problems/arcesium-robo-data-sharing-direction) | [![Practice][p]](https://www.fastprep.io/problems/arcesium-robo-data-sharing-direction) | Jul 17, 2023 |
+| **IMC** | [Busy Intersection](https://www.fastprep.io/problems/imc-busy-intersection) | [![Practice][p]](https://www.fastprep.io/problems/imc-busy-intersection) | Mar 27, 2023 |
 | **Odoo** | [Maximum Profit from an Increasing Price Triplet](https://www.fastprep.io/problems/odoo-maximum-profit-increasing-triplet) | [![Practice][p]](https://www.fastprep.io/problems/odoo-maximum-profit-increasing-triplet) | Jan 24, 2023 |
+| **IMC** | [Reaching Points with Perfect-Square Obstacles](https://www.fastprep.io/problems/imc-perfect-square-forbidden-reaching-points) | [![Practice][p]](https://www.fastprep.io/problems/imc-perfect-square-forbidden-reaching-points) | Sep 07, 2022 |
+| **IMC** | [Adding Stack 2.0](https://www.fastprep.io/problems/imc-adding-stack-2-0) | [![Practice][p]](https://www.fastprep.io/problems/imc-adding-stack-2-0) | Sep 24, 2021 |
+| **IMC** | [Knight Minimum Moves with a Fixed Bishop](https://www.fastprep.io/problems/imc-knight-minimum-moves-fixed-bishop) | [![Practice][p]](https://www.fastprep.io/problems/imc-knight-minimum-moves-fixed-bishop) | Sep 24, 2021 |
 | **Arcesium** | [Capital Gains Tax from Trades](https://www.fastprep.io/problems/arcesium-capital-gains-tax-from-trades) | [![Practice][p]](https://www.fastprep.io/problems/arcesium-capital-gains-tax-from-trades) | Feb 23, 2021 |
+| **IMC** | [Hidden Artifacts](https://www.fastprep.io/problems/imc-hidden-artifacts) | [![Practice][p]](https://www.fastprep.io/problems/imc-hidden-artifacts) | Oct 20, 2020 |
 | **Postman** | [Configuration System](https://www.fastprep.io/problems/postman-configuration-system) | [![Practice][p]](https://www.fastprep.io/problems/postman-configuration-system) | Sep 23, 2020 |
 | **Postman** | [Large Responses](https://www.fastprep.io/problems/postman-large-responses) | [![Practice][p]](https://www.fastprep.io/problems/postman-large-responses) | Sep 23, 2020 |
 | **Postman** | [Minimum Swaps to Sort an Array](https://www.fastprep.io/problems/postman-minimum-swaps-to-sort) | [![Practice][p]](https://www.fastprep.io/problems/postman-minimum-swaps-to-sort) | Aug 27, 2020 |
