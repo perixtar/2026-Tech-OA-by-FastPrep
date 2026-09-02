@@ -113,7 +113,7 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 <sub>Newest updates first &nbsp;·&nbsp; 🔥 added in the last 2 weeks &nbsp;·&nbsp; 🆕 in the last 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (1,768)](formats/coding.md) · [SQL (13)](formats/sql.md) · [System design (257)](formats/system-design.md) · [Low-level design (53)](formats/low-level-design.md) · [AI coding (28)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (1,768)](formats/coding.md) · [SQL (13)](formats/sql.md) · [System design (258)](formats/system-design.md) · [Low-level design (53)](formats/low-level-design.md) · [AI coding (28)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 <sub>System design, low-level design/OOD, and AI coding rows sync hourly from FastPrep's public, candidate-safe catalogs. <b>Updated</b> uses the latest reported sighting when available, otherwise the first public sync date. <b>Unattributed</b> means no source-backed employer was reported.</sub>
@@ -2223,6 +2223,7 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 | **Skyscanner** | [Design Flight Price Threshold Alerts](https://www.fastprep.io/system-design/flight-price-threshold-alerts) | System design | [![Practice][p]](https://www.fastprep.io/system-design/flight-price-threshold-alerts) | Jun 10, 2022 |
 | **Grubhub** | [Design a Restaurant Menu Catalog Service](https://www.fastprep.io/system-design/restaurant-menu-catalog-service) | System design | [![Practice][p]](https://www.fastprep.io/system-design/restaurant-menu-catalog-service) | Mar 26, 2022 |
 | **Grubhub** | [Air Traffic Control System](https://www.fastprep.io/low-level-design/air-traffic-control-system) | Low-level design | [![Practice][p]](https://www.fastprep.io/low-level-design/air-traffic-control-system) | Mar 26, 2022 |
+| **Fivetran** | [Design a Parking Lot Operations System](https://www.fastprep.io/system-design/parking-lot-operations-system) | System design | [![Practice][p]](https://www.fastprep.io/system-design/parking-lot-operations-system) | Feb 23, 2022 |
 | **Yelp** | [Design a Priority Venue Invitation Platform](https://www.fastprep.io/system-design/priority-venue-invitation-platform) | System design | [![Practice][p]](https://www.fastprep.io/system-design/priority-venue-invitation-platform) | Nov 19, 2021 |
 | **IMC** | [Adding Stack 2.0](https://www.fastprep.io/problems/imc-adding-stack-2-0) | Coding | [![Practice][p]](https://www.fastprep.io/problems/imc-adding-stack-2-0) | Sep 24, 2021 |
 | **IMC** | [Knight Minimum Moves with a Fixed Bishop](https://www.fastprep.io/problems/imc-knight-minimum-moves-fixed-bishop) | Coding | [![Practice][p]](https://www.fastprep.io/problems/imc-knight-minimum-moves-fixed-bishop) | Sep 24, 2021 |

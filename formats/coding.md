@@ -2,13 +2,18 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**1,763 questions**
+**1,768 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
 | **Roblox** | [Rate Limiter Sliding Window With Per-Entity Limits](https://www.fastprep.io/problems/roblox-rate-limiter-sliding-window-per-entity) | [![Practice][p]](https://www.fastprep.io/problems/roblox-rate-limiter-sliding-window-per-entity) | 🔥 Sep 02, 2026 |
+| **Millennium** | [Calculate the Half Spread](https://www.fastprep.io/problems/millennium-calculate-half-spread) | [![Practice][p]](https://www.fastprep.io/problems/millennium-calculate-half-spread) | 🔥 Sep 02, 2026 |
+| **Millennium** | [Quote One Request](https://www.fastprep.io/problems/millennium-quote-one-request) | [![Practice][p]](https://www.fastprep.io/problems/millennium-quote-one-request) | 🔥 Sep 02, 2026 |
+| **Millennium** | [Debug the Impact Model](https://www.fastprep.io/problems/millennium-debug-impact-model) | [![Practice][p]](https://www.fastprep.io/problems/millennium-debug-impact-model) | 🔥 Sep 02, 2026 |
+| **Millennium** | [Risk Limits and Inventory Skew](https://www.fastprep.io/problems/millennium-risk-limits-and-skew) | [![Practice][p]](https://www.fastprep.io/problems/millennium-risk-limits-and-skew) | 🔥 Sep 02, 2026 |
+| **Millennium** | [Debug the Risk-Limit Quoter](https://www.fastprep.io/problems/millennium-debug-risk-limit-quoter) | [![Practice][p]](https://www.fastprep.io/problems/millennium-debug-risk-limit-quoter) | 🔥 Sep 02, 2026 |
 | **Goldman Sachs** | [Maximize Element Frequency](https://www.fastprep.io/problems/goldman-sachs-maximize-element-frequency) | [![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-maximize-element-frequency) | 🔥 Sep 01, 2026 |
 | **Goldman Sachs** | [Notification Deduplication Window](https://www.fastprep.io/problems/goldman-sachs-notification-deduplication) | [![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-notification-deduplication) | 🔥 Sep 01, 2026 |
 | **Stripe** | [Request Routing System](https://www.fastprep.io/problems/stripe-request-routing-system) | [![Practice][p]](https://www.fastprep.io/problems/stripe-request-routing-system) | 🔥 Sep 01, 2026 |
