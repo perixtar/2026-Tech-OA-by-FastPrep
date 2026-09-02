@@ -2,12 +2,20 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**1,808 questions**
+**1,815 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+| **Visa** | [Collect Branches for a Bird Nest](https://www.fastprep.io/problems/visa-collect-branches-for-nest) | [![Practice][p]](https://www.fastprep.io/problems/visa-collect-branches-for-nest) | 🔥 Aug 31, 2026 |
+| **Visa** | [Count Reverse-Digit Pairs](https://www.fastprep.io/problems/visa-count-reverse-digit-pairs) | [![Practice][p]](https://www.fastprep.io/problems/visa-count-reverse-digit-pairs) | 🔥 Aug 31, 2026 |
+| **Akuna Capital** | [Minimum Swaps](https://www.fastprep.io/problems/akuna-minimum-swaps) | [![Practice][p]](https://www.fastprep.io/problems/akuna-minimum-swaps) | 🔥 Aug 31, 2026 |
+| **Akuna Capital** | [Vowel Substring Game](https://www.fastprep.io/problems/akuna-vowel-substring-game) | [![Practice][p]](https://www.fastprep.io/problems/akuna-vowel-substring-game) | 🔥 Aug 31, 2026 |
+| **Akuna Capital** | [Minimum Absolute Difference Pairs](https://www.fastprep.io/problems/akuna-minimum-absolute-difference-pairs) | [![Practice][p]](https://www.fastprep.io/problems/akuna-minimum-absolute-difference-pairs) | 🔥 Aug 31, 2026 |
+| **Rippling** | [Server Management](https://www.fastprep.io/problems/rippling-server-management) | [![Practice][p]](https://www.fastprep.io/problems/rippling-server-management) | 🔥 Aug 31, 2026 |
+| **Rippling** | [Costliest Chocolate](https://www.fastprep.io/problems/rippling-costliest-chocolate) | [![Practice][p]](https://www.fastprep.io/problems/rippling-costliest-chocolate) | 🔥 Aug 31, 2026 |
+| **Rippling** | [Consistent Logs](https://www.fastprep.io/problems/rippling-consistent-logs) | [![Practice][p]](https://www.fastprep.io/problems/rippling-consistent-logs) | 🔥 Aug 31, 2026 |
 | **DRW** | [Largest Number With Even Digit Frequencies](https://www.fastprep.io/problems/drw-largest-number-even-digit-frequencies) | [![Practice][p]](https://www.fastprep.io/problems/drw-largest-number-even-digit-frequencies) | 🔥 Aug 29, 2026 |
 | **DRW** | [Count Balanced Nodes in a Rooted Tree](https://www.fastprep.io/problems/drw-count-balanced-tree-nodes) | [![Practice][p]](https://www.fastprep.io/problems/drw-count-balanced-tree-nodes) | 🔥 Aug 29, 2026 |
 | **DRW** | [Shortest Path Around Rectangular Obstacles](https://www.fastprep.io/problems/drw-shortest-path-rectangular-obstacles) | [![Practice][p]](https://www.fastprep.io/problems/drw-shortest-path-rectangular-obstacles) | 🔥 Aug 29, 2026 |
@@ -24,6 +32,7 @@
 | **Roblox** | [Count House Segments After Destruction](https://www.fastprep.io/problems/roblox-count-house-segments-after-destruction) | [![Practice][p]](https://www.fastprep.io/problems/roblox-count-house-segments-after-destruction) | 🔥 Aug 29, 2026 |
 | **IBM** | [Plus Mult Array](https://www.fastprep.io/problems/ibm-plus-mult-array) | [![Practice][p]](https://www.fastprep.io/problems/ibm-plus-mult-array) | 🔥 Aug 29, 2026 |
 | **IBM** | [Get Maximum Amount](https://www.fastprep.io/problems/ibm-get-maximum-amount) | [![Practice][p]](https://www.fastprep.io/problems/ibm-get-maximum-amount) | 🔥 Aug 29, 2026 |
+| **Goldman Sachs** | [Palindrome Counter](https://www.fastprep.io/problems/count-palindromes) | [![Practice][p]](https://www.fastprep.io/problems/count-palindromes) | 🔥 Aug 29, 2026 |
 | **Amazon** | [Minimum Grid Inconvenience](https://www.fastprep.io/problems/amazon-minimum-grid-inconvenience) | [![Practice][p]](https://www.fastprep.io/problems/amazon-minimum-grid-inconvenience) | 🔥 Aug 28, 2026 |
 | **Goldman Sachs** | [Maximize Element Frequency](https://www.fastprep.io/problems/goldman-sachs-maximize-element-frequency) | [![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-maximize-element-frequency) | 🔥 Aug 28, 2026 |
 | **Goldman Sachs** | [Notification Deduplication Window](https://www.fastprep.io/problems/goldman-sachs-notification-deduplication) | [![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-notification-deduplication) | 🔥 Aug 28, 2026 |
@@ -98,8 +107,8 @@
 | **Meta** | [Minimum-Sum Root-to-Leaf Path](https://www.fastprep.io/problems/meta-minimum-sum-root-to-leaf-path) | [![Practice][p]](https://www.fastprep.io/problems/meta-minimum-sum-root-to-leaf-path) | 🔥 Aug 20, 2026 |
 | **Nuro** | [Schedule Buffered Video Playback](https://www.fastprep.io/problems/nuro-schedule-buffered-video-playback) | [![Practice][p]](https://www.fastprep.io/problems/nuro-schedule-buffered-video-playback) | 🔥 Aug 20, 2026 |
 | **Nuro** | [Reveal a Minesweeper Region](https://www.fastprep.io/problems/nuro-reveal-minesweeper-region) | [![Practice][p]](https://www.fastprep.io/problems/nuro-reveal-minesweeper-region) | 🔥 Aug 20, 2026 |
-| **IBM** | [Count Invalid Log Groups](https://www.fastprep.io/problems/ibm-count-invalid-log-groups) | [![Practice][p]](https://www.fastprep.io/problems/ibm-count-invalid-log-groups) | 🔥 Aug 18, 2026 |
-| **IBM** | [Count Paginated Medical Records in a Range](https://www.fastprep.io/problems/ibm-count-paginated-medical-records-in-range) | [![Practice][p]](https://www.fastprep.io/problems/ibm-count-paginated-medical-records-in-range) | 🔥 Aug 18, 2026 |
+| **IBM** | [Count Invalid Log Groups](https://www.fastprep.io/problems/ibm-count-invalid-log-groups) | [![Practice][p]](https://www.fastprep.io/problems/ibm-count-invalid-log-groups) | 🆕 Aug 18, 2026 |
+| **IBM** | [Count Paginated Medical Records in a Range](https://www.fastprep.io/problems/ibm-count-paginated-medical-records-in-range) | [![Practice][p]](https://www.fastprep.io/problems/ibm-count-paginated-medical-records-in-range) | 🆕 Aug 18, 2026 |
 | **IBM** | [Maximize Consecutive XOR](https://www.fastprep.io/problems/ibm-maximize-consecutive-xor) | [![Practice][p]](https://www.fastprep.io/problems/ibm-maximize-consecutive-xor) | 🆕 Aug 09, 2026 |
 | **IBM** | [Count Digit Holes](https://www.fastprep.io/problems/ibm-count-digit-holes) | [![Practice][p]](https://www.fastprep.io/problems/ibm-count-digit-holes) | 🆕 Aug 09, 2026 |
 | **TikTok** | [Distribution Center Package Allocation](https://www.fastprep.io/problems/tiktok-distribution-center-package-allocation) | [![Practice][p]](https://www.fastprep.io/problems/tiktok-distribution-center-package-allocation) | 🆕 Aug 05, 2026 |
@@ -283,11 +292,11 @@
 | **Capital One** | [Sort Every Matrix Border Layer](https://www.fastprep.io/problems/capital-one-sort-matrix-border-layers) | [![Practice][p]](https://www.fastprep.io/problems/capital-one-sort-matrix-border-layers) | 🆕 Jul 19, 2026 |
 | **Capital One** | [Round-Robin WDL Order](https://www.fastprep.io/problems/capital-one-round-robin-wdl-order) | [![Practice][p]](https://www.fastprep.io/problems/capital-one-round-robin-wdl-order) | 🆕 Jul 19, 2026 |
 | **Waymo** | [Average or Zero](https://www.fastprep.io/problems/waymo-average-or-zero) | [![Practice][p]](https://www.fastprep.io/problems/waymo-average-or-zero) | 🆕 Jul 19, 2026 |
-| **Visa** | [Minimum Score of a Path Between Cities](https://www.fastprep.io/problems/visa-minimum-score-path-between-cities) | [![Practice][p]](https://www.fastprep.io/problems/visa-minimum-score-path-between-cities) | 🆕 Jul 18, 2026 |
-| **IDFC** | [Smallest Adjacent Concatenation](https://www.fastprep.io/problems/idfc-smallest-adjacent-concatenation) | [![Practice][p]](https://www.fastprep.io/problems/idfc-smallest-adjacent-concatenation) | 🆕 Jul 18, 2026 |
-| **IDFC** | [Minimum Cake Cuts](https://www.fastprep.io/problems/idfc-minimum-cake-cuts) | [![Practice][p]](https://www.fastprep.io/problems/idfc-minimum-cake-cuts) | 🆕 Jul 18, 2026 |
-| **Goldman Sachs** | [Inherited Role Permissions](https://www.fastprep.io/problems/goldman-sachs-role-permissions) | [![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-role-permissions) | 🆕 Jul 17, 2026 |
-| **Goldman Sachs** | [Root of the Largest Tree](https://www.fastprep.io/problems/goldman-sachs-largest-tree-root) | [![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-largest-tree-root) | 🆕 Jul 17, 2026 |
+| **Visa** | [Minimum Score of a Path Between Cities](https://www.fastprep.io/problems/visa-minimum-score-path-between-cities) | [![Practice][p]](https://www.fastprep.io/problems/visa-minimum-score-path-between-cities) | Jul 18, 2026 |
+| **IDFC** | [Smallest Adjacent Concatenation](https://www.fastprep.io/problems/idfc-smallest-adjacent-concatenation) | [![Practice][p]](https://www.fastprep.io/problems/idfc-smallest-adjacent-concatenation) | Jul 18, 2026 |
+| **IDFC** | [Minimum Cake Cuts](https://www.fastprep.io/problems/idfc-minimum-cake-cuts) | [![Practice][p]](https://www.fastprep.io/problems/idfc-minimum-cake-cuts) | Jul 18, 2026 |
+| **Goldman Sachs** | [Inherited Role Permissions](https://www.fastprep.io/problems/goldman-sachs-role-permissions) | [![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-role-permissions) | Jul 17, 2026 |
+| **Goldman Sachs** | [Root of the Largest Tree](https://www.fastprep.io/problems/goldman-sachs-largest-tree-root) | [![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-largest-tree-root) | Jul 17, 2026 |
 | **Microsoft** | [Alphabetically Smallest Palindrome](https://www.fastprep.io/problems/microsoft-alphabetically-smallest-palindrome) | [![Practice][p]](https://www.fastprep.io/problems/microsoft-alphabetically-smallest-palindrome) | Jul 16, 2026 |
 | **Microsoft** | [Maximum Reward Points](https://www.fastprep.io/problems/microsoft-get-maximum-reward-points) | [![Practice][p]](https://www.fastprep.io/problems/microsoft-get-maximum-reward-points) | Jul 16, 2026 |
 | **Zomato / Eternal** | [Robot Warehouse Optimization](https://www.fastprep.io/problems/zomato-robot-warehouse-optimization) | [![Practice][p]](https://www.fastprep.io/problems/zomato-robot-warehouse-optimization) | Jul 16, 2026 |
@@ -295,7 +304,6 @@
 | **Google** | [Count Element Symbol Decompositions](https://www.fastprep.io/problems/google-count-element-symbol-decompositions) | [![Practice][p]](https://www.fastprep.io/problems/google-count-element-symbol-decompositions) | Jul 15, 2026 |
 | **Google** | [Convert Snake Case to Camel Case](https://www.fastprep.io/problems/google-convert-snake-case-to-camel-case) | [![Practice][p]](https://www.fastprep.io/problems/google-convert-snake-case-to-camel-case) | Jul 15, 2026 |
 | **Uber** | [Last Truck to Leave the Lane](https://www.fastprep.io/problems/uber-last-truck-to-leave-the-lane) | [![Practice][p]](https://www.fastprep.io/problems/uber-last-truck-to-leave-the-lane) | Jul 15, 2026 |
-| **Akuna** | [Minimum Swaps](https://www.fastprep.io/problems/akuna-minimum-swaps) | [![Practice][p]](https://www.fastprep.io/problems/akuna-minimum-swaps) | Jul 15, 2026 |
 | **Citadel** | [Minimum Changes for a Periodic Palindrome](https://www.fastprep.io/problems/citadel-minimum-changes-periodic-palindrome) | [![Practice][p]](https://www.fastprep.io/problems/citadel-minimum-changes-periodic-palindrome) | Jul 15, 2026 |
 | **Citadel** | [Minimum Image Processing Cost](https://www.fastprep.io/problems/citadel-minimum-image-processing-cost) | [![Practice][p]](https://www.fastprep.io/problems/citadel-minimum-image-processing-cost) | Jul 15, 2026 |
 | **IBM** | [Count Strictly Increasing Subsequences of Length 3](https://www.fastprep.io/problems/ibm-count-increasing-subsequences-length-three) | [![Practice][p]](https://www.fastprep.io/problems/ibm-count-increasing-subsequences-length-three) | Jul 15, 2026 |
@@ -1745,7 +1753,6 @@
 | **Goldman Sachs** | [Compare Strings](https://www.fastprep.io/problems/compare-strings) | [![Practice][p]](https://www.fastprep.io/problems/compare-strings) | Jan 09, 2024 |
 | **Goldman Sachs** | [Plus Mult Array](https://www.fastprep.io/problems/plus-mult-array) | [![Practice][p]](https://www.fastprep.io/problems/plus-mult-array) | Jan 09, 2024 |
 | **Goldman Sachs** | [Better Compression](https://www.fastprep.io/problems/better-compression) | [![Practice][p]](https://www.fastprep.io/problems/better-compression) | Jan 09, 2024 |
-| **Goldman Sachs** | [Count Palindromes](https://www.fastprep.io/problems/count-palindromes) | [![Practice][p]](https://www.fastprep.io/problems/count-palindromes) | Jan 09, 2024 |
 | **Goldman Sachs** | [Encircular](https://www.fastprep.io/problems/encircular) | [![Practice][p]](https://www.fastprep.io/problems/encircular) | Jan 09, 2024 |
 | **Goldman Sachs** | [Project Estimates](https://www.fastprep.io/problems/project-estimates) | [![Practice][p]](https://www.fastprep.io/problems/project-estimates) | Jan 09, 2024 |
 | **Goldman Sachs** | [Cutting Metal Surplux](https://www.fastprep.io/problems/cutting-metal-surplus) | [![Practice][p]](https://www.fastprep.io/problems/cutting-metal-surplus) | Jan 09, 2024 |
