@@ -2,12 +2,14 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**51 questions**
+**53 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+| **Uber Freight** | [Design an In-Memory File System](https://www.fastprep.io/low-level-design/in-memory-file-system) | [![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-file-system) | 🔥 Aug 31, 2026 |
+| **OpenAI** | [Design a Multi-Channel Bot Notification Service](https://www.fastprep.io/low-level-design/multi-channel-bot-notification-service) | [![Practice][p]](https://www.fastprep.io/low-level-design/multi-channel-bot-notification-service) | 🔥 Aug 31, 2026 |
 | **Uber** | [Design and Implement Ride Dispatch and Trip Lifecycle](https://www.fastprep.io/low-level-design/ride-hailing-dispatch-and-trip-lifecycle) | [![Practice][p]](https://www.fastprep.io/low-level-design/ride-hailing-dispatch-and-trip-lifecycle) | 🔥 Aug 29, 2026 |
 | **ClearTax** | [Design a Movie Ticket Booking System](https://www.fastprep.io/low-level-design/movie-ticket-booking-system) | [![Practice][p]](https://www.fastprep.io/low-level-design/movie-ticket-booking-system) | 🔥 Aug 29, 2026 |
 | **Amazon / Omnissa** | [Design an Extensible Multi-Channel Alerting Platform](https://www.fastprep.io/low-level-design/extensible-multi-channel-alerting-platform) | [![Practice][p]](https://www.fastprep.io/low-level-design/extensible-multi-channel-alerting-platform) | 🔥 Aug 28, 2026 |
@@ -18,10 +20,9 @@
 | **Walmart** | [Design a Job Marketplace Domain](https://www.fastprep.io/low-level-design/job-marketplace-person-job-domain) | [![Practice][p]](https://www.fastprep.io/low-level-design/job-marketplace-person-job-domain) | 🔥 Aug 23, 2026 |
 | **Tekion** | [Design a Workflow Orchestrator Domain](https://www.fastprep.io/low-level-design/workflow-orchestration-domain) | [![Practice][p]](https://www.fastprep.io/low-level-design/workflow-orchestration-domain) | 🔥 Aug 23, 2026 |
 | **Netflix** | [Design a Parking Lot with Flexible Fees](https://www.fastprep.io/low-level-design/parking-lot-with-flexible-fees) | [![Practice][p]](https://www.fastprep.io/low-level-design/parking-lot-with-flexible-fees) | 🔥 Aug 21, 2026 |
-| **Uber Freight** | [Design an In-Memory File System](https://www.fastprep.io/low-level-design/in-memory-file-system) | [![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-file-system) | 🔥 Aug 21, 2026 |
 | **Micro1** | [Design an In-Memory Action Rate Limiter](https://www.fastprep.io/low-level-design/in-memory-action-rate-limiter) | [![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-action-rate-limiter) | 🔥 Aug 19, 2026 |
 | **Micro1** | [Design an In-Memory Read-Through Cache](https://www.fastprep.io/low-level-design/in-memory-read-through-cache) | [![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-read-through-cache) | 🔥 Aug 19, 2026 |
-| **Amazon** | [Design a Playlist Source Mixer](https://www.fastprep.io/low-level-design/playlist-source-mixer) | [![Practice][p]](https://www.fastprep.io/low-level-design/playlist-source-mixer) | 🔥 Aug 18, 2026 |
+| **Amazon** | [Design a Playlist Source Mixer](https://www.fastprep.io/low-level-design/playlist-source-mixer) | [![Practice][p]](https://www.fastprep.io/low-level-design/playlist-source-mixer) | 🆕 Aug 18, 2026 |
 | **Microsoft** | [Desktop Notification Center](https://www.fastprep.io/low-level-design/desktop-notification-center) | [![Practice][p]](https://www.fastprep.io/low-level-design/desktop-notification-center) | 🆕 Aug 15, 2026 |
 | **Shopify** | [Design an Extensible Text Editor](https://www.fastprep.io/low-level-design/extensible-text-editor) | [![Practice][p]](https://www.fastprep.io/low-level-design/extensible-text-editor) | 🆕 Aug 12, 2026 |
 | **Amazon** | [Design a Multi-Stage Audio Buffer Pipeline](https://www.fastprep.io/low-level-design/multi-stage-audio-buffer-pipeline) | [![Practice][p]](https://www.fastprep.io/low-level-design/multi-stage-audio-buffer-pipeline) | 🆕 Aug 12, 2026 |
@@ -29,7 +30,7 @@
 | **Pinterest** | [Design a Blackjack Table Game](https://www.fastprep.io/low-level-design/blackjack-table-game) | [![Practice][p]](https://www.fastprep.io/low-level-design/blackjack-table-game) | 🆕 Aug 10, 2026 |
 | **Adobe** | [Design Infinite Scroll for Mutable Data](https://www.fastprep.io/low-level-design/adobe-mutable-infinite-scroll) | [![Practice][p]](https://www.fastprep.io/low-level-design/adobe-mutable-infinite-scroll) | 🆕 Aug 09, 2026 |
 | **Adobe** | [Design a Promotion Display Decision Engine](https://www.fastprep.io/low-level-design/promotion-display-decision-engine) | [![Practice][p]](https://www.fastprep.io/low-level-design/promotion-display-decision-engine) | 🆕 Aug 09, 2026 |
-| **Amazon / Wayfair** | [Design a Multi-Floor Parking Lot](https://www.fastprep.io/low-level-design/multi-floor-parking-lot) | [![Practice][p]](https://www.fastprep.io/low-level-design/multi-floor-parking-lot) | 🆕 Aug 06, 2026 |
+| **Amazon / Goldman Sachs / Wayfair** | [Design a Multi-Floor Parking Lot](https://www.fastprep.io/low-level-design/multi-floor-parking-lot) | [![Practice][p]](https://www.fastprep.io/low-level-design/multi-floor-parking-lot) | 🆕 Aug 06, 2026 |
 | **Asana** | [Design a Rectangular Jigsaw Puzzle](https://www.fastprep.io/low-level-design/rectangular-jigsaw-puzzle) | [![Practice][p]](https://www.fastprep.io/low-level-design/rectangular-jigsaw-puzzle) | 🆕 Aug 02, 2026 |
 | **Susquehanna International Group** | [Design a Cash Register with Inventory and Profit Tracking](https://www.fastprep.io/low-level-design/cash-register-inventory-and-profit) | [![Practice][p]](https://www.fastprep.io/low-level-design/cash-register-inventory-and-profit) | 🆕 Jul 30, 2026 |
 | **Amazon** | [Design a Database Partition Split-and-Merge Manager](https://www.fastprep.io/low-level-design/database-partition-split-and-merge-manager) | [![Practice][p]](https://www.fastprep.io/low-level-design/database-partition-split-and-merge-manager) | 🆕 Jul 30, 2026 |
@@ -42,8 +43,9 @@
 | **Tekion** | [Design a Configurable Logging Framework](https://www.fastprep.io/low-level-design/logging-framework) | [![Practice][p]](https://www.fastprep.io/low-level-design/logging-framework) | 🆕 Jul 24, 2026 |
 | **Amazon** | [Design Music Search, Playlists, and Playback](https://www.fastprep.io/low-level-design/amazon-music-search-and-playback) | [![Practice][p]](https://www.fastprep.io/low-level-design/amazon-music-search-and-playback) | 🆕 Jul 21, 2026 |
 | **Meta** | [Design and Implement an In-Memory Tally Service](https://www.fastprep.io/low-level-design/meta-tally-service) | [![Practice][p]](https://www.fastprep.io/low-level-design/meta-tally-service) | 🆕 Jul 20, 2026 |
-| **Unattributed** | [Design and Implement a Pluggable Notification Rate Limiter](https://www.fastprep.io/low-level-design/pluggable-notification-rate-limiter) | [![Practice][p]](https://www.fastprep.io/low-level-design/pluggable-notification-rate-limiter) | 🆕 Jul 18, 2026 |
-| **Adobe** | [Design Network-Backed Search Suggestions](https://www.fastprep.io/low-level-design/adobe-network-search-suggestions) | [![Practice][p]](https://www.fastprep.io/low-level-design/adobe-network-search-suggestions) | 🆕 Jul 17, 2026 |
+| **Unattributed** | [Design and Implement a Pluggable Notification Rate Limiter](https://www.fastprep.io/low-level-design/pluggable-notification-rate-limiter) | [![Practice][p]](https://www.fastprep.io/low-level-design/pluggable-notification-rate-limiter) | Jul 18, 2026 |
+| **Adobe** | [Design Network-Backed Search Suggestions](https://www.fastprep.io/low-level-design/adobe-network-search-suggestions) | [![Practice][p]](https://www.fastprep.io/low-level-design/adobe-network-search-suggestions) | Jul 17, 2026 |
+| **Goldman Sachs** | [Design a Brokerage Order Processing Domain](https://www.fastprep.io/low-level-design/brokerage-order-processing-domain) | [![Practice][p]](https://www.fastprep.io/low-level-design/brokerage-order-processing-domain) | Jun 21, 2026 |
 | **Anduril** | [Design and Implement a Doubly Linked List](https://www.fastprep.io/low-level-design/doubly-linked-list-object-design) | [![Practice][p]](https://www.fastprep.io/low-level-design/doubly-linked-list-object-design) | May 12, 2026 |
 | **Razorpay** | [Design and Implement an ATM Machine](https://www.fastprep.io/low-level-design/atm-machine-domain) | [![Practice][p]](https://www.fastprep.io/low-level-design/atm-machine-domain) | Feb 02, 2026 |
 | **Workday** | [Design a Payments and Cards Domain](https://www.fastprep.io/low-level-design/payments-and-cards-domain) | [![Practice][p]](https://www.fastprep.io/low-level-design/payments-and-cards-domain) | Dec 18, 2025 |
