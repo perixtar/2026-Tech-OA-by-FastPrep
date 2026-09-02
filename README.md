@@ -113,7 +113,7 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 <sub>Newest updates first &nbsp;·&nbsp; 🔥 added in the last 2 weeks &nbsp;·&nbsp; 🆕 in the last 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (1,770)](formats/coding.md) · [SQL (13)](formats/sql.md) · [System design (258)](formats/system-design.md) · [Low-level design (53)](formats/low-level-design.md) · [AI coding (28)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (1,771)](formats/coding.md) · [SQL (13)](formats/sql.md) · [System design (258)](formats/system-design.md) · [Low-level design (53)](formats/low-level-design.md) · [AI coding (28)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 <sub>System design, low-level design/OOD, and AI coding rows sync hourly from FastPrep's public, candidate-safe catalogs. <b>Updated</b> uses the latest reported sighting when available, otherwise the first public sync date. <b>Unattributed</b> means no source-backed employer was reported.</sub>
@@ -1250,6 +1250,7 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 | **PayPay** | [Calculate Change](https://www.fastprep.io/problems/paypay-calculate-change) | Coding | [![Practice][p]](https://www.fastprep.io/problems/paypay-calculate-change) | Jun 18, 2025 |
 | **PayPay** | [Find Maximum Two-Digit Fragment](https://www.fastprep.io/problems/paypay-find-maximum-two-digit-fragment) | Coding | [![Practice][p]](https://www.fastprep.io/problems/paypay-find-maximum-two-digit-fragment) | Jun 18, 2025 |
 | **Amazon** | [Find Hash](https://www.fastprep.io/problems/amazon-find-hash) | Coding | [![Practice][p]](https://www.fastprep.io/problems/amazon-find-hash) | Jun 12, 2025 |
+| **Fivetran** | [Aladdin and the Magic Carpet](https://www.fastprep.io/problems/fivetran-aladdin-and-the-magic-carpet) | Coding | [![Practice][p]](https://www.fastprep.io/problems/fivetran-aladdin-and-the-magic-carpet) | Jun 12, 2025 |
 | **Postman** | [Design a Threaded Comment System with User Tags](https://www.fastprep.io/low-level-design/threaded-comment-system-with-user-tags) | Low-level design | [![Practice][p]](https://www.fastprep.io/low-level-design/threaded-comment-system-with-user-tags) | Jun 07, 2025 |
 | **Postman** | [Design an Annotated Comment Thread System](https://www.fastprep.io/low-level-design/annotated-comment-thread-system) | Low-level design | [![Practice][p]](https://www.fastprep.io/low-level-design/annotated-comment-thread-system) | Jun 07, 2025 |
 | **Amazon** | [Find Minimum Days](https://www.fastprep.io/problems/amazon-find-minimum-days) | Coding | [![Practice][p]](https://www.fastprep.io/problems/amazon-find-minimum-days) | May 31, 2025 |
