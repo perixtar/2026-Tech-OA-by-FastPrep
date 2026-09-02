@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**1,809 questions**
+**1,811 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -10,6 +10,9 @@
 | :-- | :-- | :-: | :-- |
 | **Visa** | [Collect Branches for a Bird Nest](https://www.fastprep.io/problems/visa-collect-branches-for-nest) | [![Practice][p]](https://www.fastprep.io/problems/visa-collect-branches-for-nest) | 🔥 Aug 31, 2026 |
 | **Visa** | [Count Reverse-Digit Pairs](https://www.fastprep.io/problems/visa-count-reverse-digit-pairs) | [![Practice][p]](https://www.fastprep.io/problems/visa-count-reverse-digit-pairs) | 🔥 Aug 31, 2026 |
+| **Akuna Capital** | [Minimum Swaps](https://www.fastprep.io/problems/akuna-minimum-swaps) | [![Practice][p]](https://www.fastprep.io/problems/akuna-minimum-swaps) | 🔥 Aug 31, 2026 |
+| **Akuna Capital** | [Vowel Substring Game](https://www.fastprep.io/problems/akuna-vowel-substring-game) | [![Practice][p]](https://www.fastprep.io/problems/akuna-vowel-substring-game) | 🔥 Aug 31, 2026 |
+| **Akuna Capital** | [Minimum Absolute Difference Pairs](https://www.fastprep.io/problems/akuna-minimum-absolute-difference-pairs) | [![Practice][p]](https://www.fastprep.io/problems/akuna-minimum-absolute-difference-pairs) | 🔥 Aug 31, 2026 |
 | **DRW** | [Largest Number With Even Digit Frequencies](https://www.fastprep.io/problems/drw-largest-number-even-digit-frequencies) | [![Practice][p]](https://www.fastprep.io/problems/drw-largest-number-even-digit-frequencies) | 🔥 Aug 29, 2026 |
 | **DRW** | [Count Balanced Nodes in a Rooted Tree](https://www.fastprep.io/problems/drw-count-balanced-tree-nodes) | [![Practice][p]](https://www.fastprep.io/problems/drw-count-balanced-tree-nodes) | 🔥 Aug 29, 2026 |
 | **DRW** | [Shortest Path Around Rectangular Obstacles](https://www.fastprep.io/problems/drw-shortest-path-rectangular-obstacles) | [![Practice][p]](https://www.fastprep.io/problems/drw-shortest-path-rectangular-obstacles) | 🔥 Aug 29, 2026 |
@@ -298,7 +301,6 @@
 | **Google** | [Count Element Symbol Decompositions](https://www.fastprep.io/problems/google-count-element-symbol-decompositions) | [![Practice][p]](https://www.fastprep.io/problems/google-count-element-symbol-decompositions) | Jul 15, 2026 |
 | **Google** | [Convert Snake Case to Camel Case](https://www.fastprep.io/problems/google-convert-snake-case-to-camel-case) | [![Practice][p]](https://www.fastprep.io/problems/google-convert-snake-case-to-camel-case) | Jul 15, 2026 |
 | **Uber** | [Last Truck to Leave the Lane](https://www.fastprep.io/problems/uber-last-truck-to-leave-the-lane) | [![Practice][p]](https://www.fastprep.io/problems/uber-last-truck-to-leave-the-lane) | Jul 15, 2026 |
-| **Akuna** | [Minimum Swaps](https://www.fastprep.io/problems/akuna-minimum-swaps) | [![Practice][p]](https://www.fastprep.io/problems/akuna-minimum-swaps) | Jul 15, 2026 |
 | **Citadel** | [Minimum Changes for a Periodic Palindrome](https://www.fastprep.io/problems/citadel-minimum-changes-periodic-palindrome) | [![Practice][p]](https://www.fastprep.io/problems/citadel-minimum-changes-periodic-palindrome) | Jul 15, 2026 |
 | **Citadel** | [Minimum Image Processing Cost](https://www.fastprep.io/problems/citadel-minimum-image-processing-cost) | [![Practice][p]](https://www.fastprep.io/problems/citadel-minimum-image-processing-cost) | Jul 15, 2026 |
 | **IBM** | [Count Strictly Increasing Subsequences of Length 3](https://www.fastprep.io/problems/ibm-count-increasing-subsequences-length-three) | [![Practice][p]](https://www.fastprep.io/problems/ibm-count-increasing-subsequences-length-three) | Jul 15, 2026 |
