@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**1,768 questions**
+**1,771 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -812,6 +812,7 @@
 | **PayPay** | [Calculate Change](https://www.fastprep.io/problems/paypay-calculate-change) | [![Practice][p]](https://www.fastprep.io/problems/paypay-calculate-change) | Jun 18, 2025 |
 | **PayPay** | [Find Maximum Two-Digit Fragment](https://www.fastprep.io/problems/paypay-find-maximum-two-digit-fragment) | [![Practice][p]](https://www.fastprep.io/problems/paypay-find-maximum-two-digit-fragment) | Jun 18, 2025 |
 | **Amazon** | [Find Hash](https://www.fastprep.io/problems/amazon-find-hash) | [![Practice][p]](https://www.fastprep.io/problems/amazon-find-hash) | Jun 12, 2025 |
+| **Fivetran** | [Aladdin and the Magic Carpet](https://www.fastprep.io/problems/fivetran-aladdin-and-the-magic-carpet) | [![Practice][p]](https://www.fastprep.io/problems/fivetran-aladdin-and-the-magic-carpet) | Jun 12, 2025 |
 | **Amazon** | [Find Minimum Days](https://www.fastprep.io/problems/amazon-find-minimum-days) | [![Practice][p]](https://www.fastprep.io/problems/amazon-find-minimum-days) | May 31, 2025 |
 | **Amazon** | [Split Prefix Suffix](https://www.fastprep.io/problems/amazon-split-prefix-suffix) | [![Practice][p]](https://www.fastprep.io/problems/amazon-split-prefix-suffix) | May 31, 2025 |
 | **Amazon** | [Find Minimum Machine Sizes](https://www.fastprep.io/problems/amazon-find-minimum-machines-size) | [![Practice][p]](https://www.fastprep.io/problems/amazon-find-minimum-machines-size) | May 31, 2025 |
@@ -1400,6 +1401,8 @@
 | **Microsoft** | [Skycraper](https://www.fastprep.io/problems/microsoft-skyscraper) | [![Practice][p]](https://www.fastprep.io/problems/microsoft-skyscraper) | Jun 15, 2024 |
 | **Microsoft** | [Min Num Cells](https://www.fastprep.io/problems/microsoft-min-num-letters) | [![Practice][p]](https://www.fastprep.io/problems/microsoft-min-num-letters) | Jun 15, 2024 |
 | **Microsoft** | [Maximum Cells](https://www.fastprep.io/problems/microsoft-maximum-cells) | [![Practice][p]](https://www.fastprep.io/problems/microsoft-maximum-cells) | Jun 15, 2024 |
+| **Fivetran** | [Unique Near-Equal Target-Sum Pairs](https://www.fastprep.io/problems/fivetran-unique-near-equal-target-sum-pairs) | [![Practice][p]](https://www.fastprep.io/problems/fivetran-unique-near-equal-target-sum-pairs) | Jun 13, 2024 |
+| **Fivetran** | [Connected Groups](https://www.fastprep.io/problems/fivetran-connected-groups) | [![Practice][p]](https://www.fastprep.io/problems/fivetran-connected-groups) | Jun 13, 2024 |
 | **Amazon** | [Maximize Subtree Product](https://www.fastprep.io/problems/amazon-maximize-subtree-product) | [![Practice][p]](https://www.fastprep.io/problems/amazon-maximize-subtree-product) | Jun 10, 2024 |
 | **Amazon** | [Bring Servers Down](https://www.fastprep.io/problems/amazon-bring-servers-down) | [![Practice][p]](https://www.fastprep.io/problems/amazon-bring-servers-down) | Jun 10, 2024 |
 | **Snowflake** | [Search Strings](https://www.fastprep.io/problems/snowflake-get-maximum-removals) | [![Practice][p]](https://www.fastprep.io/problems/snowflake-get-maximum-removals) | Jun 10, 2024 |
