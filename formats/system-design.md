@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**261 questions**
+**263 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -12,6 +12,9 @@
 | **OpenAI / The D. E. Shaw Group / Zoox / Salesforce** | [Design an Online Payment Processing System](https://www.fastprep.io/system-design/online-payment-processing-system) | [![Practice][p]](https://www.fastprep.io/system-design/online-payment-processing-system) | 🔥 Sep 02, 2026 |
 | **Rivian** | [Design Autonomous-Vehicle Sensor Health and Diagnostics](https://www.fastprep.io/system-design/autonomous-vehicle-sensor-health-diagnostics) | [![Practice][p]](https://www.fastprep.io/system-design/autonomous-vehicle-sensor-health-diagnostics) | 🔥 Sep 02, 2026 |
 | **Salesforce / Replit / Sarvam AI / Microsoft / Gojek / Goldman Sachs / Amazon** | [Design an Event-Driven Notification System](https://www.fastprep.io/system-design/event-driven-notification-system) | [![Practice][p]](https://www.fastprep.io/system-design/event-driven-notification-system) | 🔥 Sep 02, 2026 |
+| **Atlassian / Abnormal Security** | [Audit a Service Architecture for Reliability](https://www.fastprep.io/system-design/architecture-observability-reliability-audit) | [![Practice][p]](https://www.fastprep.io/system-design/architecture-observability-reliability-audit) | 🔥 Sep 02, 2026 |
+| **Abnormal Security** | [Concurrent Worker Processing Platform](https://www.fastprep.io/system-design/concurrent-worker-processing-platform) | [![Practice][p]](https://www.fastprep.io/system-design/concurrent-worker-processing-platform) | 🔥 Sep 02, 2026 |
+| **Abnormal Security** | [Evolve a Read-Write Record Service](https://www.fastprep.io/system-design/read-write-service-scaling-review) | [![Practice][p]](https://www.fastprep.io/system-design/read-write-service-scaling-review) | 🔥 Sep 02, 2026 |
 | **DoorDash** | [Food Review System](https://www.fastprep.io/system-design/food-review-system) | [![Practice][p]](https://www.fastprep.io/system-design/food-review-system) | 🔥 Sep 01, 2026 |
 | **IMC** | [Design Heterogeneous Compute Workload Allocation](https://www.fastprep.io/system-design/heterogeneous-compute-workload-allocation) | [![Practice][p]](https://www.fastprep.io/system-design/heterogeneous-compute-workload-allocation) | 🔥 Sep 01, 2026 |
 | **Postman / Anduril / DigitalOcean / Oracle / Adobe / Uber Freight / Grab / Goldman Sachs** | [Design a URL Shortening Service](https://www.fastprep.io/system-design/url-shortening-service) | [![Practice][p]](https://www.fastprep.io/system-design/url-shortening-service) | 🔥 Aug 31, 2026 |
@@ -54,7 +57,6 @@
 | **OpenAI** | [Design an Online Chess Platform](https://www.fastprep.io/system-design/online-chess-platform) | [![Practice][p]](https://www.fastprep.io/system-design/online-chess-platform) | 🔥 Aug 25, 2026 |
 | **Netflix / Google** | [Design a Grounded Recommendation Chatbot](https://www.fastprep.io/system-design/grounded-recommendation-chatbot) | [![Practice][p]](https://www.fastprep.io/system-design/grounded-recommendation-chatbot) | 🔥 Aug 25, 2026 |
 | **Rippling / Apple / Oracle** | [Design a Centralized Log Ingestion and Search Platform](https://www.fastprep.io/system-design/centralized-log-ingestion-and-search) | [![Practice][p]](https://www.fastprep.io/system-design/centralized-log-ingestion-and-search) | 🔥 Aug 25, 2026 |
-| **Atlassian** | [Audit a Service Architecture for Reliability](https://www.fastprep.io/system-design/architecture-observability-reliability-audit) | [![Practice][p]](https://www.fastprep.io/system-design/architecture-observability-reliability-audit) | 🔥 Aug 25, 2026 |
 | **Tekion** | [Design a Continuous Table Merge into NoSQL](https://www.fastprep.io/system-design/continuous-table-merge-to-nosql) | [![Practice][p]](https://www.fastprep.io/system-design/continuous-table-merge-to-nosql) | 🔥 Aug 25, 2026 |
 | **LinkedIn** | [Design a High-Throughput Single-Node Key-Value Store](https://www.fastprep.io/system-design/high-throughput-single-node-key-value-store) | [![Practice][p]](https://www.fastprep.io/system-design/high-throughput-single-node-key-value-store) | 🔥 Aug 25, 2026 |
 | **Apple** | [Design a Multi-Version Configuration Service](https://www.fastprep.io/system-design/multi-version-configuration-service) | [![Practice][p]](https://www.fastprep.io/system-design/multi-version-configuration-service) | 🔥 Aug 25, 2026 |
