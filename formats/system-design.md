@@ -2,13 +2,15 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**258 questions**
+**259 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+| **OpenAI / The D. E. Shaw Group / Zoox / Salesforce** | [Design an Online Payment Processing System](https://www.fastprep.io/system-design/online-payment-processing-system) | [![Practice][p]](https://www.fastprep.io/system-design/online-payment-processing-system) | 🔥 Sep 02, 2026 |
 | **DoorDash** | [Food Review System](https://www.fastprep.io/system-design/food-review-system) | [![Practice][p]](https://www.fastprep.io/system-design/food-review-system) | 🔥 Sep 01, 2026 |
+| **IMC** | [Design Heterogeneous Compute Workload Allocation](https://www.fastprep.io/system-design/heterogeneous-compute-workload-allocation) | [![Practice][p]](https://www.fastprep.io/system-design/heterogeneous-compute-workload-allocation) | 🔥 Sep 01, 2026 |
 | **Postman / Anduril / DigitalOcean / Oracle / Adobe / Uber Freight / Grab / Goldman Sachs** | [Design a URL Shortening Service](https://www.fastprep.io/system-design/url-shortening-service) | [![Practice][p]](https://www.fastprep.io/system-design/url-shortening-service) | 🔥 Aug 31, 2026 |
 | **Salesforce / Replit / Sarvam AI / Microsoft / Gojek / Goldman Sachs** | [Design an Event-Driven Notification System](https://www.fastprep.io/system-design/event-driven-notification-system) | [![Practice][p]](https://www.fastprep.io/system-design/event-driven-notification-system) | 🔥 Aug 31, 2026 |
 | **Snowflake** | [Design an Interactive SQL Notebook](https://www.fastprep.io/system-design/interactive-sql-notebook) | [![Practice][p]](https://www.fastprep.io/system-design/interactive-sql-notebook) | 🔥 Aug 31, 2026 |
@@ -129,7 +131,6 @@
 | **Meta** | [Design a Multimodal Public-Content Safety Platform](https://www.fastprep.io/system-design/multimodal-public-content-safety-platform) | [![Practice][p]](https://www.fastprep.io/system-design/multimodal-public-content-safety-platform) | 🆕 Aug 13, 2026 |
 | **Databricks** | [Online Bookseller Platform](https://www.fastprep.io/system-design/online-bookseller-platform) | [![Practice][p]](https://www.fastprep.io/system-design/online-bookseller-platform) | 🆕 Aug 13, 2026 |
 | **Agoda** | [Resilient Hotel Search Frontend](https://www.fastprep.io/system-design/resilient-hotel-search-frontend) | [![Practice][p]](https://www.fastprep.io/system-design/resilient-hotel-search-frontend) | 🆕 Aug 13, 2026 |
-| **OpenAI / The D. E. Shaw Group / Zoox** | [Design an Online Payment Processing System](https://www.fastprep.io/system-design/online-payment-processing-system) | [![Practice][p]](https://www.fastprep.io/system-design/online-payment-processing-system) | 🆕 Aug 12, 2026 |
 | **Figma** | [Design Comments for a Collaborative Canvas](https://www.fastprep.io/system-design/collaborative-canvas-comments) | [![Practice][p]](https://www.fastprep.io/system-design/collaborative-canvas-comments) | 🆕 Aug 12, 2026 |
 | **Goldman Sachs** | [Design a Live-Stream Chat System](https://www.fastprep.io/system-design/live-stream-chat-system) | [![Practice][p]](https://www.fastprep.io/system-design/live-stream-chat-system) | 🆕 Aug 12, 2026 |
 | **Coinbase / Goldman Sachs** | [Design a Brokerage Order Processing System](https://www.fastprep.io/system-design/brokerage-order-processing-system) | [![Practice][p]](https://www.fastprep.io/system-design/brokerage-order-processing-system) | 🆕 Aug 12, 2026 |

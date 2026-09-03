@@ -2,12 +2,13 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**53 questions**
+**54 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+| **Google** | [Design a Bookshelf with Reading Progress](https://www.fastprep.io/low-level-design/bookshelf-reading-progress) | [![Practice][p]](https://www.fastprep.io/low-level-design/bookshelf-reading-progress) | 🔥 Sep 01, 2026 |
 | **Uber Freight** | [Design an In-Memory File System](https://www.fastprep.io/low-level-design/in-memory-file-system) | [![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-file-system) | 🔥 Aug 31, 2026 |
 | **OpenAI** | [Design a Multi-Channel Bot Notification Service](https://www.fastprep.io/low-level-design/multi-channel-bot-notification-service) | [![Practice][p]](https://www.fastprep.io/low-level-design/multi-channel-bot-notification-service) | 🔥 Aug 31, 2026 |
 | **Uber** | [Design and Implement Ride Dispatch and Trip Lifecycle](https://www.fastprep.io/low-level-design/ride-hailing-dispatch-and-trip-lifecycle) | [![Practice][p]](https://www.fastprep.io/low-level-design/ride-hailing-dispatch-and-trip-lifecycle) | 🔥 Aug 29, 2026 |
