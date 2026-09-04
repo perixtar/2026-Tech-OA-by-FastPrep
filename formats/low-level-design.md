@@ -2,12 +2,15 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**54 questions**
+**58 questions**
 
 [p]: ../assets/practice-button.svg
 
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
+| **SentinelOne** | [Design a Thread-Safe Queryable Logger Library](https://www.fastprep.io/low-level-design/thread-safe-queryable-logger-library) | [![Practice][p]](https://www.fastprep.io/low-level-design/thread-safe-queryable-logger-library) | 🔥 Sep 03, 2026 |
+| **SentinelOne** | [Design and Implement a Concurrent Web Crawler Library](https://www.fastprep.io/low-level-design/concurrent-web-crawler-library) | [![Practice][p]](https://www.fastprep.io/low-level-design/concurrent-web-crawler-library) | 🔥 Sep 03, 2026 |
+| **Amazon** | [Design and Implement a Train Route Fare Calculator](https://www.fastprep.io/low-level-design/train-route-fare-calculator) | [![Practice][p]](https://www.fastprep.io/low-level-design/train-route-fare-calculator) | 🔥 Sep 03, 2026 |
 | **Google** | [Design a Bookshelf with Reading Progress](https://www.fastprep.io/low-level-design/bookshelf-reading-progress) | [![Practice][p]](https://www.fastprep.io/low-level-design/bookshelf-reading-progress) | 🔥 Sep 01, 2026 |
 | **Uber Freight** | [Design an In-Memory File System](https://www.fastprep.io/low-level-design/in-memory-file-system) | [![Practice][p]](https://www.fastprep.io/low-level-design/in-memory-file-system) | 🔥 Aug 31, 2026 |
 | **OpenAI** | [Design a Multi-Channel Bot Notification Service](https://www.fastprep.io/low-level-design/multi-channel-bot-notification-service) | [![Practice][p]](https://www.fastprep.io/low-level-design/multi-channel-bot-notification-service) | 🔥 Aug 31, 2026 |
@@ -46,6 +49,7 @@
 | **Meta** | [Design and Implement an In-Memory Tally Service](https://www.fastprep.io/low-level-design/meta-tally-service) | [![Practice][p]](https://www.fastprep.io/low-level-design/meta-tally-service) | Jul 20, 2026 |
 | **Unattributed** | [Design and Implement a Pluggable Notification Rate Limiter](https://www.fastprep.io/low-level-design/pluggable-notification-rate-limiter) | [![Practice][p]](https://www.fastprep.io/low-level-design/pluggable-notification-rate-limiter) | Jul 18, 2026 |
 | **Adobe** | [Design Network-Backed Search Suggestions](https://www.fastprep.io/low-level-design/adobe-network-search-suggestions) | [![Practice][p]](https://www.fastprep.io/low-level-design/adobe-network-search-suggestions) | Jul 17, 2026 |
+| **Globalization Partners** | [Design and Repair a Thread-Safe Configuration Singleton](https://www.fastprep.io/low-level-design/thread-safe-configuration-singleton) | [![Practice][p]](https://www.fastprep.io/low-level-design/thread-safe-configuration-singleton) | Jun 23, 2026 |
 | **Goldman Sachs** | [Design a Brokerage Order Processing Domain](https://www.fastprep.io/low-level-design/brokerage-order-processing-domain) | [![Practice][p]](https://www.fastprep.io/low-level-design/brokerage-order-processing-domain) | Jun 21, 2026 |
 | **Anduril** | [Design and Implement a Doubly Linked List](https://www.fastprep.io/low-level-design/doubly-linked-list-object-design) | [![Practice][p]](https://www.fastprep.io/low-level-design/doubly-linked-list-object-design) | May 12, 2026 |
 | **Razorpay** | [Design and Implement an ATM Machine](https://www.fastprep.io/low-level-design/atm-machine-domain) | [![Practice][p]](https://www.fastprep.io/low-level-design/atm-machine-domain) | Feb 02, 2026 |
