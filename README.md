@@ -113,7 +113,7 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 <sub>Newest updates first &nbsp;·&nbsp; 🔥 added in the last 2 weeks &nbsp;·&nbsp; 🆕 in the last 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (1,768)](formats/coding.md) · [SQL (13)](formats/sql.md) · [System design (270)](formats/system-design.md) · [Low-level design (58)](formats/low-level-design.md) · [AI coding (31)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (1,768)](formats/coding.md) · [SQL (13)](formats/sql.md) · [System design (270)](formats/system-design.md) · [Low-level design (60)](formats/low-level-design.md) · [AI coding (31)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 <sub>System design, low-level design/OOD, and AI coding rows sync hourly from FastPrep's public, candidate-safe catalogs. <b>Updated</b> uses the latest reported sighting when available, otherwise the first public sync date. <b>Unattributed</b> means no source-backed employer was reported.</sub>
@@ -134,6 +134,7 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 | **SentinelOne** | [Design a Thread-Safe Queryable Logger Library](https://www.fastprep.io/low-level-design/thread-safe-queryable-logger-library) | Low-level design | [![Practice][p]](https://www.fastprep.io/low-level-design/thread-safe-queryable-logger-library) | 🔥 Sep 03, 2026 |
 | **SentinelOne** | [Design and Implement a Concurrent Web Crawler Library](https://www.fastprep.io/low-level-design/concurrent-web-crawler-library) | Low-level design | [![Practice][p]](https://www.fastprep.io/low-level-design/concurrent-web-crawler-library) | 🔥 Sep 03, 2026 |
 | **Amazon** | [Design and Implement a Train Route Fare Calculator](https://www.fastprep.io/low-level-design/train-route-fare-calculator) | Low-level design | [![Practice][p]](https://www.fastprep.io/low-level-design/train-route-fare-calculator) | 🔥 Sep 03, 2026 |
+| **Amazon** | [Design a Return Drop-Store Booking System](https://www.fastprep.io/low-level-design/return-drop-store-booking) | Low-level design | [![Practice][p]](https://www.fastprep.io/low-level-design/return-drop-store-booking) | 🔥 Sep 03, 2026 |
 | **Roblox** | [Rate Limiter Sliding Window With Per-Entity Limits](https://www.fastprep.io/problems/roblox-rate-limiter-sliding-window-per-entity) | Coding | [![Practice][p]](https://www.fastprep.io/problems/roblox-rate-limiter-sliding-window-per-entity) | 🔥 Sep 02, 2026 |
 | **Millennium** | [Clean the Tape](https://www.fastprep.io/problems/millennium-clean-the-tape) | SQL | [![Practice][p]](https://www.fastprep.io/problems/millennium-clean-the-tape) | 🔥 Sep 02, 2026 |
 | **Millennium** | [Measure Liquidity](https://www.fastprep.io/problems/millennium-measure-liquidity) | SQL | [![Practice][p]](https://www.fastprep.io/problems/millennium-measure-liquidity) | 🔥 Sep 02, 2026 |
@@ -960,6 +961,7 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 | **Microsoft** | [Programmer Strings](https://www.fastprep.io/problems/microsoft-programmer-strings) | Coding | [![Practice][p]](https://www.fastprep.io/problems/microsoft-programmer-strings) | Jun 24, 2026 |
 | **Microsoft** | [Minimum Round Trip Lengths](https://www.fastprep.io/problems/microsoft-minimum-round-trip-lengths) | Coding | [![Practice][p]](https://www.fastprep.io/problems/microsoft-minimum-round-trip-lengths) | Jun 24, 2026 |
 | **Globalization Partners** | [Design and Repair a Thread-Safe Configuration Singleton](https://www.fastprep.io/low-level-design/thread-safe-configuration-singleton) | Low-level design | [![Practice][p]](https://www.fastprep.io/low-level-design/thread-safe-configuration-singleton) | Jun 23, 2026 |
+| **Globalization Partners** | [Design an Extensible Role-Based Access Control System](https://www.fastprep.io/low-level-design/extensible-role-based-access-control) | Low-level design | [![Practice][p]](https://www.fastprep.io/low-level-design/extensible-role-based-access-control) | Jun 23, 2026 |
 | **Datadog** | [Design a Ticket-to-Pull-Request Coding Agent](https://www.fastprep.io/system-design/ticket-to-pull-request-coding-agent) | System design | [![Practice][p]](https://www.fastprep.io/system-design/ticket-to-pull-request-coding-agent) | Jun 22, 2026 |
 | **HSBC** | [Find ID of Soldier](https://www.fastprep.io/problems/hsbc-find-id-of-soldier) | Coding | [![Practice][p]](https://www.fastprep.io/problems/hsbc-find-id-of-soldier) | Jun 21, 2026 |
 | **HSBC** | [Find Most Frequently Purchased Products](https://www.fastprep.io/problems/hsbc-find-most-frequently-purchased-products) | Coding | [![Practice][p]](https://www.fastprep.io/problems/hsbc-find-most-frequently-purchased-products) | Jun 21, 2026 |
