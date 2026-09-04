@@ -113,7 +113,7 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 <sub>Newest updates first &nbsp;·&nbsp; 🔥 added in the last 2 weeks &nbsp;·&nbsp; 🆕 in the last 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (1,768)](formats/coding.md) · [SQL (13)](formats/sql.md) · [System design (263)](formats/system-design.md) · [Low-level design (54)](formats/low-level-design.md) · [AI coding (30)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (1,768)](formats/coding.md) · [SQL (13)](formats/sql.md) · [System design (264)](formats/system-design.md) · [Low-level design (54)](formats/low-level-design.md) · [AI coding (30)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 <sub>System design, low-level design/OOD, and AI coding rows sync hourly from FastPrep's public, candidate-safe catalogs. <b>Updated</b> uses the latest reported sighting when available, otherwise the first public sync date. <b>Unattributed</b> means no source-backed employer was reported.</sub>
@@ -446,7 +446,6 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 | **Databricks** | [Design an LLM Content Safety Service](https://www.fastprep.io/system-design/llm-content-safety-service) | System design | [![Practice][p]](https://www.fastprep.io/system-design/llm-content-safety-service) | 🆕 Aug 11, 2026 |
 | **Postman / Uber Freight** | [Design a Calendar Event Collaboration System](https://www.fastprep.io/system-design/calendar-event-collaboration-system) | System design | [![Practice][p]](https://www.fastprep.io/system-design/calendar-event-collaboration-system) | 🆕 Aug 11, 2026 |
 | **Microsoft** | [Design a Library Circulation System](https://www.fastprep.io/low-level-design/library-circulation-management) | Low-level design | [![Practice][p]](https://www.fastprep.io/low-level-design/library-circulation-management) | 🆕 Aug 11, 2026 |
-| **Google** | [Design a Real-Time Anomaly Detection Service](https://www.fastprep.io/system-design/real-time-anomaly-detection-service) | System design | [![Practice][p]](https://www.fastprep.io/system-design/real-time-anomaly-detection-service) | 🆕 Aug 10, 2026 |
 | **Amazon / Oracle** | [Design a Netflix-Style Streaming Platform](https://www.fastprep.io/system-design/netflix-streaming-platform) | System design | [![Practice][p]](https://www.fastprep.io/system-design/netflix-streaming-platform) | 🆕 Aug 10, 2026 |
 | **Uber** | [Design a Driver Review Leaderboard](https://www.fastprep.io/system-design/driver-review-leaderboard) | System design | [![Practice][p]](https://www.fastprep.io/system-design/driver-review-leaderboard) | 🆕 Aug 10, 2026 |
 | **Oracle** | [Design a Remote Browser Isolation Service](https://www.fastprep.io/system-design/remote-browser-isolation-service) | System design | [![Practice][p]](https://www.fastprep.io/system-design/remote-browser-isolation-service) | 🆕 Aug 10, 2026 |
@@ -1071,6 +1070,7 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 | **Amazon** | [Create Array Generator Service](https://www.fastprep.io/problems/2.amazon-create-array-generator-service) | Coding | [![Practice][p]](https://www.fastprep.io/problems/2.amazon-create-array-generator-service) | Apr 20, 2026 |
 | **Point72** | [Initial Public Offering](https://www.fastprep.io/problems/point72-initial-public-offering) | Coding | [![Practice][p]](https://www.fastprep.io/problems/point72-initial-public-offering) | Apr 19, 2026 |
 | **Amazon** | [Get Min Errors](https://www.fastprep.io/problems/amazon-get-min-errors) | Coding | [![Practice][p]](https://www.fastprep.io/problems/amazon-get-min-errors) | Apr 16, 2026 |
+| **Google / Datadog** | [Design a Real-Time Anomaly Detection Service](https://www.fastprep.io/system-design/real-time-anomaly-detection-service) | System design | [![Practice][p]](https://www.fastprep.io/system-design/real-time-anomaly-detection-service) | Apr 15, 2026 |
 | **Amazon** | [Maximum Score With Non-Adjacent Values](https://www.fastprep.io/problems/amazon-maximum-score-with-non-adjacent-values) | Coding | [![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-score-with-non-adjacent-values) | Apr 14, 2026 |
 | **Amazon** | [Make Value Groups Contiguous](https://www.fastprep.io/problems/amazon-make-value-groups-contiguous) | Coding | [![Practice][p]](https://www.fastprep.io/problems/amazon-make-value-groups-contiguous) | Apr 13, 2026 |
 | **Superhuman** | [Lost Messages](https://www.fastprep.io/problems/superhuman-lost-messages) | Coding | [![Practice][p]](https://www.fastprep.io/problems/superhuman-lost-messages) | Apr 10, 2026 |
@@ -1137,6 +1137,7 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 | **Toast** | [Maximum Stock Profit With Time Gap](https://www.fastprep.io/problems/toast-maximum-stock-profit-with-time-gap) | Coding | [![Practice][p]](https://www.fastprep.io/problems/toast-maximum-stock-profit-with-time-gap) | Jan 12, 2026 |
 | **Amazon** | [Longest Arithmetic Subarray After One Change](https://www.fastprep.io/problems/amazon-longest-arithmetic-subarray-after-one-change) | Coding | [![Practice][p]](https://www.fastprep.io/problems/amazon-longest-arithmetic-subarray-after-one-change) | Jan 06, 2026 |
 | **Amazon** | [Replace Values and Return Sums](https://www.fastprep.io/problems/amazon-replace-values-and-return-sums) | Coding | [![Practice][p]](https://www.fastprep.io/problems/amazon-replace-values-and-return-sums) | Jan 06, 2026 |
+| **Datadog** | [Design a Real-Time Collaborative Pixel Canvas](https://www.fastprep.io/system-design/real-time-collaborative-pixel-canvas) | System design | [![Practice][p]](https://www.fastprep.io/system-design/real-time-collaborative-pixel-canvas) | Jan 06, 2026 |
 | **Google** | [Count Divisible Coin Selections](https://www.fastprep.io/problems/google-count-divisible-coin-selections) | Coding | [![Practice][p]](https://www.fastprep.io/problems/google-count-divisible-coin-selections) | Dec 24, 2025 |
 | **Google** | [Minimum Town Sum Difference](https://www.fastprep.io/problems/google-minimum-town-sum-difference) | Coding | [![Practice][p]](https://www.fastprep.io/problems/google-minimum-town-sum-difference) | Dec 24, 2025 |
 | **Oracle** | [First Balanced Removal Index](https://www.fastprep.io/problems/oracle-first-balanced-removal-index) | Coding | [![Practice][p]](https://www.fastprep.io/problems/oracle-first-balanced-removal-index) | Dec 22, 2025 |

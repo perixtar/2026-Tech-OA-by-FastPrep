@@ -2,7 +2,7 @@
 
 [← Back to all questions](../README.md#question-bank)
 
-**263 questions**
+**264 questions**
 
 [p]: ../assets/practice-button.svg
 
@@ -148,7 +148,6 @@
 | **Apple** | [Design an Analytical Data Dashboard](https://www.fastprep.io/system-design/analytical-data-dashboard) | [![Practice][p]](https://www.fastprep.io/system-design/analytical-data-dashboard) | 🆕 Aug 11, 2026 |
 | **Databricks** | [Design an LLM Content Safety Service](https://www.fastprep.io/system-design/llm-content-safety-service) | [![Practice][p]](https://www.fastprep.io/system-design/llm-content-safety-service) | 🆕 Aug 11, 2026 |
 | **Postman / Uber Freight** | [Design a Calendar Event Collaboration System](https://www.fastprep.io/system-design/calendar-event-collaboration-system) | [![Practice][p]](https://www.fastprep.io/system-design/calendar-event-collaboration-system) | 🆕 Aug 11, 2026 |
-| **Google** | [Design a Real-Time Anomaly Detection Service](https://www.fastprep.io/system-design/real-time-anomaly-detection-service) | [![Practice][p]](https://www.fastprep.io/system-design/real-time-anomaly-detection-service) | 🆕 Aug 10, 2026 |
 | **Amazon / Oracle** | [Design a Netflix-Style Streaming Platform](https://www.fastprep.io/system-design/netflix-streaming-platform) | [![Practice][p]](https://www.fastprep.io/system-design/netflix-streaming-platform) | 🆕 Aug 10, 2026 |
 | **Uber** | [Design a Driver Review Leaderboard](https://www.fastprep.io/system-design/driver-review-leaderboard) | [![Practice][p]](https://www.fastprep.io/system-design/driver-review-leaderboard) | 🆕 Aug 10, 2026 |
 | **Oracle** | [Design a Remote Browser Isolation Service](https://www.fastprep.io/system-design/remote-browser-isolation-service) | [![Practice][p]](https://www.fastprep.io/system-design/remote-browser-isolation-service) | 🆕 Aug 10, 2026 |
@@ -250,8 +249,10 @@
 | **Zoox** | [Design a Robotaxi Teleoperations Analytics Platform](https://www.fastprep.io/system-design/robotaxi-teleoperations-analytics-platform) | [![Practice][p]](https://www.fastprep.io/system-design/robotaxi-teleoperations-analytics-platform) | Apr 26, 2026 |
 | **Discord** | [Design a Video Call Analytics Platform](https://www.fastprep.io/system-design/video-call-analytics-platform) | [![Practice][p]](https://www.fastprep.io/system-design/video-call-analytics-platform) | Apr 26, 2026 |
 | **Amazon** | [Design a Fastag Toll Payment System](https://www.fastprep.io/system-design/fastag-toll-payment-system) | [![Practice][p]](https://www.fastprep.io/system-design/fastag-toll-payment-system) | Apr 25, 2026 |
+| **Google / Datadog** | [Design a Real-Time Anomaly Detection Service](https://www.fastprep.io/system-design/real-time-anomaly-detection-service) | [![Practice][p]](https://www.fastprep.io/system-design/real-time-anomaly-detection-service) | Apr 15, 2026 |
 | **Cohere** | [Enterprise Research Assistant](https://www.fastprep.io/system-design/enterprise-research-assistant) | [![Practice][p]](https://www.fastprep.io/system-design/enterprise-research-assistant) | Apr 01, 2026 |
 | **Autodesk** | [Design a Rapid Grocery Ordering Platform](https://www.fastprep.io/system-design/rapid-grocery-ordering-platform) | [![Practice][p]](https://www.fastprep.io/system-design/rapid-grocery-ordering-platform) | Mar 18, 2026 |
+| **Datadog** | [Design a Real-Time Collaborative Pixel Canvas](https://www.fastprep.io/system-design/real-time-collaborative-pixel-canvas) | [![Practice][p]](https://www.fastprep.io/system-design/real-time-collaborative-pixel-canvas) | Jan 06, 2026 |
 | **Sierra** | [Design a Resumable Streaming AI Chat](https://www.fastprep.io/system-design/resumable-streaming-ai-chat) | [![Practice][p]](https://www.fastprep.io/system-design/resumable-streaming-ai-chat) | Nov 24, 2025 |
 | **Splunk** | [Activity Playlist Streaming Service](https://www.fastprep.io/system-design/activity-playlist-streaming-service) | [![Practice][p]](https://www.fastprep.io/system-design/activity-playlist-streaming-service) | Aug 13, 2025 |
 | **Splunk** | [Cost-Aware Interactive Content Delivery](https://www.fastprep.io/system-design/cost-aware-interactive-content-delivery) | [![Practice][p]](https://www.fastprep.io/system-design/cost-aware-interactive-content-delivery) | Aug 13, 2025 |
