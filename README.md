@@ -113,7 +113,7 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 <sub>Newest updates first &nbsp;·&nbsp; 🔥 added in the last 2 weeks &nbsp;·&nbsp; 🆕 in the last 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (1,768)](formats/coding.md) · [SQL (13)](formats/sql.md) · [System design (265)](formats/system-design.md) · [Low-level design (54)](formats/low-level-design.md) · [AI coding (30)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (1,768)](formats/coding.md) · [SQL (13)](formats/sql.md) · [System design (265)](formats/system-design.md) · [Low-level design (54)](formats/low-level-design.md) · [AI coding (31)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 <sub>System design, low-level design/OOD, and AI coding rows sync hourly from FastPrep's public, candidate-safe catalogs. <b>Updated</b> uses the latest reported sighting when available, otherwise the first public sync date. <b>Unattributed</b> means no source-backed employer was reported.</sub>
@@ -142,6 +142,7 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 | **Atlassian / Abnormal Security** | [Audit a Service Architecture for Reliability](https://www.fastprep.io/system-design/architecture-observability-reliability-audit) | System design | [![Practice][p]](https://www.fastprep.io/system-design/architecture-observability-reliability-audit) | 🔥 Sep 02, 2026 |
 | **Abnormal Security** | [Concurrent Worker Processing Platform](https://www.fastprep.io/system-design/concurrent-worker-processing-platform) | System design | [![Practice][p]](https://www.fastprep.io/system-design/concurrent-worker-processing-platform) | 🔥 Sep 02, 2026 |
 | **Abnormal Security** | [Evolve a Read-Write Record Service](https://www.fastprep.io/system-design/read-write-service-scaling-review) | System design | [![Practice][p]](https://www.fastprep.io/system-design/read-write-service-scaling-review) | 🔥 Sep 02, 2026 |
+| **Amazon** | [Repair MovieDB Follows and Notifications](https://www.fastprep.io/project-coding/amazon-repair-moviedb-follows-notifications) | AI coding | [![Practice][p]](https://www.fastprep.io/project-coding/amazon-repair-moviedb-follows-notifications) | 🔥 Sep 02, 2026 |
 | **DoorDash** | [Food Review System](https://www.fastprep.io/system-design/food-review-system) | System design | [![Practice][p]](https://www.fastprep.io/system-design/food-review-system) | 🔥 Sep 01, 2026 |
 | **Amazon / Goldman Sachs** | [Repair recurring payments in the Wallet backend](https://www.fastprep.io/project-coding/repair-recurring-wallet-payments) | AI coding | [![Practice][p]](https://www.fastprep.io/project-coding/repair-recurring-wallet-payments) | 🔥 Sep 01, 2026 |
 | **Goldman Sachs** | [Maximize Element Frequency](https://www.fastprep.io/problems/goldman-sachs-maximize-element-frequency) | Coding | [![Practice][p]](https://www.fastprep.io/problems/goldman-sachs-maximize-element-frequency) | 🔥 Sep 01, 2026 |
