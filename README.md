@@ -113,7 +113,7 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 <sub>Newest updates first &nbsp;·&nbsp; 🔥 added in the last 2 weeks &nbsp;·&nbsp; 🆕 in the last 45 days</sub>
 
 <!-- format-links:start -->
-<sub><b>Formats:</b> [Coding (1,768)](formats/coding.md) · [SQL (13)](formats/sql.md) · [System design (264)](formats/system-design.md) · [Low-level design (54)](formats/low-level-design.md) · [AI coding (30)](formats/ai-coding.md)</sub>
+<sub><b>Formats:</b> [Coding (1,768)](formats/coding.md) · [SQL (13)](formats/sql.md) · [System design (265)](formats/system-design.md) · [Low-level design (54)](formats/low-level-design.md) · [AI coding (30)](formats/ai-coding.md)</sub>
 <!-- format-links:end -->
 
 <sub>System design, low-level design/OOD, and AI coding rows sync hourly from FastPrep's public, candidate-safe catalogs. <b>Updated</b> uses the latest reported sighting when available, otherwise the first public sync date. <b>Unattributed</b> means no source-backed employer was reported.</sub>
@@ -950,6 +950,7 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 | **Snowflake** | [Generating Login Codes](https://www.fastprep.io/problems/snowflake-generating-login-codes) | Coding | [![Practice][p]](https://www.fastprep.io/problems/snowflake-generating-login-codes) | Jun 24, 2026 |
 | **Microsoft** | [Programmer Strings](https://www.fastprep.io/problems/microsoft-programmer-strings) | Coding | [![Practice][p]](https://www.fastprep.io/problems/microsoft-programmer-strings) | Jun 24, 2026 |
 | **Microsoft** | [Minimum Round Trip Lengths](https://www.fastprep.io/problems/microsoft-minimum-round-trip-lengths) | Coding | [![Practice][p]](https://www.fastprep.io/problems/microsoft-minimum-round-trip-lengths) | Jun 24, 2026 |
+| **Datadog** | [Design a Ticket-to-Pull-Request Coding Agent](https://www.fastprep.io/system-design/ticket-to-pull-request-coding-agent) | System design | [![Practice][p]](https://www.fastprep.io/system-design/ticket-to-pull-request-coding-agent) | Jun 22, 2026 |
 | **HSBC** | [Find ID of Soldier](https://www.fastprep.io/problems/hsbc-find-id-of-soldier) | Coding | [![Practice][p]](https://www.fastprep.io/problems/hsbc-find-id-of-soldier) | Jun 21, 2026 |
 | **HSBC** | [Find Most Frequently Purchased Products](https://www.fastprep.io/problems/hsbc-find-most-frequently-purchased-products) | Coding | [![Practice][p]](https://www.fastprep.io/problems/hsbc-find-most-frequently-purchased-products) | Jun 21, 2026 |
 | **Goldman Sachs** | [Design a Brokerage Order Processing Domain](https://www.fastprep.io/low-level-design/brokerage-order-processing-domain) | Low-level design | [![Practice][p]](https://www.fastprep.io/low-level-design/brokerage-order-processing-domain) | Jun 21, 2026 |
