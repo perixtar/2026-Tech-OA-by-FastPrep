@@ -9,6 +9,7 @@
 | Company | OA / Interview Question | Practice | Updated |
 | :-- | :-- | :-: | :-- |
 | **OnePay / Razorpay / infosys** | [Durable Messaging Chat System](https://www.fastprep.io/system-design/durable-messaging-chat-system) | [![Practice][p]](https://www.fastprep.io/system-design/durable-messaging-chat-system) | 🔥 Sep 03, 2026 |
+| **Cursor / Amazon** | [Design a Versioned IDE Settings Sync System](https://www.fastprep.io/system-design/versioned-ide-settings-sync) | [![Practice][p]](https://www.fastprep.io/system-design/versioned-ide-settings-sync) | 🔥 Sep 03, 2026 |
 | **OpenAI / The D. E. Shaw Group / Zoox / Salesforce** | [Design an Online Payment Processing System](https://www.fastprep.io/system-design/online-payment-processing-system) | [![Practice][p]](https://www.fastprep.io/system-design/online-payment-processing-system) | 🔥 Sep 02, 2026 |
 | **Rivian** | [Design Autonomous-Vehicle Sensor Health and Diagnostics](https://www.fastprep.io/system-design/autonomous-vehicle-sensor-health-diagnostics) | [![Practice][p]](https://www.fastprep.io/system-design/autonomous-vehicle-sensor-health-diagnostics) | 🔥 Sep 02, 2026 |
 | **Salesforce / Replit / Sarvam AI / Microsoft / Gojek / Goldman Sachs / Amazon** | [Design an Event-Driven Notification System](https://www.fastprep.io/system-design/event-driven-notification-system) | [![Practice][p]](https://www.fastprep.io/system-design/event-driven-notification-system) | 🔥 Sep 02, 2026 |
@@ -217,7 +218,6 @@
 | **Capillary Technologies** | [Design a Loyalty-Data Insight Platform](https://www.fastprep.io/system-design/loyalty-data-insight-platform) | [![Practice][p]](https://www.fastprep.io/system-design/loyalty-data-insight-platform) | 🆕 Jul 24, 2026 |
 | **OnePay** | [Design a Community Chat Platform](https://www.fastprep.io/system-design/community-chat-platform) | [![Practice][p]](https://www.fastprep.io/system-design/community-chat-platform) | 🆕 Jul 23, 2026 |
 | **Roblox** | [Design a Like/Unlike Service](https://www.fastprep.io/system-design/like-unlike-service) | [![Practice][p]](https://www.fastprep.io/system-design/like-unlike-service) | 🆕 Jul 23, 2026 |
-| **Cursor** | [Design a Versioned IDE Settings Sync System](https://www.fastprep.io/system-design/versioned-ide-settings-sync) | [![Practice][p]](https://www.fastprep.io/system-design/versioned-ide-settings-sync) | 🆕 Jul 23, 2026 |
 | **Amazon / Goldman Sachs** | [Design a Financial Portfolio Dashboard](https://www.fastprep.io/system-design/financial-portfolio-dashboard) | [![Practice][p]](https://www.fastprep.io/system-design/financial-portfolio-dashboard) | 🆕 Jul 22, 2026 |
 | **Databricks** | [Design a Chat Application with Message and Thread Deletion](https://www.fastprep.io/system-design/chat-message-and-thread-deletion) | [![Practice][p]](https://www.fastprep.io/system-design/chat-message-and-thread-deletion) | 🆕 Jul 22, 2026 |
 | **Amazon** | [Design a Distributed Recurring Workflow Scheduler](https://www.fastprep.io/system-design/distributed-recurring-workflow-scheduler) | [![Practice][p]](https://www.fastprep.io/system-design/distributed-recurring-workflow-scheduler) | 🆕 Jul 21, 2026 |

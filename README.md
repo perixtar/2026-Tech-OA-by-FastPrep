@@ -123,6 +123,7 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
 | **OnePay / Razorpay / infosys** | [Durable Messaging Chat System](https://www.fastprep.io/system-design/durable-messaging-chat-system) | System design | [![Practice][p]](https://www.fastprep.io/system-design/durable-messaging-chat-system) | 🔥 Sep 03, 2026 |
+| **Cursor / Amazon** | [Design a Versioned IDE Settings Sync System](https://www.fastprep.io/system-design/versioned-ide-settings-sync) | System design | [![Practice][p]](https://www.fastprep.io/system-design/versioned-ide-settings-sync) | 🔥 Sep 03, 2026 |
 | **Roblox** | [Rate Limiter Sliding Window With Per-Entity Limits](https://www.fastprep.io/problems/roblox-rate-limiter-sliding-window-per-entity) | Coding | [![Practice][p]](https://www.fastprep.io/problems/roblox-rate-limiter-sliding-window-per-entity) | 🔥 Sep 02, 2026 |
 | **Millennium** | [Clean the Tape](https://www.fastprep.io/problems/millennium-clean-the-tape) | SQL | [![Practice][p]](https://www.fastprep.io/problems/millennium-clean-the-tape) | 🔥 Sep 02, 2026 |
 | **Millennium** | [Measure Liquidity](https://www.fastprep.io/problems/millennium-measure-liquidity) | SQL | [![Practice][p]](https://www.fastprep.io/problems/millennium-measure-liquidity) | 🔥 Sep 02, 2026 |
@@ -684,7 +685,6 @@ Please keep it source-safe — no confidential screenshots or full proprietary s
 | **Visa** | [Sum of Index-Ordered Pair Differences](https://www.fastprep.io/problems/visa-sum-of-index-pair-differences) | Coding | [![Practice][p]](https://www.fastprep.io/problems/visa-sum-of-index-pair-differences) | 🆕 Jul 23, 2026 |
 | **OnePay** | [Design a Community Chat Platform](https://www.fastprep.io/system-design/community-chat-platform) | System design | [![Practice][p]](https://www.fastprep.io/system-design/community-chat-platform) | 🆕 Jul 23, 2026 |
 | **Roblox** | [Design a Like/Unlike Service](https://www.fastprep.io/system-design/like-unlike-service) | System design | [![Practice][p]](https://www.fastprep.io/system-design/like-unlike-service) | 🆕 Jul 23, 2026 |
-| **Cursor** | [Design a Versioned IDE Settings Sync System](https://www.fastprep.io/system-design/versioned-ide-settings-sync) | System design | [![Practice][p]](https://www.fastprep.io/system-design/versioned-ide-settings-sync) | 🆕 Jul 23, 2026 |
 | **Bloomberg** | [Word Break II](https://www.fastprep.io/problems/bloomberg-word-break-ii) | Coding | [![Practice][p]](https://www.fastprep.io/problems/bloomberg-word-break-ii) | 🆕 Jul 22, 2026 |
 | **Microsoft** | [Binary String Swap Time](https://www.fastprep.io/problems/microsoft-binary-string-swap-time) | Coding | [![Practice][p]](https://www.fastprep.io/problems/microsoft-binary-string-swap-time) | 🆕 Jul 22, 2026 |
 | **Microsoft** | [Minimum Effort Task Schedule](https://www.fastprep.io/problems/microsoft-minimum-effort-task-schedule) | Coding | [![Practice][p]](https://www.fastprep.io/problems/microsoft-minimum-effort-task-schedule) | 🆕 Jul 22, 2026 |
