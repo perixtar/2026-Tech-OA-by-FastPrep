@@ -41,6 +41,7 @@ Share questions through the [OA template](https://github.com/perixtar/2026-Tech-
 
 | Company | OA / Interview Question | Format | Practice | Updated |
 | :-- | :-- | :-- | :-: | :-- |
+| **Amazon** | [Maximum System Memory Capacity](https://www.fastprep.io/problems/amazon-maximum-capacity) | Coding | [![Practice][p]](https://www.fastprep.io/problems/amazon-maximum-capacity) | 🔥 Sep 05, 2026 |
 | **Capital One** |[Count Digits 0, 2, and 4](https://www.fastprep.io/problems/capital-one-count-digits-0-2-4)| Coding |[![Practice][p]](https://www.fastprep.io/problems/capital-one-count-digits-0-2-4)| 🔥 Sep 05, 2026 |
 | **Capital One** |[Inventory Discount Tracker](https://www.fastprep.io/problems/capital-one-inventory-discount-tracker)| Coding |[![Practice][p]](https://www.fastprep.io/problems/capital-one-inventory-discount-tracker)| 🔥 Sep 05, 2026 |
 | **Capital One** |[Count Alternating Tile Groups](https://www.fastprep.io/problems/capital-one-count-alternating-tile-groups)| Coding |[![Practice][p]](https://www.fastprep.io/problems/capital-one-count-alternating-tile-groups)| 🔥 Sep 05, 2026 |
@@ -1068,7 +1069,6 @@ Share questions through the [OA template](https://github.com/perixtar/2026-Tech-
 | **Amazon** |[Sum Max Plus Min After Decrement Operations](https://www.fastprep.io/problems/amazon-sum-max-plus-min-after-decrement-operations)| Coding |[![Practice][p]](https://www.fastprep.io/problems/amazon-sum-max-plus-min-after-decrement-operations)| Mar 25, 2026 |
 | **Uber** |[Minimum Plate Collection Time](https://www.fastprep.io/problems/uber-minimum-plate-collection-time)| Coding |[![Practice][p]](https://www.fastprep.io/problems/uber-minimum-plate-collection-time)| Mar 25, 2026 |
 | **Blackrock** |[Process Scheduling](https://www.fastprep.io/problems/blackrock-process-scheduling)| Coding |[![Practice][p]](https://www.fastprep.io/problems/blackrock-process-scheduling)| Mar 25, 2026 |
-| **Amazon** |[Make Power Non Decreasing](https://www.fastprep.io/problems/1.amazon-make-power-non-decreasing)| Coding |[![Practice][p]](https://www.fastprep.io/problems/1.amazon-make-power-non-decreasing)| Mar 24, 2026 |
 | **Amazon** |[Sort Error Codes by Frequency](https://www.fastprep.io/problems/amazon-sort-error-codes-by-frequency)| Coding |[![Practice][p]](https://www.fastprep.io/problems/amazon-sort-error-codes-by-frequency)| Mar 24, 2026 |
 | **Optiver** |[Days Between](https://www.fastprep.io/problems/optiver-days-between)| Coding |[![Practice][p]](https://www.fastprep.io/problems/optiver-days-between)| Mar 24, 2026 |
 | **DRW** |[Simplified Tetris Engine](https://www.fastprep.io/problems/drw-simplified-tetris-engine)| Coding |[![Practice][p]](https://www.fastprep.io/problems/drw-simplified-tetris-engine)| Mar 23, 2026 |
